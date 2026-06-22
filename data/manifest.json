@@ -3,14 +3,6 @@
   "generatedAt": "2026-06-22",
   "libraries": [
     {
-      "id": "winsor-newton",
-      "title": "Winsor & Newton",
-      "desc": "Oil & Acrylic Colours",
-      "version": 1,
-      "colorCount": 303,
-      "file": "winsor-newton.json"
-    },
-    {
       "id": "tamiya",
       "title": "Tamiya",
       "desc": "X, XF, TS, AS, PS, LP",
@@ -57,6 +49,14 @@
       "version": 1,
       "colorCount": 337,
       "file": "testors.json"
+    },
+    {
+      "id": "winsor-newton",
+      "title": "Winsor & Newton",
+      "desc": "Oil & Acrylic Colours",
+      "version": 1,
+      "colorCount": 303,
+      "file": "winsor-newton.json"
     }
   ]
 }
