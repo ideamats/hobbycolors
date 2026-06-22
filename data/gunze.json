@@ -1,0 +1,2710 @@
+{
+  "schemaVersion": 1,
+  "id": "gunze",
+  "title": "Gunze",
+  "desc": "Mr. Color, Hobby Color, Acrysion",
+  "version": 1,
+  "brand": "Mr. Color",
+  "groups": [
+    {
+      "name": "Hobby Color",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "H1",
+          "name": "White Gloss",
+          "rgb": "FFFFFF",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H2",
+          "name": "Black Gloss",
+          "rgb": "000000",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H3",
+          "name": "Red Gloss",
+          "rgb": "E60013",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H4",
+          "name": "Yellow Gloss",
+          "rgb": "FFE100",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H5",
+          "name": "Blue Gloss",
+          "rgb": "004EA2",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H6",
+          "name": "Green Gloss",
+          "rgb": "008D46",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H7",
+          "name": "Brown Gloss",
+          "rgb": "CA3929",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H8",
+          "name": "Silver Metallic",
+          "rgb": "DCDDDD",
+          "brand": "Hobby Color",
+          "refl": "Metallic"
+        },
+        {
+          "code": "H9",
+          "name": "Gold Metallic",
+          "rgb": "DFB512",
+          "brand": "Hobby Color",
+          "refl": "Metallic"
+        },
+        {
+          "code": "H10",
+          "name": "Copper Metallic",
+          "rgb": "CE722A",
+          "brand": "Hobby Color",
+          "refl": "Metallic"
+        },
+        {
+          "code": "H11",
+          "name": "White Flat",
+          "rgb": "FFFFFF",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H12",
+          "name": "Black Flat",
+          "rgb": "000000",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H13",
+          "name": "Red Flat",
+          "rgb": "D70D19",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H14",
+          "name": "Orange Gloss",
+          "rgb": "E8320E",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H15",
+          "name": "Bright Blue Gloss",
+          "rgb": "014099",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H16",
+          "name": "Yellow Green Gloss",
+          "rgb": "1D9E3B",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H17",
+          "name": "Cocoa Brown Gloss",
+          "rgb": "552E32",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H18",
+          "name": "Steel Metallic",
+          "rgb": "696969",
+          "brand": "Hobby Color",
+          "refl": "Metallic"
+        },
+        {
+          "code": "H19",
+          "name": "Pink Gloss",
+          "rgb": "EB6E95",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H20",
+          "name": "Clear Flat",
+          "rgb": "FFFFFF",
+          "brand": "Hobby Color",
+          "smooth": 0.0,
+          "alpha": 0.5
+        },
+        {
+          "code": "H21",
+          "name": "Off White Gloss",
+          "rgb": "F8F7F3",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H22",
+          "name": "Gray Gloss",
+          "rgb": "556672",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H23",
+          "name": "Bright Red Gloss",
+          "rgb": "E60013",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H24",
+          "name": "Yellow Orange Gloss",
+          "rgb": "EE7700",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H25",
+          "name": "Sky Blue Gloss",
+          "rgb": "008CD6",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H26",
+          "name": "Bright Green Gloss",
+          "rgb": "009944",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H27",
+          "name": "Tan Gloss",
+          "rgb": "C9A965",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H28",
+          "name": "Metal Black Metallic",
+          "rgb": "000000",
+          "brand": "Hobby Color",
+          "refl": "Metallic"
+        },
+        {
+          "code": "H29",
+          "name": "Salmon Pink Gloss",
+          "rgb": "EA5442",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H30",
+          "name": "Clear Gloss",
+          "rgb": "FFFFFF",
+          "brand": "Hobby Color",
+          "alpha": 0.5
+        },
+        {
+          "code": "H31",
+          "name": "White Green Gloss",
+          "rgb": "EBF4EB",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H32",
+          "name": "Field Grey 1 Gloss",
+          "rgb": "113C41",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H33",
+          "name": "Rust Brown Gloss",
+          "rgb": "81292D",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H34",
+          "name": "Cream Yellow Gloss",
+          "rgb": "E5A600",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H35",
+          "name": "Cobalt Blue Gloss",
+          "rgb": "1D2088",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H36",
+          "name": "Dark Green Gloss",
+          "rgb": "304936",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H37",
+          "name": "Wood Brown Gloss",
+          "rgb": "6A4B31",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H38",
+          "name": "Steel Red Metallic",
+          "rgb": "3B3039",
+          "brand": "Hobby Color",
+          "refl": "Metallic"
+        },
+        {
+          "code": "H39",
+          "name": "Purple Gloss",
+          "rgb": "3C2280",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H40",
+          "name": "Base Flat",
+          "rgb": "FFFFFF",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H41",
+          "name": "Pale Green Gloss",
+          "rgb": "A3D6C0",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H42",
+          "name": "Blue Gray Gloss",
+          "rgb": "2B6A8B",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H43",
+          "name": "Wine Red Gloss",
+          "rgb": "C9161E",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H44",
+          "name": "Flesh Semi-gloss",
+          "rgb": "E6B378",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H45",
+          "name": "Light Blue Gloss",
+          "rgb": "1EB9EE",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H46",
+          "name": "Emerald Green Gloss",
+          "rgb": "00A051",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H47",
+          "name": "Red Brown Gloss",
+          "rgb": "6C2C30",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H48",
+          "name": "Field Gray Gloss",
+          "rgb": "2A4E49",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H49",
+          "name": "Violet Gloss",
+          "rgb": "7484C1",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H50",
+          "name": "Lime Green Gloss",
+          "rgb": "91B671",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H51",
+          "name": "Light Gull Gray Gloss",
+          "rgb": "BDC3C4",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H52",
+          "name": "Olive Drab 1 Semi-gloss",
+          "rgb": "6A5D28",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H53",
+          "name": "Neutral Gray Gloss",
+          "rgb": "556672",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H54",
+          "name": "Navy Blue Semi-gloss",
+          "rgb": "054753",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H55",
+          "name": "Midnight Blue Gloss",
+          "rgb": "000000",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H56",
+          "name": "Intermediate Blue Semi-gloss",
+          "rgb": "164D59",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H57",
+          "name": "Aircraft Gray Gloss",
+          "rgb": "729A96",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H58",
+          "name": "Interior Green Semi-gloss",
+          "rgb": "B7A812",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H59",
+          "name": "IJN Green Gloss",
+          "rgb": "00391F",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H60",
+          "name": "IJA Green Semi-gloss",
+          "rgb": "00533A",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H61",
+          "name": "IJN Gray Gloss",
+          "rgb": "738E97",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H62",
+          "name": "IJA Gray Semi-gloss",
+          "rgb": "85A092",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H63",
+          "name": "Blue Green Metallic",
+          "rgb": "005E5B",
+          "brand": "Hobby Color",
+          "refl": "Metallic"
+        },
+        {
+          "code": "H64",
+          "name": "RLM71 Dark Green Semi-gloss",
+          "rgb": "3A4139",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H65",
+          "name": "RLM70 Black Green Semi-gloss",
+          "rgb": "1F3134",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H66",
+          "name": "RLM79 Sandy Brown Semi-gloss",
+          "rgb": "AA8546",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H67",
+          "name": "RLM65 Light Blue Semi-gloss",
+          "rgb": "7DB3BD",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H68",
+          "name": "RLM74 Dark Gray Semi-gloss",
+          "rgb": "4C4949",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H69",
+          "name": "RLM75 Gray Semi-gloss",
+          "rgb": "666565",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H70",
+          "name": "RLM02 Gray Semi-gloss",
+          "rgb": "898669",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H71",
+          "name": "Middle Stone Semi-gloss",
+          "rgb": "B39242",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H72",
+          "name": "Dark Earth Semi-gloss",
+          "rgb": "8A7744",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H73",
+          "name": "Dark Green Semi-gloss",
+          "rgb": "405D48",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H74",
+          "name": "Sky Semi-gloss",
+          "rgb": "D6E0AC",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H75",
+          "name": "Dark Seagray Semi-gloss",
+          "rgb": "718168",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H76",
+          "name": "Burnt Iron Metallic",
+          "rgb": "888083",
+          "brand": "Hobby Color",
+          "refl": "Metallic"
+        },
+        {
+          "code": "H77",
+          "name": "Tire Black Flat",
+          "rgb": "000000",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H78",
+          "name": "Olive Drab 2 Semi-gloss",
+          "rgb": "304936",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H79",
+          "name": "Sandy Yellow Semi-gloss",
+          "rgb": "BF9D5B",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H80",
+          "name": "Khaki Green Flat",
+          "rgb": "064738",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H81",
+          "name": "Khaki Flat",
+          "rgb": "685A32",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H82",
+          "name": "Dark Gray 1 Semi-gloss",
+          "rgb": "9F9F9A",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H83",
+          "name": "Dark Gray 2 Semi-gloss",
+          "rgb": "72716D",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H84",
+          "name": "Mahogany Semi-gloss",
+          "rgb": "3B3033",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H85",
+          "name": "Sail Color Flat",
+          "rgb": "BFB780",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H86",
+          "name": "Madder Red Gloss",
+          "rgb": "D70D19",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H87",
+          "name": "Red Metallic",
+          "rgb": "A7394B",
+          "brand": "Hobby Color",
+          "refl": "Metallic"
+        },
+        {
+          "code": "H88",
+          "name": "Blue Metallic",
+          "rgb": "004F99",
+          "brand": "Hobby Color",
+          "refl": "Metallic"
+        },
+        {
+          "code": "H89",
+          "name": "Green Metallic",
+          "rgb": "00895E",
+          "brand": "Hobby Color",
+          "refl": "Metallic"
+        },
+        {
+          "code": "H90",
+          "name": "Clear Red Gloss",
+          "rgb": "E60013",
+          "brand": "Hobby Color",
+          "alpha": 0.5
+        },
+        {
+          "code": "H91",
+          "name": "Clear Yellow Gloss",
+          "rgb": "FED900",
+          "brand": "Hobby Color",
+          "alpha": 0.5
+        },
+        {
+          "code": "H92",
+          "name": "Clear Orange Gloss",
+          "rgb": "EB6101",
+          "brand": "Hobby Color",
+          "alpha": 0.5
+        },
+        {
+          "code": "H93",
+          "name": "Clear Blue Gloss",
+          "rgb": "00A1E9",
+          "brand": "Hobby Color",
+          "alpha": 0.5
+        },
+        {
+          "code": "H94",
+          "name": "Clear Green Gloss",
+          "rgb": "009944",
+          "brand": "Hobby Color",
+          "alpha": 0.5
+        },
+        {
+          "code": "H95",
+          "name": "Smoke Gray Gloss",
+          "rgb": "75675F",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H96",
+          "name": "Smoke Blue Gloss",
+          "rgb": "D3EDFB",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H97",
+          "name": "Fluorescent Yellow Gloss",
+          "rgb": "FFF505",
+          "brand": "Hobby Color",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "H98",
+          "name": "Fluorescent Orange Gloss",
+          "rgb": "F03E00",
+          "brand": "Hobby Color",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "H99",
+          "name": "Fluorescent Pink Gloss",
+          "rgb": "F2037A",
+          "brand": "Hobby Color",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "H100",
+          "name": "Fluorescent Green Gloss",
+          "rgb": "6DAF45",
+          "brand": "Hobby Color",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "H301",
+          "name": "Gray FS36081 Semi-gloss",
+          "rgb": "243C45",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H302",
+          "name": "Green FS34092 Semi-gloss",
+          "rgb": "255450",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H303",
+          "name": "Green FS34102 Semi-gloss",
+          "rgb": "475D51",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H304",
+          "name": "Olive Drab FS34087 Semi-gloss",
+          "rgb": "373C35",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H305",
+          "name": "Gray FS36118 Semi-gloss",
+          "rgb": "4A5460",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H306",
+          "name": "Gray FS36270 Semi-gloss",
+          "rgb": "688887",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H307",
+          "name": "Gray FS36320 Semi-gloss",
+          "rgb": "67888F",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H308",
+          "name": "Gray FS36375 Semi-gloss",
+          "rgb": "819E9F",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H309",
+          "name": "Green FS34079 Semi-gloss",
+          "rgb": "255450",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H310",
+          "name": "Brown FS30219 Semi-gloss",
+          "rgb": "72624E",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H311",
+          "name": "Gray FS36622 Semi-gloss",
+          "rgb": "EAEBD5",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H312",
+          "name": "Green FS34227 Semi-gloss",
+          "rgb": "29845D",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H313",
+          "name": "Yellow FS33531 Semi-gloss",
+          "rgb": "E8C589",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H314",
+          "name": "Blue FS35622 Semi-gloss",
+          "rgb": "EBF4EB",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H315",
+          "name": "Gray FS16440 Gloss",
+          "rgb": "99ADA4",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H316",
+          "name": "White FS17875 Gloss",
+          "rgb": "FFFFFF",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H317",
+          "name": "Gray FS36231 Flat",
+          "rgb": "6D786A",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H318",
+          "name": "Radome Flat",
+          "rgb": "FCD68C",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H319",
+          "name": "Light Green Semi-gloss",
+          "rgb": "0F6D58",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H320",
+          "name": "Dark Green Semi-gloss",
+          "rgb": "3A5645",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H321",
+          "name": "Light Brown Semi-gloss",
+          "rgb": "B4926A",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H322",
+          "name": "Phithalo Cyanine Blue Gloss",
+          "rgb": "173551",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H323",
+          "name": "Light Blue Gloss",
+          "rgb": "00B0EC",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H324",
+          "name": "Light Gray Flat",
+          "rgb": "8CA9A3",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H325",
+          "name": "Gray FS26440 Semi-gloss",
+          "rgb": "A6B1A4",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H326",
+          "name": "Blue FS15044 Gloss",
+          "rgb": "1E3046",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H327",
+          "name": "Red FS11136 Gloss",
+          "rgb": "9E2428",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H328",
+          "name": "Blue FS15050 Gloss",
+          "rgb": "173551",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H329",
+          "name": "Yellow FS13538 Gloss",
+          "rgb": "F5A100",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H330",
+          "name": "Dark Green Semi-gloss",
+          "rgb": "2F4848",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H331",
+          "name": "Dark Seagray Semi-gloss",
+          "rgb": "4A575A",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H332",
+          "name": "RAF Light Aircraft Gray Semi-gloss",
+          "rgb": "9CA398",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H333",
+          "name": "Extra Dark Seagray Semi-gloss",
+          "rgb": "1A4752",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H334",
+          "name": "Barley Gray Semi-gloss",
+          "rgb": "829693",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H335",
+          "name": "Medium Seagray Semi-gloss",
+          "rgb": "5E7678",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H336",
+          "name": "RAF Hemp Semi-gloss",
+          "rgb": "688E6B",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H337",
+          "name": "Grayish Blue FS35237 Semi-gloss",
+          "rgb": "317179",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H338",
+          "name": "Light Gray FS36495 Semi-gloss",
+          "rgb": "BDC3C4",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H339",
+          "name": "Engine Gray FS16081 Semi-gloss",
+          "rgb": "1A4752",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H340",
+          "name": "Field Green FS34097 Semi-gloss",
+          "rgb": "26553D",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H341",
+          "name": "Mud Flat",
+          "rgb": "543532",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H342",
+          "name": "Oil Gloss",
+          "rgb": "4B4948",
+          "brand": "Hobby Color"
+        },
+        {
+          "code": "H343",
+          "name": "Soot Flat",
+          "rgb": "231815",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H344",
+          "name": "Rust Flat",
+          "rgb": "712928",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H345",
+          "name": "Rough Gray Flat",
+          "rgb": "595656",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H346",
+          "name": "Rough Sand Flat",
+          "rgb": "BD8B5E",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H401",
+          "name": "Dark Gray Flat",
+          "rgb": "0E3C41",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H402",
+          "name": "Green Brown Flat",
+          "rgb": "BF9D5B",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H403",
+          "name": "Dark Yellow Flat",
+          "rgb": "CAB047",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H404",
+          "name": "Khaki Brown Flat",
+          "rgb": "9F8237",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H405",
+          "name": "Olive Green Flat",
+          "rgb": "405D48",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H406",
+          "name": "Chocolate Brown Flat",
+          "rgb": "492F32",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H413",
+          "name": "RLM04 Yellow Semi-gloss",
+          "rgb": "F6AB00",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H414",
+          "name": "RLM23 Red Semi-gloss",
+          "rgb": "C8103D",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H416",
+          "name": "RLM66 Black Gray Semi-gloss",
+          "rgb": "312927",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H417",
+          "name": "RLM76 Light Blue Semi-gloss",
+          "rgb": "C6DDE3",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H418",
+          "name": "RLM78 Light Blue Semi-gloss",
+          "rgb": "78AEC6",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H420",
+          "name": "RLM80 Olive Green Semi-gloss",
+          "rgb": "4B5735",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H421",
+          "name": "RLM81 Dunkelbraun Semi-gloss",
+          "rgb": "4B5749",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H422",
+          "name": "RLM82 Light Green Semi-gloss",
+          "rgb": "3B7038",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H423",
+          "name": "RLM83 Dark Green Semi-gloss",
+          "rgb": "1D614E",
+          "brand": "Hobby Color",
+          "smooth": 0.5
+        },
+        {
+          "code": "H451",
+          "name": "Chalky White Flat",
+          "rgb": "FFFFFF",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H452",
+          "name": "Soot Black Flat",
+          "rgb": "231815",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H453",
+          "name": "Rust Red Flat",
+          "rgb": "C46420",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H455",
+          "name": "Cement Gray Flat",
+          "rgb": "B1A891",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H456",
+          "name": "Dust Brown Flat",
+          "rgb": "6A4833",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H457",
+          "name": "Earth Brown Flat",
+          "rgb": "76572F",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H458",
+          "name": "Machine Gray Flat",
+          "rgb": "474B44",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H459",
+          "name": "Sandy Yellow Flat",
+          "rgb": "D6AE59",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H460",
+          "name": "Red Brown 1 Flat",
+          "rgb": "8C412B",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H461",
+          "name": "Oxide Green Flat",
+          "rgb": "E0F1EF",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H462",
+          "name": "Black Brown Flat",
+          "rgb": "4E3C33",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H463",
+          "name": "Red Brown 2 Flat",
+          "rgb": "7C4330",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H464",
+          "name": "Chrome Green Flat",
+          "rgb": "56673B",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H465",
+          "name": "Cobalt Blue Flat",
+          "rgb": "1D2088",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H466",
+          "name": "Purple Red Flat",
+          "rgb": "9B0D0A",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        },
+        {
+          "code": "H467",
+          "name": "Carmine Red Flat",
+          "rgb": "A72B2A",
+          "brand": "Hobby Color",
+          "smooth": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Mr. Color",
+      "type": "Enamel",
+      "colors": [
+        {
+          "code": "C1",
+          "name": "White Gloss",
+          "rgb": "FFFFFF"
+        },
+        {
+          "code": "C2",
+          "name": "Black Gloss",
+          "rgb": "231815"
+        },
+        {
+          "code": "C3",
+          "name": "Red Gloss",
+          "rgb": "E60012"
+        },
+        {
+          "code": "C4",
+          "name": "Yellow Gloss",
+          "rgb": "FFE100"
+        },
+        {
+          "code": "C5",
+          "name": "Blue Gloss",
+          "rgb": "0054A7"
+        },
+        {
+          "code": "C6",
+          "name": "Green Gloss",
+          "rgb": "006830"
+        },
+        {
+          "code": "C7",
+          "name": "Brown Gloss",
+          "rgb": "CA3929"
+        },
+        {
+          "code": "C8",
+          "name": "Silver Metallic",
+          "rgb": "DCDDDD",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C9",
+          "name": "Gold Metallic",
+          "rgb": "DFB603",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C10",
+          "name": "Copper Metallic",
+          "rgb": "CE722A",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C11",
+          "name": "Light Gull Gray Semi-gloss",
+          "rgb": "BDC3C4",
+          "smooth": 0.5
+        },
+        {
+          "code": "C12",
+          "name": "Olive Drab 1 Semi-gloss",
+          "rgb": "685932",
+          "smooth": 0.5
+        },
+        {
+          "code": "C13",
+          "name": "Neutral Gray Semi-gloss",
+          "rgb": "75858D",
+          "smooth": 0.5
+        },
+        {
+          "code": "C14",
+          "name": "Navy Blue Semi-gloss",
+          "rgb": "004652",
+          "smooth": 0.5
+        },
+        {
+          "code": "C15",
+          "name": "IJN Green (Nakajima) Semi-gloss",
+          "rgb": "00381F",
+          "smooth": 0.5
+        },
+        {
+          "code": "C16",
+          "name": "IJA Green Semi-gloss",
+          "rgb": "004D39",
+          "smooth": 0.5
+        },
+        {
+          "code": "C17",
+          "name": "RLM71 Dark Green Semi-gloss",
+          "rgb": "595A4E",
+          "smooth": 0.5
+        },
+        {
+          "code": "C18",
+          "name": "RLM70 Black Green Semi-gloss",
+          "rgb": "1F3134",
+          "smooth": 0.5
+        },
+        {
+          "code": "C19",
+          "name": "Sandy Brown Semi-gloss",
+          "rgb": "9F8237",
+          "smooth": 0.5
+        },
+        {
+          "code": "C20",
+          "name": "Light Blue Semi-gloss",
+          "rgb": "48BAA0",
+          "smooth": 0.5
+        },
+        {
+          "code": "C21",
+          "name": "Middle Stone Semi-gloss",
+          "rgb": "B39242",
+          "smooth": 0.5
+        },
+        {
+          "code": "C22",
+          "name": "Dark Earth Semi-gloss",
+          "rgb": "504A3D",
+          "smooth": 0.5
+        },
+        {
+          "code": "C23",
+          "name": "Dark Green 2 Semi-gloss",
+          "rgb": "405D48",
+          "smooth": 0.5
+        },
+        {
+          "code": "C25",
+          "name": "Dark Seagray Semi-gloss",
+          "rgb": "727A5E",
+          "smooth": 0.5
+        },
+        {
+          "code": "C26",
+          "name": "Duck Egg Green Semi-gloss",
+          "rgb": "D6E0AC",
+          "smooth": 0.5
+        },
+        {
+          "code": "C27",
+          "name": "Interior Green Semi-gloss",
+          "rgb": "B7A812",
+          "smooth": 0.5
+        },
+        {
+          "code": "C28",
+          "name": "Steel Metallic",
+          "rgb": "696969",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C29",
+          "name": "Hull Red Semi-gloss",
+          "rgb": "552E35",
+          "smooth": 0.5
+        },
+        {
+          "code": "C30",
+          "name": "Base Flat",
+          "rgb": "FFFFFF",
+          "smooth": 0.0
+        },
+        {
+          "code": "C31",
+          "name": "Dark Gray 1 Semi-gloss",
+          "rgb": "909694",
+          "smooth": 0.5
+        },
+        {
+          "code": "C32",
+          "name": "Dark Gray 2 Semi-gloss",
+          "rgb": "3A555A",
+          "smooth": 0.5
+        },
+        {
+          "code": "C33",
+          "name": "Black Flat",
+          "rgb": "231815",
+          "smooth": 0.0
+        },
+        {
+          "code": "C34",
+          "name": "Sky Blue Gloss",
+          "rgb": "008CD6"
+        },
+        {
+          "code": "C35",
+          "name": "IJN Gray (Mitsubishi) Semi-gloss",
+          "rgb": "A6BBC7",
+          "smooth": 0.5
+        },
+        {
+          "code": "C36",
+          "name": "RLM74 Gray Green Semi-gloss",
+          "rgb": "0A3D3E",
+          "smooth": 0.5
+        },
+        {
+          "code": "C37",
+          "name": "RLM75 Gray Violet Semi-gloss",
+          "rgb": "475D57",
+          "smooth": 0.5
+        },
+        {
+          "code": "C38",
+          "name": "Olive Drab 2 Flat",
+          "rgb": "314836",
+          "smooth": 0.0
+        },
+        {
+          "code": "C39",
+          "name": "Dark Yellow (Sandy Yellow) Flat",
+          "rgb": "BF9D5A",
+          "smooth": 0.0
+        },
+        {
+          "code": "C40",
+          "name": "German Gray Flat",
+          "rgb": "113C41",
+          "smooth": 0.0
+        },
+        {
+          "code": "C41",
+          "name": "Red Brown Flat",
+          "rgb": "4A2F32",
+          "smooth": 0.0
+        },
+        {
+          "code": "C42",
+          "name": "Mahogany Semi-gloss",
+          "rgb": "3C3033",
+          "smooth": 0.5
+        },
+        {
+          "code": "C43",
+          "name": "Wood Brown Semi-gloss",
+          "rgb": "6A4A31",
+          "smooth": 0.5
+        },
+        {
+          "code": "C44",
+          "name": "Tan Semi-gloss",
+          "rgb": "CAA965",
+          "smooth": 0.5
+        },
+        {
+          "code": "C45",
+          "name": "Sail Color Semi-gloss",
+          "rgb": "BFB780",
+          "smooth": 0.5
+        },
+        {
+          "code": "C46",
+          "name": "Clear Gloss",
+          "rgb": "FFFFFF",
+          "alpha": 0.5
+        },
+        {
+          "code": "C47",
+          "name": "Clear Red Gloss",
+          "rgb": "E60012",
+          "alpha": 0.5
+        },
+        {
+          "code": "C48",
+          "name": "Clear Yellow Gloss",
+          "rgb": "FFD900",
+          "alpha": 0.5
+        },
+        {
+          "code": "C49",
+          "name": "Clear Orange Gloss",
+          "rgb": "EB6100",
+          "alpha": 0.5
+        },
+        {
+          "code": "C50",
+          "name": "Clear Blue Gloss",
+          "rgb": "00A0E9",
+          "alpha": 0.5
+        },
+        {
+          "code": "C51",
+          "name": "Flesh Gloss",
+          "rgb": "E6B378"
+        },
+        {
+          "code": "C52",
+          "name": "Field Gray 2 Flat",
+          "rgb": "2A4E49",
+          "smooth": 0.0
+        },
+        {
+          "code": "C54",
+          "name": "Khaki Green Flat",
+          "rgb": "21423A",
+          "smooth": 0.0
+        },
+        {
+          "code": "C55",
+          "name": "Khaki Flat",
+          "rgb": "4D5035",
+          "smooth": 0.0
+        },
+        {
+          "code": "C56",
+          "name": "IJN Gray Green (Nakajima) Semi-gloss",
+          "rgb": "70A19A",
+          "smooth": 0.5
+        },
+        {
+          "code": "C57",
+          "name": "Metalic Blue Green Metallic",
+          "rgb": "00756A",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C58",
+          "name": "Orange Yellow Semi-gloss",
+          "rgb": "EE7800",
+          "smooth": 0.5
+        },
+        {
+          "code": "C59",
+          "name": "Orange Gloss",
+          "rgb": "E8320E"
+        },
+        {
+          "code": "C60",
+          "name": "RLM02 Gray Semi-gloss",
+          "rgb": "9F9D89",
+          "smooth": 0.5
+        },
+        {
+          "code": "C61",
+          "name": "Burnt Iron Metallic",
+          "rgb": "4C5053",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C62",
+          "name": "White Flat",
+          "rgb": "FFFFFF",
+          "smooth": 0.0
+        },
+        {
+          "code": "C63",
+          "name": "Pink Gloss",
+          "rgb": "EB6D94"
+        },
+        {
+          "code": "C64",
+          "name": "Yellow Green Gloss",
+          "rgb": "00A33B"
+        },
+        {
+          "code": "C65",
+          "name": "Bright Blue Gloss",
+          "rgb": "004098"
+        },
+        {
+          "code": "C66",
+          "name": "Bright Green Gloss",
+          "rgb": "009944"
+        },
+        {
+          "code": "C67",
+          "name": "Purple Gloss",
+          "rgb": "3C2280"
+        },
+        {
+          "code": "C68",
+          "name": "Red Madder Gloss",
+          "rgb": "D80C18"
+        },
+        {
+          "code": "C69",
+          "name": "Off White Gloss",
+          "rgb": "F9F8F4"
+        },
+        {
+          "code": "C70",
+          "name": "Dark Green Flat",
+          "rgb": "21423A",
+          "smooth": 0.0
+        },
+        {
+          "code": "C71",
+          "name": "Midnight Blue Gloss",
+          "rgb": "1F4247"
+        },
+        {
+          "code": "C72",
+          "name": "Intermediate Blue Semi-gloss",
+          "rgb": "164D59",
+          "smooth": 0.5
+        },
+        {
+          "code": "C73",
+          "name": "Aircraft Gray Gloss",
+          "rgb": "729A96"
+        },
+        {
+          "code": "C74",
+          "name": "Air Superiority Blue Gloss",
+          "rgb": "036D79"
+        },
+        {
+          "code": "C75",
+          "name": "Red Metallic",
+          "rgb": "B01F24",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C76",
+          "name": "Blue Metallic",
+          "rgb": "004EA2",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C77",
+          "name": "Green Metallic",
+          "rgb": "00894F",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C78",
+          "name": "Black Metallic",
+          "rgb": "231815",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C79",
+          "name": "Shine Red Gloss",
+          "rgb": "E60012"
+        },
+        {
+          "code": "C80",
+          "name": "Cobalt Blue Gloss",
+          "rgb": "1D2088"
+        },
+        {
+          "code": "C81",
+          "name": "Russet Gloss",
+          "rgb": "772A31"
+        },
+        {
+          "code": "C90",
+          "name": "Shine Silver Metallic",
+          "rgb": "D3D3D4",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C92",
+          "name": "Black Semi-gloss",
+          "rgb": "231815",
+          "smooth": 0.5
+        },
+        {
+          "code": "C97",
+          "name": "Light Gray Gloss",
+          "rgb": "B2BEB2"
+        },
+        {
+          "code": "C100",
+          "name": "Wine Red Gloss",
+          "rgb": "AF1E32"
+        },
+        {
+          "code": "C101",
+          "name": "Smoke Gray Gloss",
+          "rgb": "3D3226"
+        },
+        {
+          "code": "C104",
+          "name": "Gun Chrome Metallic",
+          "rgb": "B1BFC4",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C107",
+          "name": "Character White Semi-gloss",
+          "rgb": "F5F6F4",
+          "smooth": 0.5
+        },
+        {
+          "code": "C108",
+          "name": "Character Red Semi-gloss",
+          "rgb": "C8161E",
+          "smooth": 0.5
+        },
+        {
+          "code": "C109",
+          "name": "Character Yellow Semi-gloss",
+          "rgb": "F08300",
+          "smooth": 0.5
+        },
+        {
+          "code": "C110",
+          "name": "Character Blue Semi-gloss",
+          "rgb": "004098",
+          "smooth": 0.5
+        },
+        {
+          "code": "C111",
+          "name": "Character Flesh 1 Semi-gloss",
+          "rgb": "FCE4D6",
+          "smooth": 0.5
+        },
+        {
+          "code": "C112",
+          "name": "Character Flesh 2 Semi-gloss",
+          "rgb": "F6BCB8",
+          "smooth": 0.5
+        },
+        {
+          "code": "C113",
+          "name": "RLM04 Yellow Semi-gloss",
+          "rgb": "F6AB00",
+          "smooth": 0.5
+        },
+        {
+          "code": "C114",
+          "name": "RLM23 Red Semi-gloss",
+          "rgb": "C8113E",
+          "smooth": 0.5
+        },
+        {
+          "code": "C115",
+          "name": "RLM65 Light Blue Semi-gloss",
+          "rgb": "779AA8",
+          "smooth": 0.5
+        },
+        {
+          "code": "C116",
+          "name": "RLM66 Black Gray Semi-gloss",
+          "rgb": "373434",
+          "smooth": 0.5
+        },
+        {
+          "code": "C117",
+          "name": "RLM76 Light Blue Semi-gloss",
+          "rgb": "BFD5D4",
+          "smooth": 0.5
+        },
+        {
+          "code": "C118",
+          "name": "RLM78 Light Blue Semi-gloss",
+          "rgb": "80A6B6",
+          "smooth": 0.5
+        },
+        {
+          "code": "C119",
+          "name": "RLM79 Sand Yellow Semi-gloss",
+          "rgb": "937055",
+          "smooth": 0.5
+        },
+        {
+          "code": "C120",
+          "name": "RLM80 Olive Green Semi-gloss",
+          "rgb": "0D3E2C",
+          "smooth": 0.5
+        },
+        {
+          "code": "C121",
+          "name": "RLM81 Brown Violet Semi-gloss",
+          "rgb": "595A4E",
+          "smooth": 0.5
+        },
+        {
+          "code": "C122",
+          "name": "RLM82 Light Green Semi-gloss",
+          "rgb": "5C8352",
+          "smooth": 0.5
+        },
+        {
+          "code": "C123",
+          "name": "RLM83 Dark Green Semi-gloss",
+          "rgb": "25554B",
+          "smooth": 0.5
+        },
+        {
+          "code": "C124",
+          "name": "Dark Green (Mitsubishi) Semi-gloss",
+          "rgb": "004D20",
+          "smooth": 0.5
+        },
+        {
+          "code": "C125",
+          "name": "Cowling Color Semi-gloss",
+          "rgb": "000000",
+          "smooth": 0.5
+        },
+        {
+          "code": "C126",
+          "name": "Cockpit Color (Mitsubishi) Semi-gloss",
+          "rgb": "456441",
+          "smooth": 0.5
+        },
+        {
+          "code": "C127",
+          "name": "Cockpit Color (Nakajima) Semi-gloss",
+          "rgb": "A9B779",
+          "smooth": 0.5
+        },
+        {
+          "code": "C128",
+          "name": "Gray Green Semi-gloss",
+          "rgb": "B1B6A7",
+          "smooth": 0.5
+        },
+        {
+          "code": "C129",
+          "name": "Dark Green (Nakajima) Semi-gloss",
+          "rgb": "45644D",
+          "smooth": 0.5
+        },
+        {
+          "code": "C130",
+          "name": "Dark Green (Kawasaki) Semi-gloss",
+          "rgb": "495D40",
+          "smooth": 0.5
+        },
+        {
+          "code": "C131",
+          "name": "Propeller Color Semi-gloss",
+          "rgb": "501D11",
+          "smooth": 0.5
+        },
+        {
+          "code": "C132",
+          "name": "Earth Green Flat",
+          "rgb": "685A32",
+          "smooth": 0.0
+        },
+        {
+          "code": "C135",
+          "name": "Russian Green 1 Flat",
+          "rgb": "21944A",
+          "smooth": 0.0
+        },
+        {
+          "code": "C136",
+          "name": "Russian Green 2 Flat",
+          "rgb": "225A42",
+          "smooth": 0.0
+        },
+        {
+          "code": "C137",
+          "name": "Tire Black Flat",
+          "rgb": "000000",
+          "smooth": 0.0
+        },
+        {
+          "code": "C138",
+          "name": "Clear Green Gloss",
+          "rgb": "009944",
+          "alpha": 0.5
+        },
+        {
+          "code": "C151",
+          "name": "White Pearl",
+          "rgb": "FFFFFF"
+        },
+        {
+          "code": "C156",
+          "name": "Super White Gloss",
+          "rgb": "FFFFFF"
+        },
+        {
+          "code": "C158",
+          "name": "Super Italian Red Gloss",
+          "rgb": "D70D19"
+        },
+        {
+          "code": "C159",
+          "name": "Super Silver Metallic",
+          "rgb": "DCDDDD",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C171",
+          "name": "Fluorescent Red Semi-gloss",
+          "rgb": "E60013",
+          "smooth": 0.5,
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "C172",
+          "name": "Fluorescent Yellow Semi-gloss",
+          "rgb": "FFF100",
+          "smooth": 0.5,
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "C173",
+          "name": "Fluorescent Orange Semi-gloss",
+          "rgb": "E71A11",
+          "smooth": 0.5,
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "C174",
+          "name": "Fluorescent Pink Semi-gloss",
+          "rgb": "E5006A",
+          "smooth": 0.5,
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "C175",
+          "name": "Green Semi-gloss",
+          "rgb": "009944",
+          "smooth": 0.5
+        },
+        {
+          "code": "C181",
+          "name": "Super Clear Semi-gloss",
+          "rgb": "FFFFFF",
+          "refl": "Metallic"
+        },
+        {
+          "code": "C182",
+          "name": "Flat Clear Flat",
+          "rgb": "FFFFFF",
+          "smooth": 0.0,
+          "alpha": 0.5
+        },
+        {
+          "code": "C183",
+          "name": "Super Clear Gray Tone Flat",
+          "rgb": "F4F5F6",
+          "smooth": 0.0,
+          "alpha": 0.5
+        },
+        {
+          "code": "C301",
+          "name": "Gray FS36081 Semi-gloss",
+          "rgb": "243C45",
+          "smooth": 0.5
+        },
+        {
+          "code": "C302",
+          "name": "Green FS34092 Semi-gloss",
+          "rgb": "255450",
+          "smooth": 0.5
+        },
+        {
+          "code": "C303",
+          "name": "Green FS34102 Semi-gloss",
+          "rgb": "475D51",
+          "smooth": 0.5
+        },
+        {
+          "code": "C304",
+          "name": "Olive Drab FS34087 Semi-gloss",
+          "rgb": "373C35",
+          "smooth": 0.5
+        },
+        {
+          "code": "C305",
+          "name": "Gray FS36118 Semi-gloss",
+          "rgb": "4A5460",
+          "smooth": 0.5
+        },
+        {
+          "code": "C306",
+          "name": "Gray FS36270 Semi-gloss",
+          "rgb": "688887",
+          "smooth": 0.5
+        },
+        {
+          "code": "C307",
+          "name": "Gray FS26320 Semi-gloss",
+          "rgb": "67888F",
+          "smooth": 0.5
+        },
+        {
+          "code": "C308",
+          "name": "Gray FS36375 Semi-gloss",
+          "rgb": "819E9F",
+          "smooth": 0.5
+        },
+        {
+          "code": "C309",
+          "name": "Green FS34079 Semi-gloss",
+          "rgb": "255450",
+          "smooth": 0.5
+        },
+        {
+          "code": "C310",
+          "name": "Brown FS30219 Semi-gloss",
+          "rgb": "72624E",
+          "smooth": 0.5
+        },
+        {
+          "code": "C311",
+          "name": "Gray FS26622 Semi-gloss",
+          "rgb": "EAEBD5",
+          "smooth": 0.5
+        },
+        {
+          "code": "C312",
+          "name": "Green FS34227 Semi-gloss",
+          "rgb": "29845D",
+          "smooth": 0.5
+        },
+        {
+          "code": "C313",
+          "name": "Yellow FS33531 Semi-gloss",
+          "rgb": "E8C589",
+          "smooth": 0.5
+        },
+        {
+          "code": "C314",
+          "name": "Blue FS35622 Semi-gloss",
+          "rgb": "EBF4EB",
+          "smooth": 0.5
+        },
+        {
+          "code": "C315",
+          "name": "Gray FS16440 Gloss",
+          "rgb": "99ADA4"
+        },
+        {
+          "code": "C316",
+          "name": "White FS17875 Gloss",
+          "rgb": "FFFFFF"
+        },
+        {
+          "code": "C317",
+          "name": "Gray FS36231 Flat",
+          "rgb": "6D786A",
+          "smooth": 0.0
+        },
+        {
+          "code": "C318",
+          "name": "Radome Semi-gloss",
+          "rgb": "FCD68C",
+          "smooth": 0.5
+        },
+        {
+          "code": "C319",
+          "name": "Light Green Semi-gloss",
+          "rgb": "0F6D58",
+          "smooth": 0.5
+        },
+        {
+          "code": "C320",
+          "name": "Dark Green Semi-gloss",
+          "rgb": "3A5645",
+          "smooth": 0.5
+        },
+        {
+          "code": "C321",
+          "name": "Light Brown Semi-gloss",
+          "rgb": "B4926A",
+          "smooth": 0.5
+        },
+        {
+          "code": "C322",
+          "name": "Phthalo Cyanne Blue Gloss",
+          "rgb": "173551"
+        },
+        {
+          "code": "C323",
+          "name": "Light Blue Gloss",
+          "rgb": "00B0EC"
+        },
+        {
+          "code": "C324",
+          "name": "Light Gray Flat",
+          "rgb": "8CA9A3",
+          "smooth": 0.0
+        },
+        {
+          "code": "C325",
+          "name": "Gray FS26440 Semi-gloss",
+          "rgb": "A6B1A4",
+          "smooth": 0.5
+        },
+        {
+          "code": "C326",
+          "name": "Blue FS15044 Gloss",
+          "rgb": "1E3046"
+        },
+        {
+          "code": "C327",
+          "name": "Red FS11136 Gloss",
+          "rgb": "9E2428"
+        },
+        {
+          "code": "C328",
+          "name": "Blue FS15050 Gloss",
+          "rgb": "173551"
+        },
+        {
+          "code": "C329",
+          "name": "Yellow FS13538 Gloss",
+          "rgb": "F5A100"
+        },
+        {
+          "code": "C330",
+          "name": "Dark Green BS381c / 641 Semi-gloss",
+          "rgb": "2F4848",
+          "smooth": 0.5
+        },
+        {
+          "code": "C331",
+          "name": "Dark Seagray BS381c / 638 Semi-gloss",
+          "rgb": "4A575A",
+          "smooth": 0.5
+        },
+        {
+          "code": "C332",
+          "name": "Light Aircraft Gray BS381c / 627 Semi-gloss",
+          "rgb": "9CA398",
+          "smooth": 0.5
+        },
+        {
+          "code": "C333",
+          "name": "Extra Dark Seagray BS381c / 640 Semi-gloss",
+          "rgb": "1A4752",
+          "smooth": 0.5
+        },
+        {
+          "code": "C334",
+          "name": "Barley Gray BS4800/18b21 Semi-gloss",
+          "rgb": "829693",
+          "smooth": 0.5
+        },
+        {
+          "code": "C335",
+          "name": "Medium Seagray BS381c/637 Semi-gloss",
+          "rgb": "5E7678",
+          "smooth": 0.5
+        },
+        {
+          "code": "C336",
+          "name": "Hemp BS4800/10b21 Semi-gloss",
+          "rgb": "688E6B",
+          "smooth": 0.5
+        },
+        {
+          "code": "C337",
+          "name": "Grayish Blue FS35237 Semi-gloss",
+          "rgb": "317179",
+          "smooth": 0.5
+        },
+        {
+          "code": "C338",
+          "name": "Light Gray FS36495 Semi-gloss",
+          "rgb": "BDC3C4",
+          "smooth": 0.5
+        },
+        {
+          "code": "C339",
+          "name": "Engine Gray FS16081 Gloss",
+          "rgb": "1A4752"
+        },
+        {
+          "code": "C340",
+          "name": "Field Green FS34097 Semi-gloss",
+          "rgb": "26553D",
+          "smooth": 0.5
+        },
+        {
+          "code": "C391",
+          "name": "Interior Turquoise Green Soviet Semi-gloss",
+          "rgb": "00AB7D",
+          "smooth": 0.5
+        },
+        {
+          "code": "C392",
+          "name": "Interior Blue Soviet Semi-gloss",
+          "rgb": "4B8496",
+          "smooth": 0.5
+        },
+        {
+          "code": "C393",
+          "name": "Russian Aircraft Blue 2 Semi-gloss",
+          "rgb": "221A29",
+          "smooth": 0.5
+        },
+        {
+          "code": "C511",
+          "name": "Russian Green (4BO) Flat",
+          "rgb": "435C35",
+          "smooth": 0.0
+        },
+        {
+          "code": "C512",
+          "name": "Russian Green (4BO) 1947- Flat",
+          "rgb": "575F35",
+          "smooth": 0.0
+        },
+        {
+          "code": "C513",
+          "name": "Dark Gray (Dunkel Grau) Flat",
+          "rgb": "3D4F5D",
+          "smooth": 0.0
+        },
+        {
+          "code": "C514",
+          "name": "Gray (Grau) Flat",
+          "rgb": "4B6F7A",
+          "smooth": 0.0
+        },
+        {
+          "code": "C515",
+          "name": "Faded Gray (Blassgrau) Flat",
+          "rgb": "597980",
+          "smooth": 0.0
+        },
+        {
+          "code": "C516",
+          "name": "Dark Green 3414 Flat",
+          "rgb": "41493A",
+          "smooth": 0.0
+        },
+        {
+          "code": "C517",
+          "name": "Brown 3606 Flat",
+          "rgb": "4F3C2D",
+          "smooth": 0.0
+        },
+        {
+          "code": "C518",
+          "name": "Olive Drab 2314 Semi-gloss",
+          "rgb": "3B3521",
+          "smooth": 0.5
+        },
+        {
+          "code": "C519",
+          "name": "Bronzegrun Flat",
+          "rgb": "3B4D3A",
+          "smooth": 0.0
+        },
+        {
+          "code": "C520",
+          "name": "Lederbraun Flat",
+          "rgb": "543B28",
+          "smooth": 0.0
+        },
+        {
+          "code": "C521",
+          "name": "Teerschwarz Flat",
+          "rgb": "252C2C",
+          "smooth": 0.0
+        },
+        {
+          "code": "C522",
+          "name": "Ground Color Flat",
+          "rgb": "4D4A48",
+          "smooth": 0.0
+        },
+        {
+          "code": "C523",
+          "name": "Grass Color Flat",
+          "rgb": "4B5C49",
+          "smooth": 0.0
+        },
+        {
+          "code": "C524",
+          "name": "Hay Color Flat",
+          "rgb": "827741",
+          "smooth": 0.0
+        },
+        {
+          "code": "C525",
+          "name": "Green Flat",
+          "rgb": "1B4A3A",
+          "smooth": 0.0
+        },
+        {
+          "code": "C526",
+          "name": "Brown Flat",
+          "rgb": "84644C",
+          "smooth": 0.0
+        },
+        {
+          "code": "C527",
+          "name": "Khaki Flat",
+          "rgb": "9D7B52",
+          "smooth": 0.0
+        },
+        {
+          "code": "C528",
+          "name": "IDF Gray1 (-1981 Sinai) Flat",
+          "rgb": "C6AE82",
+          "smooth": 0.0
+        },
+        {
+          "code": "C529",
+          "name": "IDF Gray2 (-1981 Golan) Flat",
+          "rgb": "857C69",
+          "smooth": 0.0
+        },
+        {
+          "code": "C530",
+          "name": "IDF Gray3 (Modern) Flat",
+          "rgb": "7A7259",
+          "smooth": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Acrysion",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "N7",
+          "name": "Brown Gloss",
+          "rgb": "CA3929",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N10",
+          "name": "Copper Metallic",
+          "rgb": "CE722A",
+          "brand": "Acrysion",
+          "refl": "Metallic"
+        },
+        {
+          "code": "N13",
+          "name": "Flat Red Flat",
+          "rgb": "E60012",
+          "brand": "Acrysion",
+          "smooth": 0.0
+        },
+        {
+          "code": "N17",
+          "name": "Hull Red Semi-gloss",
+          "rgb": "552E35",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N21",
+          "name": "Off White Gloss",
+          "rgb": "F9F8F4",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N23",
+          "name": "Shine Red Gloss",
+          "rgb": "E60012",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N28",
+          "name": "Metal Black Metallic",
+          "rgb": "231815",
+          "brand": "Acrysion",
+          "refl": "Metallic"
+        },
+        {
+          "code": "N32",
+          "name": "German Gray 3/4flat",
+          "rgb": "113C41",
+          "brand": "Acrysion",
+          "smooth": 0.0
+        },
+        {
+          "code": "N33",
+          "name": "Russet Gloss",
+          "rgb": "772A31",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N34",
+          "name": "Cream Yellow Gloss",
+          "rgb": "E5A600",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N36",
+          "name": "IJN Green (Nakajima) Semi-gloss",
+          "rgb": "00381F",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N38",
+          "name": "Steel Red Metallic",
+          "rgb": "3B3039",
+          "brand": "Acrysion",
+          "refl": "Metallic"
+        },
+        {
+          "code": "N43",
+          "name": "Wine Red Gloss",
+          "rgb": "AF1E32",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N44",
+          "name": "Flesh Semi-gloss",
+          "rgb": "E6B378",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N45",
+          "name": "Light Blue Gloss",
+          "rgb": "1EB9EE",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N46",
+          "name": "Emerald Green Gloss",
+          "rgb": "00A051",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N49",
+          "name": "Violet Gloss",
+          "rgb": "7484C1",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N50",
+          "name": "Lime Green Gloss",
+          "rgb": "91B671",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N51",
+          "name": "Light Gull Gray Gloss",
+          "rgb": "BDC3C4",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N52",
+          "name": "Olive Drab (1) Semi-gloss",
+          "rgb": "685932",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N54",
+          "name": "Navy Blue Semi-gloss",
+          "rgb": "004652",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N55",
+          "name": "Midnight Blue Gloss",
+          "rgb": "1F4247",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N56",
+          "name": "Intermediate Blue Semi-gloss",
+          "rgb": "164D59",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N57",
+          "name": "Aircraft Gray Gloss",
+          "rgb": "729A96",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N58",
+          "name": "Interior Green Semi-gloss",
+          "rgb": "B7A812",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N60",
+          "name": "IJA Green Semi-gloss",
+          "rgb": "004D39",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N61",
+          "name": "IJN Gray (Mitsubishi) Gloss",
+          "rgb": "A6BBC7",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N62",
+          "name": "IJN Gray Green (Nakajima) Semi-gloss",
+          "rgb": "70A19A",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N63",
+          "name": "Blue Green Metallic",
+          "rgb": "00756A",
+          "brand": "Acrysion",
+          "refl": "Metallic"
+        },
+        {
+          "code": "N66",
+          "name": "RLM79 Sand Yellow Semi-gloss",
+          "rgb": "937055",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N67",
+          "name": "RLM65 Light Blue　 Semi-gloss",
+          "rgb": "779AA8",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N68",
+          "name": "RLM74 Gray Green Semi-gloss",
+          "rgb": "0A3D3E",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N69",
+          "name": "RLM75 Gray Violet Semi-gloss",
+          "rgb": "475D57",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N70",
+          "name": "RLM02 Gray Semi-gloss",
+          "rgb": "9F9D89",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N71",
+          "name": "Middle Stone Semi-gloss",
+          "rgb": "B39242",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N72",
+          "name": "Dark Earth Semi-gloss",
+          "rgb": "504A3D",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N73",
+          "name": "Dark Green Semi-gloss",
+          "rgb": "405D48",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N76",
+          "name": "Burnt Iron Metallic",
+          "rgb": "4C5053",
+          "brand": "Acrysion",
+          "refl": "Metallic"
+        },
+        {
+          "code": "N77",
+          "name": "Tire Black Flat",
+          "rgb": "000000",
+          "brand": "Acrysion",
+          "smooth": 0.0
+        },
+        {
+          "code": "N78",
+          "name": "Olive drab (2) Flat",
+          "rgb": "314836",
+          "brand": "Acrysion",
+          "smooth": 0.0
+        },
+        {
+          "code": "N79",
+          "name": "Dark Yellow 3/4flat",
+          "rgb": "BF9D5A",
+          "brand": "Acrysion",
+          "smooth": 0.0
+        },
+        {
+          "code": "N80",
+          "name": "Khaki Green Flat",
+          "rgb": "21423A",
+          "brand": "Acrysion",
+          "smooth": 0.0
+        },
+        {
+          "code": "N81",
+          "name": "Khaki Flat",
+          "rgb": "4D5035",
+          "brand": "Acrysion",
+          "smooth": 0.0
+        },
+        {
+          "code": "N82",
+          "name": "Dark Gray (1) Semi-gloss",
+          "rgb": "909694",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N83",
+          "name": "Dark Gray (2) Semi-gloss",
+          "rgb": "3A555A",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        },
+        {
+          "code": "N85",
+          "name": "Sail Color Flat",
+          "rgb": "BFB780",
+          "brand": "Acrysion",
+          "smooth": 0.0
+        },
+        {
+          "code": "N87",
+          "name": "Red Metallic",
+          "rgb": "B01F24",
+          "brand": "Acrysion",
+          "refl": "Metallic"
+        },
+        {
+          "code": "N88",
+          "name": "Blue Metallic",
+          "rgb": "004EA2",
+          "brand": "Acrysion",
+          "refl": "Metallic"
+        },
+        {
+          "code": "N89",
+          "name": "Verde Metallic",
+          "rgb": "00894F",
+          "brand": "Acrysion",
+          "refl": "Metallic"
+        },
+        {
+          "code": "N94",
+          "name": "Clear Green Gloss",
+          "rgb": "009944",
+          "brand": "Acrysion",
+          "alpha": 0.5
+        },
+        {
+          "code": "N95",
+          "name": "Smoke Gray Gloss",
+          "rgb": "3D3226",
+          "brand": "Acrysion"
+        },
+        {
+          "code": "N97",
+          "name": "Fluorescent Yellow Semi-gloss",
+          "rgb": "FFF100",
+          "brand": "Acrysion",
+          "smooth": 0.5,
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "N98",
+          "name": "Fluorescent Orange Semi-gloss",
+          "rgb": "E71A11",
+          "brand": "Acrysion",
+          "smooth": 0.5,
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "N99",
+          "name": "Fluorescent Pink Semi-gloss",
+          "rgb": "E5006A",
+          "brand": "Acrysion",
+          "smooth": 0.5,
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "N100",
+          "name": "Fluorescent Green Semi-gloss",
+          "rgb": "009944",
+          "brand": "Acrysion",
+          "smooth": 0.5,
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "N101",
+          "name": "Fluorescent Red Semi-gloss",
+          "rgb": "E60013",
+          "brand": "Acrysion",
+          "smooth": 0.5,
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "N127",
+          "name": "Cockpit Color (Nakajima) Semi-gloss",
+          "rgb": "A9B779",
+          "brand": "Acrysion",
+          "smooth": 0.5
+        }
+      ]
+    }
+  ]
+}

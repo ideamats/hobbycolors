@@ -1,0 +1,2686 @@
+{
+  "schemaVersion": 1,
+  "id": "tamiya",
+  "title": "Tamiya",
+  "desc": "X, XF, TS, AS, PS, LP",
+  "version": 1,
+  "brand": "TAMIYA",
+  "groups": [
+    {
+      "name": "Gloss Enamel",
+      "type": "Enamel",
+      "colors": [
+        {
+          "code": "X-1",
+          "name": "Black Gloss",
+          "rgb": "040204"
+        },
+        {
+          "code": "X-2",
+          "name": "White Gloss",
+          "rgb": "FCFEFC"
+        },
+        {
+          "code": "X-3",
+          "name": "Royal Blue Gloss",
+          "rgb": "1C2E54"
+        },
+        {
+          "code": "X-4",
+          "name": "Blue Gloss",
+          "rgb": "0C367C"
+        },
+        {
+          "code": "X-5",
+          "name": "Green Gloss",
+          "rgb": "04461C"
+        },
+        {
+          "code": "X-6",
+          "name": "Orange Gloss",
+          "rgb": "FC8204"
+        },
+        {
+          "code": "X-7",
+          "name": "Red Gloss",
+          "rgb": "FC0204"
+        },
+        {
+          "code": "X-8",
+          "name": "Lemon Yellow Gloss",
+          "rgb": "FCE604"
+        },
+        {
+          "code": "X-9",
+          "name": "Brown Gloss",
+          "rgb": "4C2204"
+        },
+        {
+          "code": "X-10",
+          "name": "Gun Metal Metallic",
+          "rgb": "4C5654",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-11",
+          "name": "Chrome Silver Metallic",
+          "rgb": "C4CACC",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-12",
+          "name": "Gold Leaf Metallic",
+          "rgb": "CCA20C",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-13",
+          "name": "Blue Metallic",
+          "rgb": "1D729B",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-14",
+          "name": "Sky Blue Gloss",
+          "rgb": "1C9AC4"
+        },
+        {
+          "code": "X-15",
+          "name": "Light Green Gloss",
+          "rgb": "64BA24"
+        },
+        {
+          "code": "X-16",
+          "name": "Purple Gloss",
+          "rgb": "4C4AA3"
+        },
+        {
+          "code": "X-17",
+          "name": "Pink Gloss",
+          "rgb": "FC82AC"
+        },
+        {
+          "code": "X-18",
+          "name": "Semi Gloss Black Satin",
+          "rgb": "343234",
+          "smooth": 0.5
+        },
+        {
+          "code": "X-19",
+          "name": "Smoke Satin",
+          "rgb": "8C928C",
+          "smooth": 0.5
+        },
+        {
+          "code": "X-21",
+          "name": "Base Matt",
+          "rgb": "FCFEFC"
+        },
+        {
+          "code": "X-22",
+          "name": "Clear Gloss",
+          "rgb": "FCFEFC",
+          "alpha": 0.5
+        },
+        {
+          "code": "X-23",
+          "name": "Blue Clear Gloss",
+          "rgb": "34B6D4",
+          "alpha": 0.5
+        },
+        {
+          "code": "X-24",
+          "name": "Yellow Clear Gloss",
+          "rgb": "FCE604",
+          "alpha": 0.5
+        },
+        {
+          "code": "X-25",
+          "name": "Green Clear Gloss",
+          "rgb": "1C9644",
+          "alpha": 0.5
+        },
+        {
+          "code": "X-26",
+          "name": "Orange Clear Gloss",
+          "rgb": "FC8E14",
+          "alpha": 0.5
+        },
+        {
+          "code": "X-27",
+          "name": "Red Clear Gloss",
+          "rgb": "FB0224",
+          "alpha": 0.5
+        },
+        {
+          "code": "X-28",
+          "name": "Park Green Gloss",
+          "rgb": "34A64C"
+        },
+        {
+          "code": "X-31",
+          "name": "Titanium Gold Metallic",
+          "rgb": "CCBA74",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-32",
+          "name": "Titanium Silver Metallic",
+          "rgb": "CCCEBC",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-33",
+          "name": "Bronze Metallic",
+          "rgb": "6B2624",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-34",
+          "name": "Brown Metallic",
+          "rgb": "9B3E04",
+          "refl": "Metallic"
+        }
+      ]
+    },
+    {
+      "name": "Flat Enamel",
+      "type": "Enamel",
+      "colors": [
+        {
+          "code": "XF-1",
+          "name": "Black Flat",
+          "rgb": "343234",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-2",
+          "name": "White Flat",
+          "rgb": "FCFEFC",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-3",
+          "name": "Yellow Flat",
+          "rgb": "FCCE05",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-4",
+          "name": "Yellow Green Flat",
+          "rgb": "B4C20C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-5",
+          "name": "Green Flat",
+          "rgb": "244214",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-6",
+          "name": "Copper Metallic",
+          "rgb": "CC5E04",
+          "refl": "Metallic"
+        },
+        {
+          "code": "XF-7",
+          "name": "Red Flat",
+          "rgb": "FB0204",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-8",
+          "name": "Blue Flat",
+          "rgb": "2C4A7C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-9",
+          "name": "Hull Red Flat",
+          "rgb": "3C0E04",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-10",
+          "name": "Brown Flat",
+          "rgb": "3C2A0C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-11",
+          "name": "J.N. Green Flat",
+          "rgb": "24320C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-12",
+          "name": "J.N. Grey Flat",
+          "rgb": "BBBBBB",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-13",
+          "name": "J.A. Green Flat",
+          "rgb": "344A1C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-14",
+          "name": "J.A. Grey Flat",
+          "rgb": "B4CA8C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-15",
+          "name": "Flesh Flat",
+          "rgb": "FCCE9C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-16",
+          "name": "Aluminio Flat",
+          "rgb": "CCCECC",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-17",
+          "name": "Sea Blue Flat",
+          "rgb": "343A44",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-18",
+          "name": "Medium Blue Flat",
+          "rgb": "445A64",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-19",
+          "name": "Sky Grey Flat",
+          "rgb": "ACB6C4",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-20",
+          "name": "Medium Grey Flat",
+          "rgb": "A4AA9C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-21",
+          "name": "Sky Flat",
+          "rgb": "B4BE74",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-22",
+          "name": "RLM Grey Flat",
+          "rgb": "7C8E7C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-23",
+          "name": "Light Blue Flat",
+          "rgb": "93B6AC",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-24",
+          "name": "Dark Grey Flat",
+          "rgb": "3C4244",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-25",
+          "name": "Light Sea Grey Flat",
+          "rgb": "7C8AAC",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-26",
+          "name": "Deep Green Flat",
+          "rgb": "044634",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-27",
+          "name": "Black Green Flat",
+          "rgb": "042614",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-28",
+          "name": "Dark Copper Flat",
+          "rgb": "9C5E3C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-49",
+          "name": "Khaki Flat",
+          "rgb": "7C7644",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-50",
+          "name": "Field Blue Flat",
+          "rgb": "344244",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-51",
+          "name": "Khaki Drab Flat",
+          "rgb": "2C3214",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-52",
+          "name": "Earth Flat",
+          "rgb": "744A34",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-53",
+          "name": "Neutral Grey Flat",
+          "rgb": "6C7A7C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-54",
+          "name": "Dark Sea Grey Flat",
+          "rgb": "5C5E64",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-55",
+          "name": "Deck Tan Flat",
+          "rgb": "B4B284",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-56",
+          "name": "Metallic Grey Flat",
+          "rgb": "5C6264",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-57",
+          "name": "Buff Flat",
+          "rgb": "B4B26C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-58",
+          "name": "Olive Green Flat",
+          "rgb": "1C3E14",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-59",
+          "name": "Desert Yellow Flat",
+          "rgb": "D49E44",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-60",
+          "name": "Dark Yellow Flat",
+          "rgb": "C4B244",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-61",
+          "name": "Dark Green Flat",
+          "rgb": "1C2E14",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-62",
+          "name": "Olive Drab Flat",
+          "rgb": "3C4A14",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-63",
+          "name": "German Grey Flat",
+          "rgb": "3C464C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-64",
+          "name": "Red Brown Flat",
+          "rgb": "64370C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-65",
+          "name": "Field Grey Flat",
+          "rgb": "64866C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-66",
+          "name": "Light Grey Flat",
+          "rgb": "64767C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-70",
+          "name": "Dark Green 2 Flat",
+          "rgb": "042614",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-71",
+          "name": "Cockpit Green (IJN) Flat",
+          "rgb": "74925C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-84",
+          "name": "Dark Iron Flat",
+          "rgb": "4C3634",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-85",
+          "name": "Rubber Black Flat",
+          "rgb": "241A14",
+          "smooth": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Gloss Acrylic",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "X-1",
+          "name": "Black Gloss",
+          "rgb": "040204"
+        },
+        {
+          "code": "X-2",
+          "name": "White Gloss",
+          "rgb": "FCFEFC"
+        },
+        {
+          "code": "X-3",
+          "name": "Royal Blue Gloss",
+          "rgb": "1C2E54"
+        },
+        {
+          "code": "X-4",
+          "name": "Blue Gloss",
+          "rgb": "0C367C"
+        },
+        {
+          "code": "X-5",
+          "name": "Green Gloss",
+          "rgb": "04461C"
+        },
+        {
+          "code": "X-6",
+          "name": "Orange Gloss",
+          "rgb": "FC8204"
+        },
+        {
+          "code": "X-7",
+          "name": "Red Gloss",
+          "rgb": "FC0204"
+        },
+        {
+          "code": "X-8",
+          "name": "Lemon Yellow Gloss",
+          "rgb": "FCE604"
+        },
+        {
+          "code": "X-9",
+          "name": "Brown Gloss",
+          "rgb": "4C2204"
+        },
+        {
+          "code": "X-10",
+          "name": "Gun Metal Metallic",
+          "rgb": "4C5654",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-11",
+          "name": "Chrome Silver Metallic",
+          "rgb": "C4CACC",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-12",
+          "name": "Gold Leaf Metallic",
+          "rgb": "CCA20C",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-13",
+          "name": "Blue Metallic",
+          "rgb": "1D729B",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-14",
+          "name": "Sky Blue Gloss",
+          "rgb": "1C9AC4"
+        },
+        {
+          "code": "X-15",
+          "name": "Light Green Gloss",
+          "rgb": "64BA24"
+        },
+        {
+          "code": "X-16",
+          "name": "Purple Gloss",
+          "rgb": "4C4AA3"
+        },
+        {
+          "code": "X-17",
+          "name": "Pink Gloss",
+          "rgb": "FC82AC"
+        },
+        {
+          "code": "X-18",
+          "name": "Semi Gloss Black Satin",
+          "rgb": "343234",
+          "smooth": 0.5
+        },
+        {
+          "code": "X-19",
+          "name": "Smoke Satin",
+          "rgb": "8C928C",
+          "smooth": 0.5
+        },
+        {
+          "code": "X-21",
+          "name": "Base Matt",
+          "rgb": "FCFEFC"
+        },
+        {
+          "code": "X-22",
+          "name": "Clear Gloss",
+          "rgb": "FCFEFC",
+          "alpha": 0.5
+        },
+        {
+          "code": "X-23",
+          "name": "Blue Clear Gloss",
+          "rgb": "34B6D4",
+          "alpha": 0.5
+        },
+        {
+          "code": "X-24",
+          "name": "Yellow Clear Gloss",
+          "rgb": "FCE604",
+          "alpha": 0.5
+        },
+        {
+          "code": "X-25",
+          "name": "Green Clear Gloss",
+          "rgb": "1C9644",
+          "alpha": 0.5
+        },
+        {
+          "code": "X-26",
+          "name": "Orange Clear Gloss",
+          "rgb": "FC8E14",
+          "alpha": 0.5
+        },
+        {
+          "code": "X-27",
+          "name": "Red Clear Gloss",
+          "rgb": "FB0224",
+          "alpha": 0.5
+        },
+        {
+          "code": "X-28",
+          "name": "Park Green Gloss",
+          "rgb": "34A64C"
+        },
+        {
+          "code": "X-31",
+          "name": "Titanium Gold Metallic",
+          "rgb": "CCBA74",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-32",
+          "name": "Titanium Silver Metallic",
+          "rgb": "CCCEBC",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-33",
+          "name": "Bronze Metallic",
+          "rgb": "6B2624",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-34",
+          "name": "Brown Metallic",
+          "rgb": "9B3E04",
+          "refl": "Metallic"
+        },
+        {
+          "code": "X-35",
+          "name": "Clear Satin",
+          "rgb": "FCFEFC",
+          "smooth": 0.5,
+          "alpha": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Flat Acrylic",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "XF-1",
+          "name": "Black Flat",
+          "rgb": "343234",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-2",
+          "name": "White Flat",
+          "rgb": "FCFEFC",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-3",
+          "name": "Yellow Flat",
+          "rgb": "FCCE05",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-4",
+          "name": "Yellow Green Flat",
+          "rgb": "B4C20C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-5",
+          "name": "Green Flat",
+          "rgb": "244214",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-6",
+          "name": "Copper Metallic",
+          "rgb": "CC5E04",
+          "refl": "Metallic"
+        },
+        {
+          "code": "XF-7",
+          "name": "Red Flat",
+          "rgb": "FB0204",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-8",
+          "name": "Blue Flat",
+          "rgb": "2C4A7C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-9",
+          "name": "Hull Red Flat",
+          "rgb": "3C0E04",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-10",
+          "name": "Brown Flat",
+          "rgb": "3C2A0C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-11",
+          "name": "J.N. Green Flat",
+          "rgb": "24320C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-12",
+          "name": "J.N. Grey Flat",
+          "rgb": "BBBBBB",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-13",
+          "name": "J.A. Green Flat",
+          "rgb": "344A1C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-14",
+          "name": "J.A. Grey Flat",
+          "rgb": "B4CA8C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-15",
+          "name": "Flesh Flat",
+          "rgb": "FCCE9C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-16",
+          "name": "Aluminio Flat",
+          "rgb": "CCCECC",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-17",
+          "name": "Sea Blue Flat",
+          "rgb": "343A44",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-18",
+          "name": "Medium Blue Flat",
+          "rgb": "445A64",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-19",
+          "name": "Sky Grey Flat",
+          "rgb": "ACB6C4",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-20",
+          "name": "Medium Grey Flat",
+          "rgb": "A4AA9C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-21",
+          "name": "Sky Flat",
+          "rgb": "B4BE74",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-22",
+          "name": "RLM Grey Flat",
+          "rgb": "7C8E7C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-23",
+          "name": "Light Blue Flat",
+          "rgb": "93B6AC",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-24",
+          "name": "Dark Grey Flat",
+          "rgb": "3C4244",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-25",
+          "name": "Light Sea Grey Flat",
+          "rgb": "7C8AAC",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-26",
+          "name": "Deep Green Flat",
+          "rgb": "044634",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-27",
+          "name": "Black Green Flat",
+          "rgb": "042614",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-28",
+          "name": "Dark Copper Flat",
+          "rgb": "9C5E3C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-49",
+          "name": "Khaki Flat",
+          "rgb": "7C7644",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-50",
+          "name": "Field Blue Flat",
+          "rgb": "344244",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-51",
+          "name": "Khaki Drab Flat",
+          "rgb": "2C3214",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-52",
+          "name": "Earth Flat",
+          "rgb": "744A34",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-53",
+          "name": "Neutral Grey Flat",
+          "rgb": "6C7A7C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-54",
+          "name": "Dark Sea Grey Flat",
+          "rgb": "5C5E64",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-55",
+          "name": "Deck Tan Flat",
+          "rgb": "B4B284",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-56",
+          "name": "Metallic Grey Flat",
+          "rgb": "5C6264",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-57",
+          "name": "Buff Flat",
+          "rgb": "B4B26C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-58",
+          "name": "Olive Green Flat",
+          "rgb": "1C3E14",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-59",
+          "name": "Desert Yellow Flat",
+          "rgb": "D49E44",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-60",
+          "name": "Dark Yellow Flat",
+          "rgb": "C4B244",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-61",
+          "name": "Dark Green Flat",
+          "rgb": "1C2E14",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-62",
+          "name": "Olive Drab Flat",
+          "rgb": "3C4A14",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-63",
+          "name": "German Grey Flat",
+          "rgb": "3C464C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-64",
+          "name": "Red Brown Flat",
+          "rgb": "64370C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-65",
+          "name": "Field Grey Flat",
+          "rgb": "64866C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-66",
+          "name": "Light Grey Flat",
+          "rgb": "64767C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-67",
+          "name": "NATO Green Flat",
+          "rgb": "345E1C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-68",
+          "name": "NATO Brown Flat",
+          "rgb": "743204",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-69",
+          "name": "NATO Black Flat",
+          "rgb": "242624",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-70",
+          "name": "Dark Green 2 Flat",
+          "rgb": "042614",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-71",
+          "name": "Cockpit Green (IJN) Flat",
+          "rgb": "74925C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-72",
+          "name": "Brown (JGSDF) Flat",
+          "rgb": "744E0C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-73",
+          "name": "Dark Green (JGSDF) Flat",
+          "rgb": "1C4214",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-74",
+          "name": "Olive Drab (JGSDF) Flat",
+          "rgb": "344214",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-75",
+          "name": "IJN Gray (Kure Arsenal) Flat",
+          "rgb": "848E94",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-76",
+          "name": "Gray Green (IJN) Flat",
+          "rgb": "BCC2AB",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-77",
+          "name": "IJN Gray (Sasebo Arsenal) Flat",
+          "rgb": "6C6E74",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-78",
+          "name": "Wooden Deck Tan Flat",
+          "rgb": "D4B684",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-79",
+          "name": "Linoleum Deck Brown Flat",
+          "rgb": "7C462C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-80",
+          "name": "Royal Light Gray Flat",
+          "rgb": "C4CACC",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-81",
+          "name": "Dark Green 2 RAF Flat",
+          "rgb": "345634",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-82",
+          "name": "Ocean Gray 2 RAF Flat",
+          "rgb": "6C8E9C",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-83",
+          "name": "Medium Sea Gray 2 RAF Flat",
+          "rgb": "ACBEBC",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-84",
+          "name": "Dark Iron Flat",
+          "rgb": "4C3634",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-85",
+          "name": "Rubber Black Flat",
+          "rgb": "241A14",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-86",
+          "name": "Clear Flat",
+          "rgb": "FCFEFC",
+          "smooth": 0.0,
+          "alpha": 0.5
+        },
+        {
+          "code": "XF-87",
+          "name": "IJN Gray (Maizuru Arsenal) Flat",
+          "rgb": "7D8085",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-88",
+          "name": "Dark Yellow 2 (German Army) Flat",
+          "rgb": "BFAC4D",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-89",
+          "name": "Dark Green 2 (German Army) Flat",
+          "rgb": "5B8261",
+          "smooth": 0.0
+        },
+        {
+          "code": "XF-90",
+          "name": "Red Brown 2 (German Army) Flat",
+          "rgb": "4D3631",
+          "smooth": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Spray Lacquer",
+      "type": "Lacquer",
+      "colors": [
+        {
+          "code": "TS-1",
+          "name": "Red Brown Flat",
+          "rgb": "64360C",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-2",
+          "name": "Dark Green Flat",
+          "rgb": "1C2E14",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-3",
+          "name": "Dark Yellow Flat",
+          "rgb": "CCB25C",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-4",
+          "name": "German Grey Flat",
+          "rgb": "3C464C",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-5",
+          "name": "Olive Drab Flat",
+          "rgb": "3C4A14",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-6",
+          "name": "Matt Black Flat",
+          "rgb": "343234",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-7",
+          "name": "Racing White Gloss",
+          "rgb": "F0F2F0"
+        },
+        {
+          "code": "TS-8",
+          "name": "Italian Red Gloss",
+          "rgb": "FC0204"
+        },
+        {
+          "code": "TS-9",
+          "name": "British Green Gloss",
+          "rgb": "042E14"
+        },
+        {
+          "code": "TS-10",
+          "name": "French Blue Gloss",
+          "rgb": "3592BC"
+        },
+        {
+          "code": "TS-11",
+          "name": "Maroon Gloss",
+          "rgb": "4C1204"
+        },
+        {
+          "code": "TS-12",
+          "name": "Orange Gloss",
+          "rgb": "FC5A04"
+        },
+        {
+          "code": "TS-13",
+          "name": "Clear Gloss",
+          "rgb": "FCFEFC",
+          "alpha": 0.5
+        },
+        {
+          "code": "TS-14",
+          "name": "Black Gloss",
+          "rgb": "343234"
+        },
+        {
+          "code": "TS-15",
+          "name": "Blue Gloss",
+          "rgb": "0C367C"
+        },
+        {
+          "code": "TS-16",
+          "name": "Yellow Gloss",
+          "rgb": "FCE604"
+        },
+        {
+          "code": "TS-17",
+          "name": "Aluminum Gloss",
+          "rgb": "C4CACC"
+        },
+        {
+          "code": "TS-18",
+          "name": "Red Metallic",
+          "rgb": "E4021C",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-19",
+          "name": "Blue Metallic",
+          "rgb": "0C52A3",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-20",
+          "name": "Green Metallic",
+          "rgb": "2C9E4C",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-21",
+          "name": "Gold Leaf Metallic",
+          "rgb": "CCA20C",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-22",
+          "name": "Light Green Gloss",
+          "rgb": "84C61C"
+        },
+        {
+          "code": "TS-23",
+          "name": "Light Blue Gloss",
+          "rgb": "24AECC"
+        },
+        {
+          "code": "TS-24",
+          "name": "Purple Gloss",
+          "rgb": "4C4AA3"
+        },
+        {
+          "code": "TS-25",
+          "name": "Pink Gloss",
+          "rgb": "FC9AB4"
+        },
+        {
+          "code": "TS-26",
+          "name": "Pure White Gloss",
+          "rgb": "FCFEFC"
+        },
+        {
+          "code": "TS-27",
+          "name": "Matt White Flat",
+          "rgb": "FCFEFC",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-28",
+          "name": "Olive Drab 2 Flat",
+          "rgb": "4C5614",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-29",
+          "name": "Black Satin",
+          "rgb": "343234",
+          "smooth": 0.5
+        },
+        {
+          "code": "TS-30",
+          "name": "Silver Leaf Metallic",
+          "rgb": "CCCECC",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-31",
+          "name": "Bright Orange Gloss",
+          "rgb": "FC1E14"
+        },
+        {
+          "code": "TS-32",
+          "name": "Haze Grey Flat",
+          "rgb": "7C8E94",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-33",
+          "name": "Dull Red Flat",
+          "rgb": "640204",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-34",
+          "name": "Camel Yellow Gloss",
+          "rgb": "FCB204"
+        },
+        {
+          "code": "TS-35",
+          "name": "Park Green Gloss",
+          "rgb": "34A23C"
+        },
+        {
+          "code": "TS-36",
+          "name": "Fluorescent Red Gloss",
+          "rgb": "FB021C",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "TS-37",
+          "name": "Lavender Gloss",
+          "rgb": "6C2A93"
+        },
+        {
+          "code": "TS-38",
+          "name": "Gun Metal Metallic",
+          "rgb": "4C5654",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-39",
+          "name": "Mica Red Gloss",
+          "rgb": "E40204"
+        },
+        {
+          "code": "TS-40",
+          "name": "Black Metallic",
+          "rgb": "3C3E44",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-41",
+          "name": "Coral Blue Gloss",
+          "rgb": "4CB6A4"
+        },
+        {
+          "code": "TS-42",
+          "name": "Light Gun Metal Gloss",
+          "rgb": "747E7C"
+        },
+        {
+          "code": "TS-43",
+          "name": "Racing Green Gloss",
+          "rgb": "1C4214"
+        },
+        {
+          "code": "TS-44",
+          "name": "Brilliant Blue Gloss",
+          "rgb": "0C62AC"
+        },
+        {
+          "code": "TS-45",
+          "name": "Pearl White Gloss",
+          "rgb": "F8F8F0"
+        },
+        {
+          "code": "TS-46",
+          "name": "Light Sand Flat",
+          "rgb": "CCA65C",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-47",
+          "name": "Chrome Yellow Gloss",
+          "rgb": "FCCE04"
+        },
+        {
+          "code": "TS-48",
+          "name": "Gunship Grey Flat",
+          "rgb": "444A4C",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-49",
+          "name": "Bright Red Gloss",
+          "rgb": "FC0204"
+        },
+        {
+          "code": "TS-50",
+          "name": "Mica Blue Gloss",
+          "rgb": "0C3A8B"
+        },
+        {
+          "code": "TS-51",
+          "name": "Racing Blue Gloss",
+          "rgb": "0C1E7C"
+        },
+        {
+          "code": "TS-52",
+          "name": "Candy Lime Green Gloss",
+          "rgb": "4CAE24"
+        },
+        {
+          "code": "TS-53",
+          "name": "Deep Blue Metallic",
+          "rgb": "142234",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-54",
+          "name": "Light Blue Metallic",
+          "rgb": "14667C",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-55",
+          "name": "Dark Blue Gloss",
+          "rgb": "04122C"
+        },
+        {
+          "code": "TS-56",
+          "name": "Brilliant Orange Gloss",
+          "rgb": "FC8204"
+        },
+        {
+          "code": "TS-57",
+          "name": "Blue Violet Gloss",
+          "rgb": "5472B4"
+        },
+        {
+          "code": "TS-58",
+          "name": "Pearl Light Blue Gloss",
+          "rgb": "7496BC"
+        },
+        {
+          "code": "TS-59",
+          "name": "Pearl Light Red Gloss",
+          "rgb": "CC86A4"
+        },
+        {
+          "code": "TS-60",
+          "name": "Pearl Green Gloss",
+          "rgb": "9CCA94"
+        },
+        {
+          "code": "TS-61",
+          "name": "NATO Green Flat",
+          "rgb": "345E1C",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-62",
+          "name": "NATO Brown Flat",
+          "rgb": "743205",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-63",
+          "name": "NATO Black Flat",
+          "rgb": "242624",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-64",
+          "name": "Dark Mica Blue Gloss",
+          "rgb": "0C1624"
+        },
+        {
+          "code": "TS-65",
+          "name": "Pearl Clear Gloss",
+          "rgb": "F0F2E8",
+          "alpha": 0.5
+        },
+        {
+          "code": "TS-66",
+          "name": "IJN Gray (Kure Arsenal) Flat",
+          "rgb": "848E94",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-67",
+          "name": "IJN Gray (Sasebo Arsenal) Flat",
+          "rgb": "6C6E74",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-68",
+          "name": "Wooden Deck Tan Flat",
+          "rgb": "CCA66C",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-69",
+          "name": "Linoleum Deck Brown Flat",
+          "rgb": "5C2204",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-70",
+          "name": "Olive Drab (JGSDF) Flat",
+          "rgb": "344214",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-71",
+          "name": "Smoke Satin",
+          "rgb": "B4AAAC",
+          "smooth": 0.5
+        },
+        {
+          "code": "TS-72",
+          "name": "Blue Clear Gloss",
+          "rgb": "34B2BC",
+          "alpha": 0.5
+        },
+        {
+          "code": "TS-73",
+          "name": "Orange Clear Gloss",
+          "rgb": "FC7604",
+          "alpha": 0.5
+        },
+        {
+          "code": "TS-74",
+          "name": "Red Clear Gloss",
+          "rgb": "F30283",
+          "alpha": 0.5
+        },
+        {
+          "code": "TS-75",
+          "name": "Champagne Gold Metallic",
+          "rgb": "C4B67C",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-76",
+          "name": "Mica Silver Metallic",
+          "rgb": "CCCECC",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-77",
+          "name": "Flesh Flat",
+          "rgb": "FCBE84",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-78",
+          "name": "Field Grey Flat",
+          "rgb": "4C6E54",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-79",
+          "name": "Clear Satin",
+          "rgb": "FCFEFC",
+          "smooth": 0.5,
+          "alpha": 0.5
+        },
+        {
+          "code": "TS-80",
+          "name": "Clear Flat",
+          "rgb": "FCFEFC",
+          "smooth": 0.0,
+          "alpha": 0.5
+        },
+        {
+          "code": "TS-81",
+          "name": "Royal Light Gray Flat",
+          "rgb": "C4CACC",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-82",
+          "name": "Rubber Black Flat",
+          "rgb": "44464C",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-83",
+          "name": "Silver Metallic",
+          "rgb": "BCBEC6",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-84",
+          "name": "Gold Metallic",
+          "rgb": "C4AE4D",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-85",
+          "name": "Bright Mica Red Ferrari Gloss",
+          "rgb": "E40214"
+        },
+        {
+          "code": "TS-86",
+          "name": "Brilliant Red Gloss",
+          "rgb": "E40214"
+        },
+        {
+          "code": "TS-87",
+          "name": "Titanium Gold Metallic",
+          "rgb": "C4BA84",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-88",
+          "name": "Titanium Silver Metallic",
+          "rgb": "C4CEC4",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-89",
+          "name": "Pearl Blue Gloss",
+          "rgb": "043E84"
+        },
+        {
+          "code": "TS-90",
+          "name": "Brown (JGSDF) Flat",
+          "rgb": "846634",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-91",
+          "name": "Dark Green (JGSDF) Flat",
+          "rgb": "146244",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-92",
+          "name": "Orange Metallic",
+          "rgb": "E47A04",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-93",
+          "name": "Pure Blue Flat",
+          "rgb": "045EAC",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-94",
+          "name": "Gray Metallic",
+          "rgb": "54524C",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-95",
+          "name": "Pure Red Metallic",
+          "rgb": "D4022C",
+          "refl": "Metallic"
+        },
+        {
+          "code": "TS-96",
+          "name": "Orange Fluorescent",
+          "rgb": "EC8A14",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "TS-97",
+          "name": "Pearl Yellow Matt",
+          "rgb": "F6E246",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-98",
+          "name": "Pure Orange Matt",
+          "rgb": "E28F00",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-99",
+          "name": "IJN Gray (Maizuru) Matt",
+          "rgb": "7D8185",
+          "smooth": 0.0
+        },
+        {
+          "code": "TS-100",
+          "name": "Bright Gun Metal Semi-Gloss",
+          "rgb": "6F7F85",
+          "smooth": 0.5
+        },
+        {
+          "code": "TS-101",
+          "name": "Base White Matt",
+          "rgb": "FFFFFF",
+          "smooth": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Aviation Spray Lacquer",
+      "type": "Lacquer",
+      "colors": [
+        {
+          "code": "AS-1",
+          "name": "Dark Green Flat",
+          "rgb": "0C3A14",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-2",
+          "name": "Light Gray (IJN) Flat",
+          "rgb": "A4AA9C",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-3",
+          "name": "Graygreen (Luftwaffe) Flat",
+          "rgb": "243A2C",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-4",
+          "name": "Gray Violet (Luftwaffe) Flat",
+          "rgb": "445264",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-5",
+          "name": "Light Blue (Luftwaffe) Flat",
+          "rgb": "9CC2B4",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-6",
+          "name": "Olive Drab (USAF) Flat",
+          "rgb": "3C4A14",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-7",
+          "name": "Neutral Gray (USAF) Flat",
+          "rgb": "7C8A8C",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-8",
+          "name": "Navy Blue Flat",
+          "rgb": "2C425C",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-9",
+          "name": "Dark Green Flat",
+          "rgb": "334A14",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-10",
+          "name": "Ocean Gray Flat",
+          "rgb": "545A63",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-11",
+          "name": "Medium Sea Gray Flat",
+          "rgb": "8C9A84",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-12",
+          "name": "Bare Metal Silver Flat",
+          "rgb": "C4CACC",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-13",
+          "name": "Green (USAF) Flat",
+          "rgb": "1C3224",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-14",
+          "name": "Olive Green (USAF) Flat",
+          "rgb": "345214",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-15",
+          "name": "Tan (USAF) Flat",
+          "rgb": "A48254",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-16",
+          "name": "Light Gray Flat",
+          "rgb": "CCD2BC",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-17",
+          "name": "Dark Green (IJA) Flat",
+          "rgb": "1C4214",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-18",
+          "name": "Light Gray (IJA) Flat",
+          "rgb": "9DB6A4",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-19",
+          "name": "Intermediate Blue (USN) Flat",
+          "rgb": "5C8E94",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-20",
+          "name": "Insignia White (USN) Flat",
+          "rgb": "F4F2E4",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-21",
+          "name": "Dark Green 2 (IJN) Flat",
+          "rgb": "042A14",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-22",
+          "name": "Dark Earth Flat",
+          "rgb": "644E2C",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-23",
+          "name": "Light Green (Luftwaffe) Flat",
+          "rgb": "346E24",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-24",
+          "name": "Dark Green (Luftwaffe) Flat",
+          "rgb": "1C2A0C",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-25",
+          "name": "Dark Ghost Gray Flat",
+          "rgb": "6C868C",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-26",
+          "name": "Lightghost Gray Flat",
+          "rgb": "849EA4",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-27",
+          "name": "Gunship Gray 2 Flat",
+          "rgb": "3C4E5C",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-28",
+          "name": "Medium Gray Flat",
+          "rgb": "747E7C",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-29",
+          "name": "Gray Green Flat",
+          "rgb": "BCC2AB",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-30",
+          "name": "Dark Green 2 (RAF) Flat",
+          "rgb": "345634",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-31",
+          "name": "Ocean Gray 2 (RAF) Flat",
+          "rgb": "6C8E9C",
+          "smooth": 0.0
+        },
+        {
+          "code": "AS-32",
+          "name": "Medium Sea Gray (RAF) Flat",
+          "rgb": "ACBEBC",
+          "smooth": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Polycarbonate Spray Lacquer",
+      "type": "Lacquer",
+      "colors": [
+        {
+          "code": "PS-1",
+          "name": "White Flat",
+          "rgb": "FCFEFC",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-2",
+          "name": "Red Flat",
+          "rgb": "FB0204",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-3",
+          "name": "Light Blue Flat",
+          "rgb": "1C9AC4",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-4",
+          "name": "Blue Flat",
+          "rgb": "0C2E83",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-5",
+          "name": "Black Flat",
+          "rgb": "343234",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-6",
+          "name": "Yellow Flat",
+          "rgb": "FCE605",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-7",
+          "name": "Orange Flat",
+          "rgb": "FC4E04",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-8",
+          "name": "Light Green Flat",
+          "rgb": "64BA24",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-9",
+          "name": "Green Flat",
+          "rgb": "1B3614",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-10",
+          "name": "Purple Flat",
+          "rgb": "3C3694",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-11",
+          "name": "Pink Flat",
+          "rgb": "FC82BD",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-12",
+          "name": "Silver Flat",
+          "rgb": "C4CACC",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-13",
+          "name": "Gold Flat",
+          "rgb": "CCA20C",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-14",
+          "name": "Copper Flat",
+          "rgb": "CC5204",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-15",
+          "name": "Red Metallic",
+          "rgb": "CC0204",
+          "refl": "Metallic"
+        },
+        {
+          "code": "PS-16",
+          "name": "Blue Metallic",
+          "rgb": "0466A4",
+          "refl": "Metallic"
+        },
+        {
+          "code": "PS-17",
+          "name": "Green Metallic",
+          "rgb": "1C862C",
+          "refl": "Metallic"
+        },
+        {
+          "code": "PS-18",
+          "name": "Purple Metallic",
+          "rgb": "4C4693",
+          "refl": "Metallic"
+        },
+        {
+          "code": "PS-19",
+          "name": "Camel Yellow Flat",
+          "rgb": "FCB204",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-20",
+          "name": "Red Fluorescent",
+          "rgb": "FB021C",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "PS-21",
+          "name": "Park Green Flat",
+          "rgb": "1C9633",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-22",
+          "name": "Racing Green Flat",
+          "rgb": "043614",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-23",
+          "name": "Gun Metal Flat",
+          "rgb": "4D5654",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-24",
+          "name": "Orange Fluorescent",
+          "rgb": "FC3614",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "PS-25",
+          "name": "Bright Green Flat",
+          "rgb": "1C9A54",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-27",
+          "name": "Yellow Fluorescent",
+          "rgb": "E4F20B",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "PS-28",
+          "name": "Green Fluorescent",
+          "rgb": "8CCA1B",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "PS-29",
+          "name": "Pink Fluorescent",
+          "rgb": "F452A4",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "PS-30",
+          "name": "Brilliant Blue Flat",
+          "rgb": "0C52A3",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-31",
+          "name": "Smoke Flat",
+          "rgb": "9B9683",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-32",
+          "name": "Corsa Grey Flat",
+          "rgb": "A4C6B4",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-33",
+          "name": "Cherry Red Flat",
+          "rgb": "C41A54",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-34",
+          "name": "Bright Red Flat",
+          "rgb": "FB0204",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-35",
+          "name": "Blue Violet Flat",
+          "rgb": "3C4AA3",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-36",
+          "name": "Silver Translucent",
+          "rgb": "CCCECC",
+          "alpha": 0.5
+        },
+        {
+          "code": "PS-37",
+          "name": "Red Translucent",
+          "rgb": "CB0224",
+          "alpha": 0.5
+        },
+        {
+          "code": "PS-38",
+          "name": "Blue Translucent",
+          "rgb": "24469C",
+          "alpha": 0.5
+        },
+        {
+          "code": "PS-39",
+          "name": "Light Blue Translucent",
+          "rgb": "0C5294",
+          "alpha": 0.5
+        },
+        {
+          "code": "PS-40",
+          "name": "Pink Translucent",
+          "rgb": "F42A84",
+          "alpha": 0.5
+        },
+        {
+          "code": "PS-41",
+          "name": "Bright Silver Flat",
+          "rgb": "C4CACC",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-42",
+          "name": "Yellow Translucent",
+          "rgb": "FCCE04",
+          "alpha": 0.5
+        },
+        {
+          "code": "PS-43",
+          "name": "Orange Translucent",
+          "rgb": "FC6604",
+          "alpha": 0.5
+        },
+        {
+          "code": "PS-44",
+          "name": "Grenn Translucent",
+          "rgb": "1C9644",
+          "alpha": 0.5
+        },
+        {
+          "code": "PS-45",
+          "name": "Purple Translucent",
+          "rgb": "4C3294",
+          "alpha": 0.5
+        },
+        {
+          "code": "PS-46",
+          "name": "Purple / Green Iridescent",
+          "rgb": "5E6061",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-47",
+          "name": "Pink / Gold Iridescent",
+          "rgb": "6D5948",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-48",
+          "name": "Silver Anodized Aluminum Satin",
+          "rgb": "CCD6D4",
+          "smooth": 0.5
+        },
+        {
+          "code": "PS-49",
+          "name": "Sky Blue Anodized Aluminum Flat",
+          "rgb": "8CBACC",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-50",
+          "name": "Sparkilng Pink Anodized Aluminum Flat",
+          "rgb": "CB86B4",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-51",
+          "name": "Purple Anodized Aluminum Flat",
+          "rgb": "848ABC",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-52",
+          "name": "Champagne Gold Anodized Aluminum Flat",
+          "rgb": "D4C67B",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-53",
+          "name": "Lamé Flake Flat",
+          "rgb": "2E2C1C",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-54",
+          "name": "Cobalt Green Flat",
+          "rgb": "04A694",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-55",
+          "name": "Clear Flat",
+          "rgb": "FCFEFC",
+          "smooth": 0.0,
+          "alpha": 0.5
+        },
+        {
+          "code": "PS-56",
+          "name": "Mustard Yellow  Flat",
+          "rgb": "D4B204",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-57",
+          "name": "Pearl White  Flat",
+          "rgb": "FCFEFC",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-58",
+          "name": "Pearl Clear Flat",
+          "rgb": "FCFEFC",
+          "smooth": 0.0,
+          "alpha": 0.5
+        },
+        {
+          "code": "PS-59",
+          "name": "Dark Blue Metallic",
+          "rgb": "043274",
+          "refl": "Metallic"
+        },
+        {
+          "code": "PS-60",
+          "name": "Bright Mica Red  Flat",
+          "rgb": "E40214",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-61",
+          "name": "Orange  Metallic",
+          "rgb": "C45614",
+          "refl": "Metallic"
+        },
+        {
+          "code": "PS-62",
+          "name": "Pure Orange  Flat",
+          "rgb": "E47A04",
+          "smooth": 0.0
+        },
+        {
+          "code": "PS-63",
+          "name": "Bright Gun Metal Flat",
+          "rgb": "848E94",
+          "smooth": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Lacquer",
+      "type": "Lacquer",
+      "colors": [
+        {
+          "code": "LP-1",
+          "name": "Black Gloss",
+          "rgb": "040000"
+        },
+        {
+          "code": "LP-2",
+          "name": "White Gloss",
+          "rgb": "FFFFFF"
+        },
+        {
+          "code": "LP-3",
+          "name": "Black Flat",
+          "rgb": "040000",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-4",
+          "name": "White Flat",
+          "rgb": "FFFFFF",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-5",
+          "name": "Semi Gloss Black Semi-Gloss",
+          "rgb": "040000",
+          "smooth": 0.5
+        },
+        {
+          "code": "LP-6",
+          "name": "Pure Blue Gloss",
+          "rgb": "005BAC"
+        },
+        {
+          "code": "LP-7",
+          "name": "Pure Red Gloss",
+          "rgb": "E70012"
+        },
+        {
+          "code": "LP-8",
+          "name": "Pure Yellow Gloss",
+          "rgb": "FFEF03"
+        },
+        {
+          "code": "LP-9",
+          "name": "Clear Gloss",
+          "rgb": "FFFFFF",
+          "alpha": 0.5
+        },
+        {
+          "code": "LP-10",
+          "name": "Lacquer Thinner",
+          "rgb": "FFFFFF",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-11",
+          "name": "Silver Gloss",
+          "rgb": "DFDFDF"
+        },
+        {
+          "code": "LP-12",
+          "name": "IJN Gray (Kure Arsenal) Flat",
+          "rgb": "717B85",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-13",
+          "name": "IJN Gray (Sasebo Arsenal) Flat",
+          "rgb": "535760",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-14",
+          "name": "IJN Gray (Maizuru Arsenal) Flat",
+          "rgb": "7D8089",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-15",
+          "name": "IJN Gray (Yokosuka Arsenal) Flat",
+          "rgb": "646B75",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-16",
+          "name": "Wooden Deck Tan Flat",
+          "rgb": "B2B280",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-17",
+          "name": "Linoleum Deck Brown Flat",
+          "rgb": "403300",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-18",
+          "name": "Dull Red Flat",
+          "rgb": "822100",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-19",
+          "name": "Gun Metal Metallic",
+          "rgb": "333333",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-20",
+          "name": "Light Gun Metal Metallic",
+          "rgb": "666666",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-21",
+          "name": "Italian Red Gloss",
+          "rgb": "FE0000"
+        },
+        {
+          "code": "LP-22",
+          "name": "Base Flat",
+          "rgb": "FFFFFF",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-23",
+          "name": "Clear Flat",
+          "rgb": "FFFFFF",
+          "smooth": 0.0,
+          "alpha": 0.5
+        },
+        {
+          "code": "LP-24",
+          "name": "Clear Semi-Gloss",
+          "rgb": "FFFFFF",
+          "smooth": 0.5,
+          "alpha": 0.5
+        },
+        {
+          "code": "LP-25",
+          "name": "Brown (JGSDF) Flat",
+          "rgb": "674D00",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-26",
+          "name": "Dark Green (JGSDF) Flat",
+          "rgb": "1A6701",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-27",
+          "name": "German Gray Flat",
+          "rgb": "325C5B",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-28",
+          "name": "Olive Drab Flat",
+          "rgb": "325211",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-29",
+          "name": "Olive Drab 2 Flat",
+          "rgb": "295A01",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-30",
+          "name": "Light Sand Flat",
+          "rgb": "E3AD6D",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-31",
+          "name": "Dark Green 2 (IJN) Flat",
+          "rgb": "024136",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-32",
+          "name": "Light Gray (IJN) Flat",
+          "rgb": "C9D1C2",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-33",
+          "name": "Gray Green (IJN) Flat",
+          "rgb": "B9C4A6",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-34",
+          "name": "Light Gray Flat",
+          "rgb": "D0CCC0",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-35",
+          "name": "Insignia White Flat",
+          "rgb": "DDDCD7",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-36",
+          "name": "Dark Ghost Gray Flat",
+          "rgb": "80A1B2",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-37",
+          "name": "Light Ghost Gray Flat",
+          "rgb": "98B4C0",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-38",
+          "name": "Flat Aluminum Flat",
+          "rgb": "DCDEDD",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-39",
+          "name": "Racing White Flat",
+          "rgb": "FFFFFF",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-40",
+          "name": "Black Metallic",
+          "rgb": "3F3B3A",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-41",
+          "name": "Mica Blue Metallic",
+          "rgb": "01398E",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-42",
+          "name": "Mica Red Metallic",
+          "rgb": "C8171D",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-43",
+          "name": "White Pearl",
+          "rgb": "FFFFFF",
+          "refl": "Pearl"
+        },
+        {
+          "code": "LP-44",
+          "name": "Orange Metallic",
+          "rgb": "EF7800",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-45",
+          "name": "Racing Blue Metallic",
+          "rgb": "013B8F",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-46",
+          "name": "Pure Red Metallic",
+          "rgb": "DF0012",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-47",
+          "name": "Pearl Blue Metallic",
+          "rgb": "013B8F",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-48",
+          "name": "Sparkling Silver Gloss",
+          "rgb": "DEE0DF"
+        },
+        {
+          "code": "LP-49",
+          "name": "Clear Pearl",
+          "rgb": "F7F9F8",
+          "alpha": 0.5
+        },
+        {
+          "code": "LP-50",
+          "name": "Bright Red Gloss",
+          "rgb": "E50014"
+        },
+        {
+          "code": "LP-51",
+          "name": "Pure Orange Gloss",
+          "rgb": "F18D01"
+        },
+        {
+          "code": "LP-52",
+          "name": "Red Clear Gloss",
+          "rgb": "E5007F",
+          "alpha": 0.5
+        },
+        {
+          "code": "LP-53",
+          "name": "Orange Clear Gloss",
+          "rgb": "F08801",
+          "alpha": 0.5
+        },
+        {
+          "code": "LP-54",
+          "name": "Dark Iron Metallic",
+          "rgb": "534334",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-55",
+          "name": "Dark Yellow 2 Flat",
+          "rgb": "C9B44B",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-56",
+          "name": "Dark Green 2 Flat",
+          "rgb": "5B8361",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-57",
+          "name": "Red Brown 2 Flat",
+          "rgb": "4F3733",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-58",
+          "name": "NATO Green Flat",
+          "rgb": "295438",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-59",
+          "name": "NATO Brown Flat",
+          "rgb": "6A4A31",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-60",
+          "name": "NATO Black Flat",
+          "rgb": "000000",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-61",
+          "name": "Gray Metallic",
+          "rgb": "727071",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-62",
+          "name": "Titanium Gold Metallic",
+          "rgb": "DCC893",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-63",
+          "name": "Titanium Silver Metallic",
+          "rgb": "DBDCCE",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-64",
+          "name": "Olive Drab (JGSDF) Flat",
+          "rgb": "295438",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-65",
+          "name": "Rubber Black Semi-Gloss",
+          "rgb": "000000",
+          "smooth": 0.5
+        },
+        {
+          "code": "LP-66",
+          "name": "Flesh Flat",
+          "rgb": "FACC8E",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-67",
+          "name": "Smoke Transparente Brillo",
+          "rgb": "C7C9C8",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-68",
+          "name": "Blue Transparente Brillo",
+          "rgb": "00A6EA",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-69",
+          "name": "Yellow Transparente Brillo",
+          "rgb": "FFE500",
+          "smooth": 0.0
+        },
+        {
+          "code": "LP-70",
+          "name": "Gloss Aluminum Metallic",
+          "rgb": "DCDEDD",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-71",
+          "name": "Champagne Gold Metallic",
+          "rgb": "D2C79A",
+          "refl": "Metallic"
+        },
+        {
+          "code": "LP-72",
+          "name": "Mica Silver Metallic",
+          "rgb": "D4D9DC",
+          "refl": "Metallic"
+        }
+      ]
+    }
+  ]
+}

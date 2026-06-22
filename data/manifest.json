@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-22",
+  "libraries": [
+    {
+      "id": "winsor-newton",
+      "title": "Winsor & Newton",
+      "desc": "Oil & Acrylic Colours",
+      "version": 1,
+      "colorCount": 303,
+      "file": "winsor-newton.json"
+    },
+    {
+      "id": "tamiya",
+      "title": "Tamiya",
+      "desc": "X, XF, TS, AS, PS, LP",
+      "version": 1,
+      "colorCount": 450,
+      "file": "tamiya.json"
+    },
+    {
+      "id": "gunze",
+      "title": "Gunze",
+      "desc": "Mr. Color, Hobby Color, Acrysion",
+      "version": 1,
+      "colorCount": 424,
+      "file": "gunze.json"
+    },
+    {
+      "id": "humbrol",
+      "title": "Humbrol",
+      "desc": "Enamel, Acrylic, Rail",
+      "version": 1,
+      "colorCount": 301,
+      "file": "humbrol.json"
+    },
+    {
+      "id": "ak-interactive",
+      "title": "AK Interactive",
+      "desc": "Acrylic & Real Colors",
+      "version": 1,
+      "colorCount": 655,
+      "file": "ak-interactive.json"
+    },
+    {
+      "id": "vallejo",
+      "title": "Vallejo",
+      "desc": "Model & Game Color",
+      "version": 1,
+      "colorCount": 896,
+      "file": "vallejo.json"
+    },
+    {
+      "id": "testors",
+      "title": "Testors",
+      "desc": "Enamel & Acrylic",
+      "version": 1,
+      "colorCount": 337,
+      "file": "testors.json"
+    }
+  ]
+}

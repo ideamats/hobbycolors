@@ -1,0 +1,1787 @@
+{
+  "schemaVersion": 1,
+  "id": "humbrol",
+  "title": "Humbrol",
+  "desc": "Enamel, Acrylic, Rail",
+  "version": 1,
+  "brand": "Humbrol",
+  "groups": [
+    {
+      "name": "Enamel",
+      "type": "Enamel",
+      "colors": [
+        {
+          "code": "1",
+          "name": "Grey Primer Matt",
+          "rgb": "515C56",
+          "smooth": 0.0
+        },
+        {
+          "code": "2",
+          "name": "Emerald Gloss",
+          "rgb": "0C8341"
+        },
+        {
+          "code": "3",
+          "name": "Brunswick Green Gloss",
+          "rgb": "123A1C"
+        },
+        {
+          "code": "5",
+          "name": "Dark Admiral Grey Gloss",
+          "rgb": "686E76"
+        },
+        {
+          "code": "7",
+          "name": "Light Buff Gloss",
+          "rgb": "F9BD3C"
+        },
+        {
+          "code": "9",
+          "name": "Tan Gloss",
+          "rgb": "A95826"
+        },
+        {
+          "code": "10",
+          "name": "Service Brown Gloss",
+          "rgb": "3A2F23"
+        },
+        {
+          "code": "11",
+          "name": "Silver Metallic",
+          "rgb": "CFD1D2",
+          "refl": "Metallic"
+        },
+        {
+          "code": "12",
+          "name": "Copper Metallic",
+          "rgb": "9C6326",
+          "refl": "Metallic"
+        },
+        {
+          "code": "14",
+          "name": "French Blue Gloss",
+          "rgb": "0A53A0"
+        },
+        {
+          "code": "15",
+          "name": "Midnight Blue Gloss",
+          "rgb": "1D3263"
+        },
+        {
+          "code": "16",
+          "name": "Gold Metallic",
+          "rgb": "E0AC25",
+          "refl": "Metallic"
+        },
+        {
+          "code": "18",
+          "name": "Orange Gloss",
+          "rgb": "EB6D24"
+        },
+        {
+          "code": "19",
+          "name": "Bright Red Gloss",
+          "rgb": "DE1E2E"
+        },
+        {
+          "code": "20",
+          "name": "Crimson Gloss",
+          "rgb": "901824"
+        },
+        {
+          "code": "21",
+          "name": "Black Gloss",
+          "rgb": "1B1C20"
+        },
+        {
+          "code": "22",
+          "name": "White Gloss",
+          "rgb": "F3EFEE"
+        },
+        {
+          "code": "23",
+          "name": "Duck Egg Blue Matt",
+          "rgb": "CAE8DD",
+          "smooth": 0.0
+        },
+        {
+          "code": "24",
+          "name": "Trainer Yellow Matt",
+          "rgb": "F8BC3A",
+          "smooth": 0.0
+        },
+        {
+          "code": "25",
+          "name": "Blue Matt",
+          "rgb": "20448B",
+          "smooth": 0.0
+        },
+        {
+          "code": "26",
+          "name": "Khaki Matt",
+          "rgb": "946727",
+          "smooth": 0.0
+        },
+        {
+          "code": "27",
+          "name": "Sea Grey Matt",
+          "rgb": "505654",
+          "smooth": 0.0
+        },
+        {
+          "code": "28",
+          "name": "Camouflage Grey Matt",
+          "rgb": "C3C3BB",
+          "smooth": 0.0
+        },
+        {
+          "code": "29",
+          "name": "Dark Earth Matt",
+          "rgb": "7C6150",
+          "smooth": 0.0
+        },
+        {
+          "code": "30",
+          "name": "Dark Green Matt",
+          "rgb": "1A6949",
+          "smooth": 0.0
+        },
+        {
+          "code": "31",
+          "name": "Slate Grey Matt",
+          "rgb": "5C5D5B",
+          "smooth": 0.0
+        },
+        {
+          "code": "32",
+          "name": "Dark Grey Matt",
+          "rgb": "3A424B",
+          "smooth": 0.0
+        },
+        {
+          "code": "33",
+          "name": "Black Matt",
+          "rgb": "231F20",
+          "smooth": 0.0
+        },
+        {
+          "code": "34",
+          "name": "White Matt",
+          "rgb": "F3EFEE",
+          "smooth": 0.0
+        },
+        {
+          "code": "35",
+          "name": "Varnish Gloss",
+          "rgb": "F3EFEE"
+        },
+        {
+          "code": "36",
+          "name": "Pastel Green Matt",
+          "rgb": "CBE2A6",
+          "smooth": 0.0
+        },
+        {
+          "code": "37",
+          "name": "Bright Green Matt",
+          "rgb": "58AD46",
+          "smooth": 0.0
+        },
+        {
+          "code": "38",
+          "name": "Lime Gloss",
+          "rgb": "79B042"
+        },
+        {
+          "code": "40",
+          "name": "Pale Grey Gloss",
+          "rgb": "A2A2A6"
+        },
+        {
+          "code": "41",
+          "name": "Ivory Gloss",
+          "rgb": "F5F2BE"
+        },
+        {
+          "code": "42",
+          "name": "Violet Matt",
+          "rgb": "C5A0CB",
+          "smooth": 0.0
+        },
+        {
+          "code": "44",
+          "name": "Pastel Blue Matt",
+          "rgb": "B5D0ED",
+          "smooth": 0.0
+        },
+        {
+          "code": "46",
+          "name": "Orange Matt",
+          "rgb": "EB6C24",
+          "smooth": 0.0
+        },
+        {
+          "code": "47",
+          "name": "Sea Blue Gloss",
+          "rgb": "57AFDB"
+        },
+        {
+          "code": "48",
+          "name": "Mediterranean Blue Gloss",
+          "rgb": "358BB0"
+        },
+        {
+          "code": "49",
+          "name": "Varnish Matt",
+          "rgb": "F3EFEE",
+          "smooth": 0.0
+        },
+        {
+          "code": "50",
+          "name": "Green Mist Metallic",
+          "rgb": "0D965D",
+          "refl": "Metallic"
+        },
+        {
+          "code": "51",
+          "name": "Sunset Red Metallic",
+          "rgb": "BF1F59",
+          "refl": "Metallic"
+        },
+        {
+          "code": "52",
+          "name": "Baltic Blue Metallic",
+          "rgb": "116BB0",
+          "refl": "Metallic"
+        },
+        {
+          "code": "53",
+          "name": "Gunmetal Metallic",
+          "rgb": "2A2B1B",
+          "refl": "Metallic"
+        },
+        {
+          "code": "54",
+          "name": "Brass Metallic",
+          "rgb": "DE9227",
+          "refl": "Metallic"
+        },
+        {
+          "code": "55",
+          "name": "Bronze Metallic",
+          "rgb": "B05B26",
+          "refl": "Metallic"
+        },
+        {
+          "code": "56",
+          "name": "Aluminium Metallic",
+          "rgb": "BFC9D2",
+          "refl": "Metallic"
+        },
+        {
+          "code": "57",
+          "name": "Pastel Pink Matt",
+          "rgb": "EAA8AC",
+          "smooth": 0.0
+        },
+        {
+          "code": "58",
+          "name": "Magenta Matt",
+          "rgb": "B8509E",
+          "smooth": 0.0
+        },
+        {
+          "code": "60",
+          "name": "Scarlet Matt",
+          "rgb": "BA2025",
+          "smooth": 0.0
+        },
+        {
+          "code": "61",
+          "name": "Flesh Matt",
+          "rgb": "EE8E5A",
+          "smooth": 0.0
+        },
+        {
+          "code": "62",
+          "name": "Leather Matt",
+          "rgb": "A85533",
+          "smooth": 0.0
+        },
+        {
+          "code": "63",
+          "name": "Sand Matt",
+          "rgb": "D39651",
+          "smooth": 0.0
+        },
+        {
+          "code": "64",
+          "name": "Light Grey Matt",
+          "rgb": "999CA2",
+          "smooth": 0.0
+        },
+        {
+          "code": "65",
+          "name": "Aircraft Blue Matt",
+          "rgb": "B7D6D0",
+          "smooth": 0.0
+        },
+        {
+          "code": "66",
+          "name": "Olive Drab Matt",
+          "rgb": "394044",
+          "smooth": 0.0
+        },
+        {
+          "code": "67",
+          "name": "Tank Grey Matt",
+          "rgb": "24383F",
+          "smooth": 0.0
+        },
+        {
+          "code": "68",
+          "name": "Purple Gloss",
+          "rgb": "240E48"
+        },
+        {
+          "code": "69",
+          "name": "Yellow Gloss",
+          "rgb": "FBDA05"
+        },
+        {
+          "code": "70",
+          "name": "Brick Red Matt",
+          "rgb": "8E543B",
+          "smooth": 0.0
+        },
+        {
+          "code": "71",
+          "name": "Satin Oak Satin",
+          "rgb": "EDD8AE",
+          "smooth": 0.5
+        },
+        {
+          "code": "72",
+          "name": "Khaki Drill Matt",
+          "rgb": "A28D79",
+          "smooth": 0.0
+        },
+        {
+          "code": "73",
+          "name": "Wine Matt",
+          "rgb": "954A50",
+          "smooth": 0.0
+        },
+        {
+          "code": "74",
+          "name": "Linen Matt",
+          "rgb": "FED44A",
+          "smooth": 0.0
+        },
+        {
+          "code": "75",
+          "name": "Bronze Green Matt",
+          "rgb": "56564E",
+          "smooth": 0.0
+        },
+        {
+          "code": "76",
+          "name": "Uniform Green Matt",
+          "rgb": "4E6952",
+          "smooth": 0.0
+        },
+        {
+          "code": "77",
+          "name": "Navy Blue Matt",
+          "rgb": "545E6D",
+          "smooth": 0.0
+        },
+        {
+          "code": "78",
+          "name": "Cockpit Green Matt",
+          "rgb": "34513B",
+          "smooth": 0.0
+        },
+        {
+          "code": "79",
+          "name": "Blue Grey Matt",
+          "rgb": "69606A",
+          "smooth": 0.0
+        },
+        {
+          "code": "80",
+          "name": "Grass Green Matt",
+          "rgb": "666F48",
+          "smooth": 0.0
+        },
+        {
+          "code": "81",
+          "name": "Pale Yellow Matt",
+          "rgb": "DABE31",
+          "smooth": 0.0
+        },
+        {
+          "code": "82",
+          "name": "Orange Lining Matt",
+          "rgb": "DE6133",
+          "smooth": 0.0
+        },
+        {
+          "code": "83",
+          "name": "Ochre Matt",
+          "rgb": "B49634",
+          "smooth": 0.0
+        },
+        {
+          "code": "84",
+          "name": "Mid Stone Matt",
+          "rgb": "6A5320",
+          "smooth": 0.0
+        },
+        {
+          "code": "85",
+          "name": "Coal Black Satin",
+          "rgb": "0A0607",
+          "smooth": 0.5
+        },
+        {
+          "code": "86",
+          "name": "Light Olive Matt",
+          "rgb": "675C40",
+          "smooth": 0.0
+        },
+        {
+          "code": "87",
+          "name": "Steel Grey Matt",
+          "rgb": "83949A",
+          "smooth": 0.0
+        },
+        {
+          "code": "88",
+          "name": "Deck Green Matt",
+          "rgb": "55692F",
+          "smooth": 0.0
+        },
+        {
+          "code": "89",
+          "name": "Mid Blue Matt",
+          "rgb": "4398BC",
+          "smooth": 0.0
+        },
+        {
+          "code": "90",
+          "name": "Beige Green Matt",
+          "rgb": "DAE9C2",
+          "smooth": 0.0
+        },
+        {
+          "code": "91",
+          "name": "Black Green Matt",
+          "rgb": "0D1514",
+          "smooth": 0.0
+        },
+        {
+          "code": "93",
+          "name": "Desert Yellow Matt",
+          "rgb": "BF9352",
+          "smooth": 0.0
+        },
+        {
+          "code": "94",
+          "name": "Brown Yellow Matt",
+          "rgb": "C89C6F",
+          "smooth": 0.0
+        },
+        {
+          "code": "96",
+          "name": "RAF Blue Matt",
+          "rgb": "64728D",
+          "smooth": 0.0
+        },
+        {
+          "code": "98",
+          "name": "Chocolate Matt",
+          "rgb": "714E3C",
+          "smooth": 0.0
+        },
+        {
+          "code": "99",
+          "name": "Lemon Matt",
+          "rgb": "F7E309",
+          "smooth": 0.0
+        },
+        {
+          "code": "100",
+          "name": "Red Brown Matt",
+          "rgb": "C24B33",
+          "smooth": 0.0
+        },
+        {
+          "code": "101",
+          "name": "Mid Green Matt",
+          "rgb": "4B7759",
+          "smooth": 0.0
+        },
+        {
+          "code": "102",
+          "name": "Army Green Matt",
+          "rgb": "637054",
+          "smooth": 0.0
+        },
+        {
+          "code": "103",
+          "name": "Cream Matt",
+          "rgb": "E9D189",
+          "smooth": 0.0
+        },
+        {
+          "code": "104",
+          "name": "Oxford Blue Matt",
+          "rgb": "164260",
+          "smooth": 0.0
+        },
+        {
+          "code": "105",
+          "name": "Marine Green Matt",
+          "rgb": "666F54",
+          "smooth": 0.0
+        },
+        {
+          "code": "106",
+          "name": "Ocean Grey Matt",
+          "rgb": "666F54",
+          "smooth": 0.0
+        },
+        {
+          "code": "109",
+          "name": "WWI Blue Matt",
+          "rgb": "5B7FAC",
+          "smooth": 0.0
+        },
+        {
+          "code": "110",
+          "name": "Natural Wood Matt",
+          "rgb": "926549",
+          "smooth": 0.0
+        },
+        {
+          "code": "111",
+          "name": "Field Grey Matt",
+          "rgb": "4F5455",
+          "smooth": 0.0
+        },
+        {
+          "code": "112",
+          "name": "Field Blue Matt",
+          "rgb": "40515D",
+          "smooth": 0.0
+        },
+        {
+          "code": "113",
+          "name": "Rust Matt",
+          "rgb": "A86959",
+          "smooth": 0.0
+        },
+        {
+          "code": "116",
+          "name": "US Dark Green Matt",
+          "rgb": "355546",
+          "smooth": 0.0
+        },
+        {
+          "code": "117",
+          "name": "US Light Green Matt",
+          "rgb": "4F6346",
+          "smooth": 0.0
+        },
+        {
+          "code": "118",
+          "name": "US Tan Matt",
+          "rgb": "AA7C5D",
+          "smooth": 0.0
+        },
+        {
+          "code": "119",
+          "name": "Light Earth Matt",
+          "rgb": "AB6F53",
+          "smooth": 0.0
+        },
+        {
+          "code": "120",
+          "name": "Light Green Matt",
+          "rgb": "106037",
+          "smooth": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Pale Stone Matt",
+          "rgb": "DFCB9B",
+          "smooth": 0.0
+        },
+        {
+          "code": "123",
+          "name": "Extra Dark Sea Grey Satin",
+          "rgb": "666C74",
+          "smooth": 0.5
+        },
+        {
+          "code": "125",
+          "name": "US Dark Grey Satin",
+          "rgb": "565D62",
+          "smooth": 0.5
+        },
+        {
+          "code": "126",
+          "name": "US Med Grey Satin",
+          "rgb": "8D8F8E",
+          "smooth": 0.5
+        },
+        {
+          "code": "127",
+          "name": "US Ghost Grey Satin",
+          "rgb": "ADBFCA",
+          "smooth": 0.5
+        },
+        {
+          "code": "128",
+          "name": "US Compass Grey Satin",
+          "rgb": "8FACBE",
+          "smooth": 0.5
+        },
+        {
+          "code": "129",
+          "name": "US Gull Grey Satin",
+          "rgb": "9DA3A3",
+          "smooth": 0.5
+        },
+        {
+          "code": "130",
+          "name": "White Satin",
+          "rgb": "F3EFEE",
+          "smooth": 0.5
+        },
+        {
+          "code": "131",
+          "name": "Mid Green Satin",
+          "rgb": "327538",
+          "smooth": 0.5
+        },
+        {
+          "code": "132",
+          "name": "Red Satin",
+          "rgb": "D44F31",
+          "smooth": 0.5
+        },
+        {
+          "code": "133",
+          "name": "Brown Satin",
+          "rgb": "801322",
+          "smooth": 0.5
+        },
+        {
+          "code": "135",
+          "name": "Varnish Satin",
+          "rgb": "F3EFEE",
+          "smooth": 0.5
+        },
+        {
+          "code": "140",
+          "name": "Gull Grey Matt",
+          "rgb": "8D979C",
+          "smooth": 0.0
+        },
+        {
+          "code": "144",
+          "name": "Intermediate Blue Matt",
+          "rgb": "65707F",
+          "smooth": 0.0
+        },
+        {
+          "code": "145",
+          "name": "Medium Grey Matt",
+          "rgb": "6A6F77",
+          "smooth": 0.0
+        },
+        {
+          "code": "147",
+          "name": "Light Grey Matt",
+          "rgb": "CFD1D2",
+          "smooth": 0.0
+        },
+        {
+          "code": "148",
+          "name": "Radome Tan Matt",
+          "rgb": "FCD999",
+          "smooth": 0.0
+        },
+        {
+          "code": "149",
+          "name": "Dark Green Matt",
+          "rgb": "565B27",
+          "smooth": 0.0
+        },
+        {
+          "code": "150",
+          "name": "Forest Green Matt",
+          "rgb": "565B27",
+          "smooth": 0.0
+        },
+        {
+          "code": "153",
+          "name": "Insignia Red Matt",
+          "rgb": "B21F24",
+          "smooth": 0.0
+        },
+        {
+          "code": "154",
+          "name": "Insignia Yellow Matt",
+          "rgb": "F8B117",
+          "smooth": 0.0
+        },
+        {
+          "code": "155",
+          "name": "Olive Drab Matt",
+          "rgb": "4C4E26",
+          "smooth": 0.0
+        },
+        {
+          "code": "156",
+          "name": "Dark Camouflage Grey Satin",
+          "rgb": "7B7372",
+          "smooth": 0.5
+        },
+        {
+          "code": "157",
+          "name": "Azure Blue Matt",
+          "rgb": "095C7C",
+          "smooth": 0.0
+        },
+        {
+          "code": "159",
+          "name": "Khaki Drab Matt",
+          "rgb": "4C4E26",
+          "smooth": 0.0
+        },
+        {
+          "code": "160",
+          "name": "German Cam Red Brown Matt",
+          "rgb": "592F17",
+          "smooth": 0.0
+        },
+        {
+          "code": "163",
+          "name": "Dark Green Satin",
+          "rgb": "004216",
+          "smooth": 0.5
+        },
+        {
+          "code": "164",
+          "name": "Dark Sea Grey Satin",
+          "rgb": "70757C",
+          "smooth": 0.5
+        },
+        {
+          "code": "165",
+          "name": "Medium Sea Grey Satin",
+          "rgb": "9BA2AA",
+          "smooth": 0.5
+        },
+        {
+          "code": "166",
+          "name": "Light Aircraft Grey Satin",
+          "rgb": "A1A5AA",
+          "smooth": 0.5
+        },
+        {
+          "code": "167",
+          "name": "RAF Barley Grey Satin",
+          "rgb": "999CA2",
+          "smooth": 0.5
+        },
+        {
+          "code": "168",
+          "name": "Hemp Satin",
+          "rgb": "C7BE9F",
+          "smooth": 0.5
+        },
+        {
+          "code": "171",
+          "name": "Antique Bronze Metallic",
+          "rgb": "986549",
+          "refl": "Metallic"
+        },
+        {
+          "code": "173",
+          "name": "Track Matt",
+          "rgb": "443736",
+          "smooth": 0.0
+        },
+        {
+          "code": "174",
+          "name": "Signal Red Satin",
+          "rgb": "D63827",
+          "smooth": 0.5
+        },
+        {
+          "code": "186",
+          "name": "Brown Matt",
+          "rgb": "7E533D",
+          "smooth": 0.0
+        },
+        {
+          "code": "187",
+          "name": "Dark Stone Matt",
+          "rgb": "69501F",
+          "smooth": 0.0
+        },
+        {
+          "code": "191",
+          "name": "Chrome Silver Metallic",
+          "rgb": "E5ECF1",
+          "refl": "Metallic"
+        },
+        {
+          "code": "195",
+          "name": "Chrome Green Satin",
+          "rgb": "12361B",
+          "smooth": 0.5
+        },
+        {
+          "code": "196",
+          "name": "Light Grey Satin",
+          "rgb": "DBDDDF",
+          "smooth": 0.5
+        },
+        {
+          "code": "200",
+          "name": "Pink Gloss",
+          "rgb": "ECA8AD"
+        },
+        {
+          "code": "201",
+          "name": "Black Metallic",
+          "rgb": "0D080B",
+          "refl": "Metallic"
+        },
+        {
+          "code": "208",
+          "name": "Fluorescent Signal Green Gloss",
+          "rgb": "58AF47",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "209",
+          "name": "Fluorescent Fire Orange Gloss",
+          "rgb": "E6292C",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "220",
+          "name": "Italian Red Gloss",
+          "rgb": "C32026"
+        },
+        {
+          "code": "222",
+          "name": "Moonlight Blue Metallic",
+          "rgb": "124B9A",
+          "refl": "Metallic"
+        },
+        {
+          "code": "224",
+          "name": "Dark Slate Grey Matt",
+          "rgb": "756D66",
+          "smooth": 0.0
+        },
+        {
+          "code": "225",
+          "name": "Middle Stone Matt",
+          "rgb": "BD8B5A",
+          "smooth": 0.0
+        },
+        {
+          "code": "226",
+          "name": "Interior Green Matt",
+          "rgb": "75704D",
+          "smooth": 0.0
+        },
+        {
+          "code": "230",
+          "name": "Pru Blue Matt",
+          "rgb": "005A6F",
+          "smooth": 0.0
+        },
+        {
+          "code": "234",
+          "name": "Dark Flesh Matt",
+          "rgb": "9E6827",
+          "smooth": 0.0
+        },
+        {
+          "code": "238",
+          "name": "Arrow Red Matt",
+          "rgb": "E51938",
+          "smooth": 0.0
+        },
+        {
+          "code": "239",
+          "name": "British Racing Green Gloss",
+          "rgb": "004543"
+        },
+        {
+          "code": "240",
+          "name": "RLM02 Grau Matt",
+          "rgb": "7F816C",
+          "smooth": 0.0
+        },
+        {
+          "code": "241",
+          "name": "RLM70 Schwartzgrun Matt",
+          "rgb": "585B52",
+          "smooth": 0.0
+        },
+        {
+          "code": "242",
+          "name": "RLM71 Dunkelgrun Matt",
+          "rgb": "394D28",
+          "smooth": 0.0
+        },
+        {
+          "code": "243",
+          "name": "RLM72 Grun Matt",
+          "rgb": "3F474A",
+          "smooth": 0.0
+        },
+        {
+          "code": "244",
+          "name": "RLM73 Grun Matt",
+          "rgb": "49524F",
+          "smooth": 0.0
+        },
+        {
+          "code": "245",
+          "name": "RLM74 Graugrun Matt",
+          "rgb": "344756",
+          "smooth": 0.0
+        },
+        {
+          "code": "246",
+          "name": "RLM75 Grauviolett Matt",
+          "rgb": "676B6B",
+          "smooth": 0.0
+        },
+        {
+          "code": "247",
+          "name": "RLM76 Lichtblau Matt",
+          "rgb": "BEC3BD",
+          "smooth": 0.0
+        },
+        {
+          "code": "248",
+          "name": "RLM78 Himmelblau Matt",
+          "rgb": "8EA8A9",
+          "smooth": 0.0
+        },
+        {
+          "code": "249",
+          "name": "RLM79 Sandgelb Matt",
+          "rgb": "9F924E",
+          "smooth": 0.0
+        },
+        {
+          "code": "250",
+          "name": "Desert Sand Matt",
+          "rgb": "B88C6F",
+          "smooth": 0.0
+        },
+        {
+          "code": "251",
+          "name": "RLM81 Dunkelbraun Matt",
+          "rgb": "4A4146",
+          "smooth": 0.0
+        },
+        {
+          "code": "252",
+          "name": "RLM82 Olivgrun Matt",
+          "rgb": "4E654B",
+          "smooth": 0.0
+        },
+        {
+          "code": "253",
+          "name": "RLM83 Dunkelgrun Matt",
+          "rgb": "4B4D41",
+          "smooth": 0.0
+        },
+        {
+          "code": "27001",
+          "name": "Aluminium Metalcote",
+          "rgb": "CFD6DA"
+        },
+        {
+          "code": "27002",
+          "name": "Polished Aluminium Metalcote",
+          "rgb": "CBD4DA"
+        },
+        {
+          "code": "27003",
+          "name": "Polished Steel Metalcote",
+          "rgb": "AFC1CB"
+        },
+        {
+          "code": "27004",
+          "name": "Gunmetal Metalcote",
+          "rgb": "2B2D17"
+        },
+        {
+          "code": "27006",
+          "name": "Satin Gold Metalcote",
+          "rgb": "DBAB25",
+          "smooth": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Acrylic",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "2",
+          "name": "Emerald Gloss",
+          "rgb": "048243"
+        },
+        {
+          "code": "3",
+          "name": "Brunswick Green Gloss",
+          "rgb": "123A1C"
+        },
+        {
+          "code": "9",
+          "name": "Tan Gloss",
+          "rgb": "A95526"
+        },
+        {
+          "code": "10",
+          "name": "Service Brown Gloss",
+          "rgb": "3B2F23"
+        },
+        {
+          "code": "11",
+          "name": "Silver Metallic",
+          "rgb": "D0D1D3",
+          "refl": "Metallic"
+        },
+        {
+          "code": "12",
+          "name": "Copper Metallic",
+          "rgb": "9D6125",
+          "refl": "Metallic"
+        },
+        {
+          "code": "14",
+          "name": "French Blue Gloss",
+          "rgb": "0A53A0"
+        },
+        {
+          "code": "15",
+          "name": "Midnight Blue Gloss",
+          "rgb": "203262"
+        },
+        {
+          "code": "16",
+          "name": "Gold Metallic",
+          "rgb": "E0AC25",
+          "refl": "Metallic"
+        },
+        {
+          "code": "18",
+          "name": "Orange Gloss",
+          "rgb": "E76B23"
+        },
+        {
+          "code": "19",
+          "name": "Bright Red Gloss",
+          "rgb": "DE1E2D"
+        },
+        {
+          "code": "20",
+          "name": "Crimson Gloss",
+          "rgb": "901824"
+        },
+        {
+          "code": "21",
+          "name": "Black Gloss",
+          "rgb": "1B1C20"
+        },
+        {
+          "code": "22",
+          "name": "White Gloss",
+          "rgb": "F3EFEE"
+        },
+        {
+          "code": "24",
+          "name": "Trainer Yellow Matt",
+          "rgb": "F9BD3A",
+          "smooth": 0.0
+        },
+        {
+          "code": "25",
+          "name": "Blue Matt",
+          "rgb": "23448B",
+          "smooth": 0.0
+        },
+        {
+          "code": "26",
+          "name": "Khaki Matt",
+          "rgb": "946627",
+          "smooth": 0.0
+        },
+        {
+          "code": "27",
+          "name": "Sea Grey Matt",
+          "rgb": "505654",
+          "smooth": 0.0
+        },
+        {
+          "code": "29",
+          "name": "Dark Earth Matt",
+          "rgb": "7C6150",
+          "smooth": 0.0
+        },
+        {
+          "code": "30",
+          "name": "Dark Green Matt",
+          "rgb": "1D6A4A",
+          "smooth": 0.0
+        },
+        {
+          "code": "32",
+          "name": "Dark Grey Matt",
+          "rgb": "3B424C",
+          "smooth": 0.0
+        },
+        {
+          "code": "33",
+          "name": "Black Matt",
+          "rgb": "000000",
+          "smooth": 0.0
+        },
+        {
+          "code": "34",
+          "name": "White Matt",
+          "rgb": "F8F8F8",
+          "smooth": 0.0
+        },
+        {
+          "code": "35",
+          "name": "Varnish Gloss",
+          "rgb": "F5F5F5"
+        },
+        {
+          "code": "38",
+          "name": "Lime Gloss",
+          "rgb": "79B042"
+        },
+        {
+          "code": "40",
+          "name": "Pale Grey Gloss",
+          "rgb": "A2A2A6"
+        },
+        {
+          "code": "41",
+          "name": "Ivory Gloss",
+          "rgb": "F5F2BE"
+        },
+        {
+          "code": "47",
+          "name": "Sea Blue Gloss",
+          "rgb": "5BAEDA"
+        },
+        {
+          "code": "52",
+          "name": "Baltic Blue Metallic",
+          "rgb": "116AB0",
+          "refl": "Metallic"
+        },
+        {
+          "code": "53",
+          "name": "Gunmetal Metallic",
+          "rgb": "2B2C1C",
+          "refl": "Metallic"
+        },
+        {
+          "code": "56",
+          "name": "Aluminium Metallic",
+          "rgb": "BEC9D2",
+          "refl": "Metallic"
+        },
+        {
+          "code": "60",
+          "name": "Scarlet Matt",
+          "rgb": "BA2025",
+          "smooth": 0.0
+        },
+        {
+          "code": "61",
+          "name": "Flesh Matt",
+          "rgb": "EE8F5A",
+          "smooth": 0.0
+        },
+        {
+          "code": "62",
+          "name": "Leather Matt",
+          "rgb": "A95731",
+          "smooth": 0.0
+        },
+        {
+          "code": "64",
+          "name": "Light Grey Matt",
+          "rgb": "999CA2",
+          "smooth": 0.0
+        },
+        {
+          "code": "65",
+          "name": "Aircraft Blue Matt",
+          "rgb": "B7D6D0",
+          "smooth": 0.0
+        },
+        {
+          "code": "67",
+          "name": "Tank Grey Matt",
+          "rgb": "24393F",
+          "smooth": 0.0
+        },
+        {
+          "code": "69",
+          "name": "Yellow Gloss",
+          "rgb": "FDD901"
+        },
+        {
+          "code": "70",
+          "name": "Brick Red Matt",
+          "rgb": "8E543B",
+          "smooth": 0.0
+        },
+        {
+          "code": "71",
+          "name": "Satin Oak Satin",
+          "rgb": "EDD8AE",
+          "smooth": 0.5
+        },
+        {
+          "code": "78",
+          "name": "Cockpit Green Matt",
+          "rgb": "33523C",
+          "smooth": 0.0
+        },
+        {
+          "code": "79",
+          "name": "Blue Grey Matt",
+          "rgb": "69606A",
+          "smooth": 0.0
+        },
+        {
+          "code": "81",
+          "name": "Pale Yellow Matt",
+          "rgb": "DABD31",
+          "smooth": 0.0
+        },
+        {
+          "code": "83",
+          "name": "Ochre Matt",
+          "rgb": "B49734",
+          "smooth": 0.0
+        },
+        {
+          "code": "85",
+          "name": "Coal Black Satin",
+          "rgb": "0A0406",
+          "smooth": 0.5
+        },
+        {
+          "code": "86",
+          "name": "Light Olive Matt",
+          "rgb": "675C40",
+          "smooth": 0.0
+        },
+        {
+          "code": "87",
+          "name": "Steel Grey Matt",
+          "rgb": "83949A",
+          "smooth": 0.0
+        },
+        {
+          "code": "88",
+          "name": "Deck Green Matt",
+          "rgb": "55692F",
+          "smooth": 0.0
+        },
+        {
+          "code": "90",
+          "name": "Beige Green Matt",
+          "rgb": "DAE9C2",
+          "smooth": 0.0
+        },
+        {
+          "code": "91",
+          "name": "Black Green Matt",
+          "rgb": "0D1514",
+          "smooth": 0.0
+        },
+        {
+          "code": "93",
+          "name": "Desert Yellow Matt",
+          "rgb": "BF9452",
+          "smooth": 0.0
+        },
+        {
+          "code": "94",
+          "name": "Brown Yellow Matt",
+          "rgb": "C89C6E",
+          "smooth": 0.0
+        },
+        {
+          "code": "99",
+          "name": "Lemon Matt",
+          "rgb": "F7E309",
+          "smooth": 0.0
+        },
+        {
+          "code": "102",
+          "name": "Army Green Matt",
+          "rgb": "637054",
+          "smooth": 0.0
+        },
+        {
+          "code": "103",
+          "name": "Cream Matt",
+          "rgb": "E9D189",
+          "smooth": 0.0
+        },
+        {
+          "code": "106",
+          "name": "Ocean Grey Matt",
+          "rgb": "666F54",
+          "smooth": 0.0
+        },
+        {
+          "code": "110",
+          "name": "Natural Wood Matt",
+          "rgb": "936649",
+          "smooth": 0.0
+        },
+        {
+          "code": "113",
+          "name": "Rust Matt",
+          "rgb": "A86959",
+          "smooth": 0.0
+        },
+        {
+          "code": "116",
+          "name": "US Dark Green Matt",
+          "rgb": "355546",
+          "smooth": 0.0
+        },
+        {
+          "code": "117",
+          "name": "US Light Green Matt",
+          "rgb": "4F6346",
+          "smooth": 0.0
+        },
+        {
+          "code": "118",
+          "name": "US Tan Matt",
+          "rgb": "AA7C5D",
+          "smooth": 0.0
+        },
+        {
+          "code": "123",
+          "name": "Extra Dark Sea Grey Satin",
+          "rgb": "666C74",
+          "smooth": 0.5
+        },
+        {
+          "code": "125",
+          "name": "US Dark Grey Satin",
+          "rgb": "565D62",
+          "smooth": 0.5
+        },
+        {
+          "code": "126",
+          "name": "US Med Grey Satin",
+          "rgb": "8D8F8E",
+          "smooth": 0.5
+        },
+        {
+          "code": "127",
+          "name": "US Ghost Grey Satin",
+          "rgb": "ADBFCA",
+          "smooth": 0.5
+        },
+        {
+          "code": "128",
+          "name": "US Compass Grey Satin",
+          "rgb": "8FACBE",
+          "smooth": 0.5
+        },
+        {
+          "code": "129",
+          "name": "US Gull Grey Satin",
+          "rgb": "9DA3A3",
+          "smooth": 0.5
+        },
+        {
+          "code": "130",
+          "name": "White Satin",
+          "rgb": "F3EFEE",
+          "smooth": 0.5
+        },
+        {
+          "code": "135",
+          "name": "Varnish Satin",
+          "rgb": "F3EFEE",
+          "smooth": 0.5
+        },
+        {
+          "code": "154",
+          "name": "Insignia Yellow Matt",
+          "rgb": "F8B217",
+          "smooth": 0.0
+        },
+        {
+          "code": "155",
+          "name": "Olive Drab Matt",
+          "rgb": "4C4E26",
+          "smooth": 0.0
+        },
+        {
+          "code": "156",
+          "name": "Dark Camouflage Grey Satin",
+          "rgb": "7B7372",
+          "smooth": 0.5
+        },
+        {
+          "code": "160",
+          "name": "German Cam Red Brown Matt",
+          "rgb": "592F18",
+          "smooth": 0.0
+        },
+        {
+          "code": "165",
+          "name": "Medium Sea Grey Satin",
+          "rgb": "9DA1AA",
+          "smooth": 0.5
+        },
+        {
+          "code": "166",
+          "name": "Light Aircraft Grey Satin",
+          "rgb": "A1A5AA",
+          "smooth": 0.5
+        },
+        {
+          "code": "167",
+          "name": "RAF Barley Grey Satin",
+          "rgb": "999CA2",
+          "smooth": 0.5
+        },
+        {
+          "code": "168",
+          "name": "Hemp Satin",
+          "rgb": "C7BE9F",
+          "smooth": 0.5
+        },
+        {
+          "code": "171",
+          "name": "Antique Bronze Metallic",
+          "rgb": "98654A",
+          "refl": "Metallic"
+        },
+        {
+          "code": "174",
+          "name": "Signal Red Satin",
+          "rgb": "D63B29",
+          "smooth": 0.5
+        },
+        {
+          "code": "186",
+          "name": "Brown Matt",
+          "rgb": "7D533D",
+          "smooth": 0.0
+        },
+        {
+          "code": "191",
+          "name": "Chrome Silver Metallic",
+          "rgb": "E5E8ED",
+          "refl": "Metallic"
+        },
+        {
+          "code": "209",
+          "name": "Fluorescent Fire Orange Gloss",
+          "rgb": "E6292C",
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "220",
+          "name": "Italian Red Gloss",
+          "rgb": "C32026"
+        },
+        {
+          "code": "222",
+          "name": "Moonlight Blue Metallic",
+          "rgb": "124B9A",
+          "refl": "Metallic"
+        },
+        {
+          "code": "224",
+          "name": "Dark Slate Grey Matt",
+          "rgb": "756D66",
+          "smooth": 0.0
+        },
+        {
+          "code": "230",
+          "name": "Pru Blue Matt",
+          "rgb": "0E3E4C",
+          "smooth": 0.0
+        },
+        {
+          "code": "238",
+          "name": "Arrow Red Matt",
+          "rgb": "E51937",
+          "smooth": 0.0
+        },
+        {
+          "code": "239",
+          "name": "British Racing Green Gloss",
+          "rgb": "004543"
+        },
+        {
+          "code": "240",
+          "name": "RLM02 Grau Matt",
+          "rgb": "7F816C",
+          "smooth": 0.0
+        },
+        {
+          "code": "241",
+          "name": "RLM70 Schwartzgrun Matt",
+          "rgb": "585951",
+          "smooth": 0.0
+        },
+        {
+          "code": "242",
+          "name": "RLM71 Dunkelgrun Matt",
+          "rgb": "394D28",
+          "smooth": 0.0
+        },
+        {
+          "code": "243",
+          "name": "RLM72 Grun Matt",
+          "rgb": "3F474A",
+          "smooth": 0.0
+        },
+        {
+          "code": "244",
+          "name": "RLM73 Grun Matt",
+          "rgb": "4A5350",
+          "smooth": 0.0
+        },
+        {
+          "code": "245",
+          "name": "RLM74 Graugrun Matt",
+          "rgb": "354656",
+          "smooth": 0.0
+        },
+        {
+          "code": "246",
+          "name": "RLM75 Grauviolett Matt",
+          "rgb": "676B6C",
+          "smooth": 0.0
+        },
+        {
+          "code": "247",
+          "name": "RLM76 Lichtblau Matt",
+          "rgb": "BFC4BE",
+          "smooth": 0.0
+        },
+        {
+          "code": "248",
+          "name": "RLM78 Himmelblau Matt",
+          "rgb": "8FA9AA",
+          "smooth": 0.0
+        },
+        {
+          "code": "249",
+          "name": "RLM79 Sandgelb Matt",
+          "rgb": "A08E4C",
+          "smooth": 0.0
+        },
+        {
+          "code": "251",
+          "name": "RLM81 Dunkelbraun Matt",
+          "rgb": "4A4146",
+          "smooth": 0.0
+        },
+        {
+          "code": "252",
+          "name": "RLM82 Olivgrun Matt",
+          "rgb": "4E654B",
+          "smooth": 0.0
+        },
+        {
+          "code": "253",
+          "name": "RLM83 Dunkelgrun Matt",
+          "rgb": "4B4D41",
+          "smooth": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Rail Colors",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "RC401",
+          "name": "Dirty Black Matt",
+          "rgb": "231F20",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC402",
+          "name": "Rust Matt",
+          "rgb": "A57166",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC403",
+          "name": "Crimson Lake Matt",
+          "rgb": "642200",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC404",
+          "name": "Garter Blue Matt",
+          "rgb": "006993",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC405",
+          "name": "GWR/BR Green Matt",
+          "rgb": "114432",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC406",
+          "name": "Buffer Beam Red Matt",
+          "rgb": "ED174F",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC407",
+          "name": "BR Yellow Matt",
+          "rgb": "FFD457",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC408",
+          "name": "Apple Green Matt",
+          "rgb": "419639",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC409",
+          "name": "Malachite Green Matt",
+          "rgb": "006F51",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC410",
+          "name": "Maunsell Green Matt",
+          "rgb": "3A4C01",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC411",
+          "name": "Diesel Blue Matt",
+          "rgb": "004F5A",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC412",
+          "name": "BR Coach Roof Grey Matt",
+          "rgb": "8A7A67",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC413",
+          "name": "Engineers Grey Matt",
+          "rgb": "BBB2A4",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC414",
+          "name": "Executive Dark Grey Matt",
+          "rgb": "132530",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC415",
+          "name": "Pullman Umber Brown Matt",
+          "rgb": "543019",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC416",
+          "name": "Pullman Cream Matt",
+          "rgb": "E3E9C6",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC417",
+          "name": "Coach Roof Off-White Matt",
+          "rgb": "E9E6E3",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC418",
+          "name": "EWS Red Matt",
+          "rgb": "893003",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC419",
+          "name": "EWS Yellow Matt",
+          "rgb": "FFE293",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC420",
+          "name": "Orange Lining Matt",
+          "rgb": "E06944",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC421",
+          "name": "Virgin Red Matt",
+          "rgb": "E51B24",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC422",
+          "name": "Intercity Grey Matt",
+          "rgb": "BEC0C2",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC423",
+          "name": "Carmine Matt",
+          "rgb": "B50937",
+          "smooth": 0.0
+        },
+        {
+          "code": "RC424",
+          "name": "BR Cream Matt",
+          "rgb": "FFEEBC",
+          "smooth": 0.0
+        }
+      ]
+    }
+  ]
+}

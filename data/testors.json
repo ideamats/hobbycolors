@@ -1,0 +1,2009 @@
+{
+  "schemaVersion": 1,
+  "id": "testors",
+  "title": "Testors",
+  "desc": "Enamel & Acrylic",
+  "version": 1,
+  "brand": "Testors",
+  "groups": [
+    {
+      "name": "Model Master Enamel",
+      "type": "Enamel",
+      "colors": [
+        {
+          "code": "1706",
+          "name": "Sand FS33531 Flat",
+          "rgb": "DFC896",
+          "smooth": 0.0
+        },
+        {
+          "code": "1707",
+          "name": "Chrome Yellow FS13538 Gloss",
+          "rgb": "FFCD1B"
+        },
+        {
+          "code": "1708",
+          "name": "Insignia Yellow FS33538 Flat",
+          "rgb": "FFCE1F",
+          "smooth": 0.0
+        },
+        {
+          "code": "1709",
+          "name": "Radome Tan FS33613 Flat",
+          "rgb": "F3D9A2",
+          "smooth": 0.0
+        },
+        {
+          "code": "1713",
+          "name": "Medium Green FS34102 Flat",
+          "rgb": "4F5D2D",
+          "smooth": 0.0
+        },
+        {
+          "code": "1715",
+          "name": "Interior Green FS34151 Flat",
+          "rgb": "727527",
+          "smooth": 0.0
+        },
+        {
+          "code": "1717",
+          "name": "Dark Sea Blue FS15042 Semi-Gloss",
+          "rgb": "2A4663",
+          "smooth": 0.5
+        },
+        {
+          "code": "1719",
+          "name": "Insignia Blue FS35044 Flat",
+          "rgb": "394E68",
+          "smooth": 0.0
+        },
+        {
+          "code": "1720",
+          "name": "Intermediate Blue FS35164 Flat",
+          "rgb": "6E8087",
+          "smooth": 0.0
+        },
+        {
+          "code": "1721",
+          "name": "Medium Gray FS35237 Flat",
+          "rgb": "889DA6",
+          "smooth": 0.0
+        },
+        {
+          "code": "1722",
+          "name": "Duck Egg Blue FS35622 Flat",
+          "rgb": "BAD5D3",
+          "smooth": 0.0
+        },
+        {
+          "code": "1726",
+          "name": "Light Sea Gray FS36307 Flat",
+          "rgb": "B7B6A4",
+          "smooth": 0.0
+        },
+        {
+          "code": "1728",
+          "name": "Light Ghost Gray FS36375 Flat",
+          "rgb": "C9CACD",
+          "smooth": 0.0
+        },
+        {
+          "code": "1730",
+          "name": "Gull Gray FS36440 Flat",
+          "rgb": "CACABF",
+          "smooth": 0.0
+        },
+        {
+          "code": "1731",
+          "name": "Aircraft Gray FS16473 Flat",
+          "rgb": "C9D0C9",
+          "smooth": 0.0
+        },
+        {
+          "code": "1732",
+          "name": "Light Gray FS36495 Flat",
+          "rgb": "DAE2DD",
+          "smooth": 0.0
+        },
+        {
+          "code": "1734",
+          "name": "Green Zinc Chromate Flat",
+          "rgb": "6D9934",
+          "smooth": 0.0
+        },
+        {
+          "code": "1735",
+          "name": "Wood Flat",
+          "rgb": "C7904B",
+          "smooth": 0.0
+        },
+        {
+          "code": "1736",
+          "name": "Leather Flat",
+          "rgb": "663300",
+          "smooth": 0.0
+        },
+        {
+          "code": "1740",
+          "name": "Dark Gull Gray FS36231 Flat",
+          "rgb": "A4A895",
+          "smooth": 0.0
+        },
+        {
+          "code": "1741",
+          "name": "Dark Ghost Gray FS36320 Flat",
+          "rgb": "B4BDC2",
+          "smooth": 0.0
+        },
+        {
+          "code": "1742",
+          "name": "Dark Tan FS30219 Flat",
+          "rgb": "AB8856",
+          "smooth": 0.0
+        },
+        {
+          "code": "1744",
+          "name": "Gold Semi-Gloss",
+          "rgb": "C78747",
+          "smooth": 0.5
+        },
+        {
+          "code": "1745",
+          "name": "Insignia White FS17875 Semi-Gloss",
+          "rgb": "FFFEF9",
+          "smooth": 0.5
+        },
+        {
+          "code": "1747",
+          "name": "Black FS17038 Gloss",
+          "rgb": "25201F"
+        },
+        {
+          "code": "1749",
+          "name": "Black FS37038 Flat",
+          "rgb": "292928",
+          "smooth": 0.0
+        },
+        {
+          "code": "1764",
+          "name": "Euro Dark Green FS34092 Flat",
+          "rgb": "476240",
+          "smooth": 0.0
+        },
+        {
+          "code": "1768",
+          "name": "White FS37875 Flat",
+          "rgb": "FFFEF6",
+          "smooth": 0.0
+        },
+        {
+          "code": "1772",
+          "name": "Blue Angel Blue FS15050 Gloss",
+          "rgb": "274C6F"
+        },
+        {
+          "code": "1775",
+          "name": "Fluorescent Red FS28915 Flat",
+          "rgb": "EF4934",
+          "smooth": 0.0,
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "1780",
+          "name": "Steel Flat",
+          "rgb": "A5A59E",
+          "smooth": 0.0
+        },
+        {
+          "code": "1781",
+          "name": "Aluminum Flat",
+          "rgb": "A3A9A7",
+          "smooth": 0.0
+        },
+        {
+          "code": "1782",
+          "name": "Brass Flat",
+          "rgb": "BE7B3C",
+          "smooth": 0.0
+        },
+        {
+          "code": "1785",
+          "name": "Rust Flat",
+          "rgb": "813C03",
+          "smooth": 0.0
+        },
+        {
+          "code": "1787",
+          "name": "Green Drab FS34086 Flat",
+          "rgb": "504E32",
+          "smooth": 0.0
+        },
+        {
+          "code": "1788",
+          "name": "Euro I Gray FS36081 Flat",
+          "rgb": "56594F",
+          "smooth": 0.0
+        },
+        {
+          "code": "1790",
+          "name": "Chrome Silver FS17178 Flat",
+          "rgb": "A2A8A4",
+          "smooth": 0.0
+        },
+        {
+          "code": "1795",
+          "name": "Gun Metal Flat",
+          "rgb": "1B1F24",
+          "smooth": 0.0
+        },
+        {
+          "code": "1796",
+          "name": "Jet Exhaust Flat",
+          "rgb": "86795B",
+          "smooth": 0.0
+        },
+        {
+          "code": "1929",
+          "name": "Gull Gray FS16440 Flat",
+          "rgb": "DAD9D2",
+          "smooth": 0.0
+        },
+        {
+          "code": "1930",
+          "name": "Gull Gray FS36440 Flat",
+          "rgb": "CACABF",
+          "smooth": 0.0
+        },
+        {
+          "code": "1933",
+          "name": "Camouflage Gray FS36622 Flat",
+          "rgb": "E8E7DE",
+          "smooth": 0.0
+        },
+        {
+          "code": "1954",
+          "name": "Light Earth FS30140 Flat",
+          "rgb": "7B6235",
+          "smooth": 0.0
+        },
+        {
+          "code": "1963",
+          "name": "Modern Desert Sand FS33722 Flat",
+          "rgb": "E6A91A",
+          "smooth": 0.0
+        },
+        {
+          "code": "1992",
+          "name": "SAC Bomber Tan FS34201 Flat",
+          "rgb": "80754B",
+          "smooth": 0.0
+        },
+        {
+          "code": "1993",
+          "name": "SAC Bomber Green FS34159 Flat",
+          "rgb": "6F7C68",
+          "smooth": 0.0
+        },
+        {
+          "code": "1994",
+          "name": "Aggressor Gray FS36251 Flat",
+          "rgb": "989286",
+          "smooth": 0.0
+        },
+        {
+          "code": "2002",
+          "name": "Skin Tone Tint Base Dark Flat",
+          "rgb": "4E443E",
+          "smooth": 0.0
+        },
+        {
+          "code": "2003",
+          "name": "Skin Tone Warm Tint Flat",
+          "rgb": "C26D5B",
+          "smooth": 0.0
+        },
+        {
+          "code": "2005",
+          "name": "Burnt Umber Flat",
+          "rgb": "2A2327",
+          "smooth": 0.0
+        },
+        {
+          "code": "2006",
+          "name": "Raw Umber Flat",
+          "rgb": "362D2E",
+          "smooth": 0.0
+        },
+        {
+          "code": "2007",
+          "name": "Burnt Sienna Flat",
+          "rgb": "763F39",
+          "smooth": 0.0
+        },
+        {
+          "code": "2009",
+          "name": "British Crimson Flat",
+          "rgb": "792F36",
+          "smooth": 0.0
+        },
+        {
+          "code": "2019",
+          "name": "Copper Semi-Gloss",
+          "rgb": "BB5E37",
+          "smooth": 0.5
+        },
+        {
+          "code": "2022",
+          "name": "International Orange FS12197 Gloss",
+          "rgb": "E23E27"
+        },
+        {
+          "code": "2024",
+          "name": "US Army Halo Drab FS34031 Flat",
+          "rgb": "3A3533",
+          "smooth": 0.0
+        },
+        {
+          "code": "2026",
+          "name": "Dark Drab (B52) FS24091 Semi-Gloss",
+          "rgb": "4C413C",
+          "smooth": 0.5
+        },
+        {
+          "code": "2027",
+          "name": "Dark Green (B52) FS34096 Flat",
+          "rgb": "484E41",
+          "smooth": 0.0
+        },
+        {
+          "code": "2028",
+          "name": "Willow Green FS14187 Gloss",
+          "rgb": "437D3B"
+        },
+        {
+          "code": "2029",
+          "name": "Green FS34258 Flat",
+          "rgb": "7A875C",
+          "smooth": 0.0
+        },
+        {
+          "code": "2036",
+          "name": "Dark Gray (F15) FS36176 Flat",
+          "rgb": "879197",
+          "smooth": 0.0
+        },
+        {
+          "code": "2037",
+          "name": "Flint Gray FS36314 Flat",
+          "rgb": "B3B8A1",
+          "smooth": 0.0
+        },
+        {
+          "code": "2038",
+          "name": "Light Gray FS36492 Flat",
+          "rgb": "C2C0AD",
+          "smooth": 0.0
+        },
+        {
+          "code": "2040",
+          "name": "Aircraft Interior Black FS37031 Flat",
+          "rgb": "262426",
+          "smooth": 0.0
+        },
+        {
+          "code": "2041",
+          "name": "Fluorescent Red-Orange FS28913 Semi-Gloss",
+          "rgb": "D3143B",
+          "smooth": 0.5,
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "2048",
+          "name": "RAF Azure Blue ANA609 Flat",
+          "rgb": "6A82AD",
+          "smooth": 0.0
+        },
+        {
+          "code": "2049",
+          "name": "RAF Sky “Type S” ANA610 Flat",
+          "rgb": "A8AE8B",
+          "smooth": 0.0
+        },
+        {
+          "code": "2050",
+          "name": "Olive Drab ANA613 Flat",
+          "rgb": "44403A",
+          "smooth": 0.0
+        },
+        {
+          "code": "2051",
+          "name": "Faded Olive Drab Flat",
+          "rgb": "655E51",
+          "smooth": 0.0
+        },
+        {
+          "code": "2052",
+          "name": "RAF Middlestone ANA615 Flat",
+          "rgb": "957B47",
+          "smooth": 0.0
+        },
+        {
+          "code": "2053",
+          "name": "Sand ANA616 Flat",
+          "rgb": "D3BE98",
+          "smooth": 0.0
+        },
+        {
+          "code": "2054",
+          "name": "Dark Earth ANA617 Flat",
+          "rgb": "694F39",
+          "smooth": 0.0
+        },
+        {
+          "code": "2057",
+          "name": "RAF Ocean Gray Flat",
+          "rgb": "4D6366",
+          "smooth": 0.0
+        },
+        {
+          "code": "2059",
+          "name": "RAF Dark Sea Gray Flat",
+          "rgb": "57575A",
+          "smooth": 0.0
+        },
+        {
+          "code": "2062",
+          "name": "RAF Interior Green Flat",
+          "rgb": "677666",
+          "smooth": 0.0
+        },
+        {
+          "code": "2063",
+          "name": "RAF Trainer Yellow Gloss",
+          "rgb": "BD7E25"
+        },
+        {
+          "code": "2071",
+          "name": "Grau RLM02 Semi-Gloss",
+          "rgb": "757163",
+          "smooth": 0.5
+        },
+        {
+          "code": "2072",
+          "name": "Gelb RLM04 Semi-Gloss",
+          "rgb": "E9B51B",
+          "smooth": 0.5
+        },
+        {
+          "code": "2073",
+          "name": "Rot RLM23 Semi-Gloss",
+          "rgb": "BD3539",
+          "smooth": 0.5
+        },
+        {
+          "code": "2074",
+          "name": "Dunkelblau RLM24 Semi-Gloss",
+          "rgb": "364E6C",
+          "smooth": 0.5
+        },
+        {
+          "code": "2076",
+          "name": "Grun RLM62 Semi-Gloss",
+          "rgb": "55604F",
+          "smooth": 0.5
+        },
+        {
+          "code": "2077",
+          "name": "Lichtgrau RLM63 Semi-Gloss",
+          "rgb": "C7C8CA",
+          "smooth": 0.5
+        },
+        {
+          "code": "2078",
+          "name": "Hellblau RLM65 Semi-Gloss",
+          "rgb": "A9C1B1",
+          "smooth": 0.5
+        },
+        {
+          "code": "2079",
+          "name": "Schwarzgrau RLM66 Semi-Gloss",
+          "rgb": "3C3B3D",
+          "smooth": 0.5
+        },
+        {
+          "code": "2080",
+          "name": "Schwarzgrun RLM70 Semi-Gloss",
+          "rgb": "373837",
+          "smooth": 0.5
+        },
+        {
+          "code": "2081",
+          "name": "Dunkelgrun RLM71 Semi-Gloss",
+          "rgb": "535247",
+          "smooth": 0.5
+        },
+        {
+          "code": "2085",
+          "name": "Grauviolett RLM75 Semi-Gloss",
+          "rgb": "565548",
+          "smooth": 0.5
+        },
+        {
+          "code": "2086",
+          "name": "Lichtblau RLM76 Semi-Gloss",
+          "rgb": "A1AA98",
+          "smooth": 0.5
+        },
+        {
+          "code": "2087",
+          "name": "Hellblau RLM78 Semi-Gloss",
+          "rgb": "85A0A2",
+          "smooth": 0.5
+        },
+        {
+          "code": "2088",
+          "name": "Sandgelb RLM79 Semi-Gloss",
+          "rgb": "926A42",
+          "smooth": 0.5
+        },
+        {
+          "code": "2089",
+          "name": "Olivgrun RLM80 Semi-Gloss",
+          "rgb": "2C342C",
+          "smooth": 0.5
+        },
+        {
+          "code": "2090",
+          "name": "Braunviolett RLM81 Semi-Gloss",
+          "rgb": "423C35",
+          "smooth": 0.5
+        },
+        {
+          "code": "2091",
+          "name": "Dunkelgrun RLM82 Semi-Gloss",
+          "rgb": "33362E",
+          "smooth": 0.5
+        },
+        {
+          "code": "2092",
+          "name": "Lichtgrun RLM83 Semi-Gloss",
+          "rgb": "415742",
+          "smooth": 0.5
+        },
+        {
+          "code": "2094",
+          "name": "Panzer Schwarzgrau RAL7021 Flat",
+          "rgb": "2F373D",
+          "smooth": 0.0
+        },
+        {
+          "code": "2095",
+          "name": "Panzer Dunkelgelb RAL7028 ‘43 Flat",
+          "rgb": "A3913E",
+          "smooth": 0.0
+        },
+        {
+          "code": "2096",
+          "name": "Schokoladenbraun RAL8017 ‘43 Flat",
+          "rgb": "322C21",
+          "smooth": 0.0
+        },
+        {
+          "code": "2097",
+          "name": "Panzer Olivgrun ‘43 Flat",
+          "rgb": "3D4C43",
+          "smooth": 0.0
+        },
+        {
+          "code": "2098",
+          "name": "Africa Khakibraun RAL7008 ‘41 Flat",
+          "rgb": "635543",
+          "smooth": 0.0
+        },
+        {
+          "code": "2099",
+          "name": "Africa Grunbraun RAL8000 Flat",
+          "rgb": "8A7A3E",
+          "smooth": 0.0
+        },
+        {
+          "code": "2102",
+          "name": "Afrika Braun RAL8020 Flat",
+          "rgb": "B18B55",
+          "smooth": 0.0
+        },
+        {
+          "code": "2103",
+          "name": "Afrika Dunkelgrau ‘42 RAL7027 Flat",
+          "rgb": "7F6E58",
+          "smooth": 0.0
+        },
+        {
+          "code": "2110",
+          "name": "Italian Sand Flat",
+          "rgb": "8A6654",
+          "smooth": 0.0
+        },
+        {
+          "code": "2112",
+          "name": "Italian Olive Green Flat",
+          "rgb": "464F3C",
+          "smooth": 0.0
+        },
+        {
+          "code": "2115",
+          "name": "Imperial Japanese Army Lt. Gray Semi-Gloss",
+          "rgb": "BCC9BE",
+          "smooth": 0.5
+        },
+        {
+          "code": "2116",
+          "name": "Imperial Japanese Navy Green Gloss",
+          "rgb": "07120C"
+        },
+        {
+          "code": "2117",
+          "name": "Imperial Japanese Navy Sky Gray Gloss",
+          "rgb": "A8AFA6"
+        },
+        {
+          "code": "2118",
+          "name": "Deep Yellow Flat",
+          "rgb": "E99922",
+          "smooth": 0.0
+        },
+        {
+          "code": "2119",
+          "name": "Interior Metallic Blue Semi-Gloss",
+          "rgb": "4D898B",
+          "smooth": 0.5,
+          "refl": "Metallic"
+        },
+        {
+          "code": "2124",
+          "name": "Russian Earth Brown Flat",
+          "rgb": "574536",
+          "smooth": 0.0
+        },
+        {
+          "code": "2127",
+          "name": "Russian Marker Red Flat",
+          "rgb": "CB2238",
+          "smooth": 0.0
+        },
+        {
+          "code": "2128",
+          "name": "Russian Marker Yellow Flat",
+          "rgb": "F8D100",
+          "smooth": 0.0
+        },
+        {
+          "code": "2129",
+          "name": "Russian Armor Green Semi-Gloss",
+          "rgb": "393C33",
+          "smooth": 0.5
+        },
+        {
+          "code": "2132",
+          "name": "USSR Flanker Blue/Gray Semi-Gloss",
+          "rgb": "55677F",
+          "smooth": 0.5
+        },
+        {
+          "code": "2135",
+          "name": "USSR Interior Blue/Green Semi-Gloss",
+          "rgb": "55978B",
+          "smooth": 0.5
+        },
+        {
+          "code": "2136",
+          "name": "US Gulf Armor Sand Flat",
+          "rgb": "BDA263",
+          "smooth": 0.0
+        },
+        {
+          "code": "2137",
+          "name": "British Gulf Armor Light Stone Flat",
+          "rgb": "A98456",
+          "smooth": 0.0
+        },
+        {
+          "code": "2138",
+          "name": "Israeli Armor Sand / Gray Flat",
+          "rgb": "6E624E",
+          "smooth": 0.0
+        },
+        {
+          "code": "2142",
+          "name": "White FS37925 Flat",
+          "rgb": "FFFEF6",
+          "smooth": 0.0
+        },
+        {
+          "code": "2143",
+          "name": "White RLM21 Semi-Gloss",
+          "rgb": "FFFEF6",
+          "smooth": 0.5
+        },
+        {
+          "code": "2144",
+          "name": "White FS17925 Gloss",
+          "rgb": "FFFEF6"
+        },
+        {
+          "code": "2147",
+          "name": "Olive Drab No.#8 Semi-Gloss",
+          "rgb": "6B614A",
+          "smooth": 0.5
+        },
+        {
+          "code": "2148",
+          "name": "Fieldgrau RAL6006 Semi-Gloss",
+          "rgb": "33472B",
+          "smooth": 0.5
+        },
+        {
+          "code": "2149",
+          "name": "Olivgrun RAL6003 Semi-Gloss",
+          "rgb": "58644E",
+          "smooth": 0.5
+        },
+        {
+          "code": "2152",
+          "name": "Root Braun RAL8012 Semi-Gloss",
+          "rgb": "773F3C",
+          "smooth": 0.5
+        },
+        {
+          "code": "2153",
+          "name": "Natural Haze Gray USN Semi-Gloss",
+          "rgb": "7D8480",
+          "smooth": 0.5
+        },
+        {
+          "code": "2154",
+          "name": "5-P Pale Blue Gray USN Semi-Gloss",
+          "rgb": "B0BDBD",
+          "smooth": 0.5
+        },
+        {
+          "code": "2155",
+          "name": "5-L Light Gray USN Semi-Gloss",
+          "rgb": "A4BEBD",
+          "smooth": 0.5
+        },
+        {
+          "code": "2156",
+          "name": "5-H Haze Gray USN Semi-Gloss",
+          "rgb": "9EA8B2",
+          "smooth": 0.5
+        },
+        {
+          "code": "2157",
+          "name": "5-O Ocean Gray USN Semi-Gloss",
+          "rgb": "556E81",
+          "smooth": 0.5
+        },
+        {
+          "code": "2158",
+          "name": "5-N Navy Blue USN Semi-Gloss",
+          "rgb": "44576A",
+          "smooth": 0.5
+        },
+        {
+          "code": "2159",
+          "name": "20-B Weather Deck Blue USN Semi-Gloss",
+          "rgb": "3D505A",
+          "smooth": 0.5
+        },
+        {
+          "code": "2160",
+          "name": "RAL7001 Hellgrau 50 KMS Semi-Gloss",
+          "rgb": "909CA0",
+          "smooth": 0.5
+        },
+        {
+          "code": "2161",
+          "name": "RAL7000 Dunkelgrau 51 KMS Semi-Gloss",
+          "rgb": "7D8F93",
+          "smooth": 0.5
+        },
+        {
+          "code": "2162",
+          "name": "Dunkelblaugrau KMS Semi-Gloss",
+          "rgb": "435153",
+          "smooth": 0.5
+        },
+        {
+          "code": "2163",
+          "name": "RAL7038 Hellblaugrau KMS Semi-Gloss",
+          "rgb": "BFB9A7",
+          "smooth": 0.5
+        },
+        {
+          "code": "2164",
+          "name": "RAL7001-7038 Mittelblaugrau KMS Semi-Gloss",
+          "rgb": "A5A19E",
+          "smooth": 0.5
+        },
+        {
+          "code": "2165",
+          "name": "Hull Red SchiffSbobenfarbe KMS Semi-Gloss",
+          "rgb": "5B3733",
+          "smooth": 0.5
+        },
+        {
+          "code": "2166",
+          "name": "Sasebo Naval Arsenal IJN Semi-Gloss",
+          "rgb": "404752",
+          "smooth": 0.5
+        },
+        {
+          "code": "2167",
+          "name": "Kure Naval Arsenal IJN Semi-Gloss",
+          "rgb": "6B7477",
+          "smooth": 0.5
+        },
+        {
+          "code": "2168",
+          "name": "Maizuru Naval Arsenal IJN Semi-Gloss",
+          "rgb": "62757B",
+          "smooth": 0.5
+        },
+        {
+          "code": "2169",
+          "name": "507 A Dark Gray R.N. Semi-Gloss",
+          "rgb": "3D505A",
+          "smooth": 0.5
+        },
+        {
+          "code": "2170",
+          "name": "507 C Light Gray R.N. Semi-Gloss",
+          "rgb": "687C81",
+          "smooth": 0.5
+        },
+        {
+          "code": "2171",
+          "name": "507 B Mid Gray R.N. Semi-Gloss",
+          "rgb": "657C81",
+          "smooth": 0.5
+        },
+        {
+          "code": "2173",
+          "name": "Tricolor Green NATO Semi-Gloss",
+          "rgb": "41534A",
+          "smooth": 0.5
+        },
+        {
+          "code": "2174",
+          "name": "Tricolor Brown NATO Semi-Gloss",
+          "rgb": "4E493B",
+          "smooth": 0.5
+        },
+        {
+          "code": "2175",
+          "name": "RAL6014 Gelboliv NATO Semi-Gloss",
+          "rgb": "5A5448",
+          "smooth": 0.5
+        },
+        {
+          "code": "2177",
+          "name": "Light Rust Semi-Gloss",
+          "rgb": "DA773A",
+          "smooth": 0.5
+        },
+        {
+          "code": "2178",
+          "name": "Black Detail Stain Semi-Gloss",
+          "rgb": "40372A",
+          "smooth": 0.5
+        },
+        {
+          "code": "2179",
+          "name": "Brown Detail Stain Semi-Gloss",
+          "rgb": "955126",
+          "smooth": 0.5
+        },
+        {
+          "code": "2180",
+          "name": "Rust #1 Detail Stain Semi-Gloss",
+          "rgb": "BD602F",
+          "smooth": 0.5
+        },
+        {
+          "code": "2181",
+          "name": "Rust #2 Detail Stain Semi-Gloss",
+          "rgb": "E37F1C",
+          "smooth": 0.5
+        },
+        {
+          "code": "2182",
+          "name": "Oil and Grease Detail Stain Semi-Gloss",
+          "rgb": "441D04",
+          "smooth": 0.5
+        },
+        {
+          "code": "2183",
+          "name": "Natural Detail Stain Semi-Gloss",
+          "rgb": "895C36",
+          "smooth": 0.5
+        },
+        {
+          "code": "170109",
+          "name": "Military Brown FS30117 Flat",
+          "rgb": "945135",
+          "smooth": 0.0
+        },
+        {
+          "code": "170203",
+          "name": "Field Drab FS30118 Flat",
+          "rgb": "727527",
+          "smooth": 0.0
+        },
+        {
+          "code": "170508",
+          "name": "Insignia Red FS31136 Flat",
+          "rgb": "B4212E",
+          "smooth": 0.0
+        },
+        {
+          "code": "171004",
+          "name": "Dark Green FS34079 Flat",
+          "rgb": "43532B",
+          "smooth": 0.0
+        },
+        {
+          "code": "171106",
+          "name": "Olive Drab FS34087 Flat",
+          "rgb": "625E34",
+          "smooth": 0.0
+        },
+        {
+          "code": "172305",
+          "name": "Gunship Gray FS36118 Flat",
+          "rgb": "52636C",
+          "smooth": 0.0
+        },
+        {
+          "code": "172502",
+          "name": "Neutral Gray FS36270 Flat",
+          "rgb": "8C959C",
+          "smooth": 0.0
+        },
+        {
+          "code": "195002",
+          "name": "Panzer Gray FS36076 Flat",
+          "rgb": "A7A9AC",
+          "smooth": 0.0
+        },
+        {
+          "code": "195506",
+          "name": "Afrika Mustard FS30266 Flat",
+          "rgb": "A78B4E",
+          "smooth": 0.0
+        },
+        {
+          "code": "200104",
+          "name": "Skin Tone Tint Base Light Flat",
+          "rgb": "E6B979",
+          "smooth": 0.0
+        },
+        {
+          "code": "200408",
+          "name": "Skin Tone Shadow Tint Flat",
+          "rgb": "7C5545",
+          "smooth": 0.0
+        },
+        {
+          "code": "200801",
+          "name": "Raw Sienna Flat",
+          "rgb": "73594D",
+          "smooth": 0.0
+        },
+        {
+          "code": "201105",
+          "name": "Cadmium Yellow Light Flat",
+          "rgb": "FFE200",
+          "smooth": 0.0
+        },
+        {
+          "code": "201207",
+          "name": "Cobalt Blue Flat",
+          "rgb": "2C5CA5",
+          "smooth": 0.0
+        },
+        {
+          "code": "201301",
+          "name": "Napoleonic Violet Flat",
+          "rgb": "83659C",
+          "smooth": 0.0
+        },
+        {
+          "code": "201408",
+          "name": "German Uniform Feldgrau Flat",
+          "rgb": "56585D",
+          "smooth": 0.0
+        },
+        {
+          "code": "202119",
+          "name": "Tan FS20400 Semi-Gloss",
+          "rgb": "D79768",
+          "smooth": 0.5
+        },
+        {
+          "code": "202304",
+          "name": "Blue Angels Yellow FS13655 Gloss",
+          "rgb": "E9C313"
+        },
+        {
+          "code": "202502",
+          "name": "Marine Corps Green FS34052 Flat",
+          "rgb": "393531",
+          "smooth": 0.0
+        },
+        {
+          "code": "203003",
+          "name": "True Blue FS15102 Gloss",
+          "rgb": "16578A"
+        },
+        {
+          "code": "203107",
+          "name": "Blue FS35109 Flat",
+          "rgb": "3A6B85",
+          "smooth": 0.0
+        },
+        {
+          "code": "203223",
+          "name": "Bright Blue FS35183 Flat",
+          "rgb": "1A67A1",
+          "smooth": 0.0
+        },
+        {
+          "code": "203325",
+          "name": "Blue FS35414 Flat",
+          "rgb": "96AE9C",
+          "smooth": 0.0
+        },
+        {
+          "code": "203414",
+          "name": "Engine Gray FS36076 Flat",
+          "rgb": "4B4C50",
+          "smooth": 0.0
+        },
+        {
+          "code": "203504",
+          "name": "AMC Gray FS36173 Flat",
+          "rgb": "727477",
+          "smooth": 0.0
+        },
+        {
+          "code": "205545",
+          "name": "Navy Blue Gray Flat",
+          "rgb": "5A7581",
+          "smooth": 0.0
+        },
+        {
+          "code": "205802",
+          "name": "RAF Medium Sea Gray Flat",
+          "rgb": "BCC3C0",
+          "smooth": 0.0
+        },
+        {
+          "code": "206003",
+          "name": "RAF Dark Green Flat",
+          "rgb": "3E3C37",
+          "smooth": 0.0
+        },
+        {
+          "code": "208219",
+          "name": "Grun RLM72 Semi-Gloss",
+          "rgb": "3A3738",
+          "smooth": 0.5
+        },
+        {
+          "code": "208425",
+          "name": "Graungrun RLM74 Semi-Gloss",
+          "rgb": "505349",
+          "smooth": 0.5
+        },
+        {
+          "code": "210008",
+          "name": "Signalbraun RAL8002 Flat",
+          "rgb": "694640",
+          "smooth": 0.0
+        },
+        {
+          "code": "210106",
+          "name": "Anthracitgrau RAL7016 Flat",
+          "rgb": "42544B",
+          "smooth": 0.0
+        },
+        {
+          "code": "210420",
+          "name": "Panzer Interior Buff Semi-Gloss",
+          "rgb": "F6DDB2",
+          "smooth": 0.5
+        },
+        {
+          "code": "211138",
+          "name": "Italian Dark Brown Flat",
+          "rgb": "513735",
+          "smooth": 0.0
+        },
+        {
+          "code": "2122100",
+          "name": "Russian Topside Green Flat",
+          "rgb": "3B3D34",
+          "smooth": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Model Master Acrylic",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "4601",
+          "name": "Skin Tone Tint Base Light Flat",
+          "rgb": "E7BB7D",
+          "smooth": 0.0
+        },
+        {
+          "code": "4603",
+          "name": "Skin Tone Warm Tint Flat",
+          "rgb": "CB644B",
+          "smooth": 0.0
+        },
+        {
+          "code": "4604",
+          "name": "Skin Tone Shadow Tint Flat",
+          "rgb": "80663A",
+          "smooth": 0.0
+        },
+        {
+          "code": "4605",
+          "name": "Burnt Umber Flat",
+          "rgb": "543B37",
+          "smooth": 0.0
+        },
+        {
+          "code": "4607",
+          "name": "Burnt Sienna Flat",
+          "rgb": "563E3A",
+          "smooth": 0.0
+        },
+        {
+          "code": "4608",
+          "name": "Raw Sienna Flat",
+          "rgb": "A38367",
+          "smooth": 0.0
+        },
+        {
+          "code": "4609",
+          "name": "British Crimson Flat",
+          "rgb": "7E0A16",
+          "smooth": 0.0
+        },
+        {
+          "code": "4611",
+          "name": "Cadmium Yellow Light Flat",
+          "rgb": "FFF339",
+          "smooth": 0.0
+        },
+        {
+          "code": "4612",
+          "name": "Cobalt Blue Flat",
+          "rgb": "0081C7",
+          "smooth": 0.0
+        },
+        {
+          "code": "4613",
+          "name": "Napoleonic Violet Flat",
+          "rgb": "837DBB",
+          "smooth": 0.0
+        },
+        {
+          "code": "4614",
+          "name": "German Uniform Feldgrau Flat",
+          "rgb": "5C6D71",
+          "smooth": 0.0
+        },
+        {
+          "code": "4624",
+          "name": "Turn Signal Amber Gloss",
+          "rgb": "FDBA43"
+        },
+        {
+          "code": "4625",
+          "name": "Transparent Orange Gloss",
+          "rgb": "E36E1E"
+        },
+        {
+          "code": "4629",
+          "name": "Chevy Engine Red Gloss",
+          "rgb": "F04F38"
+        },
+        {
+          "code": "4630",
+          "name": "Transparent Red Gloss",
+          "rgb": "E51B23"
+        },
+        {
+          "code": "4631",
+          "name": "Italian Red Gloss",
+          "rgb": "EF3F47"
+        },
+        {
+          "code": "4632",
+          "name": "Guards Red Gloss",
+          "rgb": "DE4837"
+        },
+        {
+          "code": "4633",
+          "name": "Stop Light Red Gloss",
+          "rgb": "C72D27"
+        },
+        {
+          "code": "4640",
+          "name": "Hot Pink Pearl Gloss",
+          "rgb": "DE499A",
+          "refl": "Pearl"
+        },
+        {
+          "code": "4643",
+          "name": "Purple Pearl Gloss",
+          "rgb": "7B0265",
+          "refl": "Pearl"
+        },
+        {
+          "code": "4646",
+          "name": "Kandy Scarlet Gloss",
+          "rgb": "83365D"
+        },
+        {
+          "code": "4650",
+          "name": "Grape Pearl Gloss",
+          "rgb": "614DA0",
+          "refl": "Pearl"
+        },
+        {
+          "code": "4651",
+          "name": "Deep Pearlescent Purple Gloss",
+          "rgb": "104C8A",
+          "refl": "Pearl"
+        },
+        {
+          "code": "4657",
+          "name": "True Blue Pearl Gloss",
+          "rgb": "00689E",
+          "refl": "Pearl"
+        },
+        {
+          "code": "4658",
+          "name": "Transparent Blue Gloss",
+          "rgb": "0077B8"
+        },
+        {
+          "code": "4659",
+          "name": "French Blue Gloss",
+          "rgb": "0070AB"
+        },
+        {
+          "code": "4660",
+          "name": "Dark Blue Gloss",
+          "rgb": "005B9B"
+        },
+        {
+          "code": "4661",
+          "name": "Ford/GM Engine Blue Gloss",
+          "rgb": "004F84"
+        },
+        {
+          "code": "4662",
+          "name": "Arctic Blue Metallic Gloss",
+          "rgb": "105588",
+          "refl": "Metallic"
+        },
+        {
+          "code": "4664",
+          "name": "Teal Gloss",
+          "rgb": "006678"
+        },
+        {
+          "code": "4668",
+          "name": "Transparent Green Gloss",
+          "rgb": "009649"
+        },
+        {
+          "code": "4669",
+          "name": "Green Gloss",
+          "rgb": "007E3D"
+        },
+        {
+          "code": "4670",
+          "name": "Dark Pearl Green Gloss",
+          "rgb": "005E38",
+          "refl": "Pearl"
+        },
+        {
+          "code": "4671",
+          "name": "Gold Gloss",
+          "rgb": "8C694B"
+        },
+        {
+          "code": "4672",
+          "name": "Brass Semi-Gloss",
+          "rgb": "C1954B",
+          "smooth": 0.5
+        },
+        {
+          "code": "4673",
+          "name": "Wood Flat",
+          "rgb": "C7904B",
+          "smooth": 0.0
+        },
+        {
+          "code": "4674",
+          "name": "Leather Flat",
+          "rgb": "673400",
+          "smooth": 0.0
+        },
+        {
+          "code": "4675",
+          "name": "Rust Flat",
+          "rgb": "70493A",
+          "smooth": 0.0
+        },
+        {
+          "code": "4676",
+          "name": "Jet Exhaust Flat",
+          "rgb": "4F4540",
+          "smooth": 0.0
+        },
+        {
+          "code": "4677",
+          "name": "Aluminum Flat",
+          "rgb": "999FA0",
+          "smooth": 0.0
+        },
+        {
+          "code": "4678",
+          "name": "Silver Gloss",
+          "rgb": "979A9C"
+        },
+        {
+          "code": "4679",
+          "name": "Steel Semi-Gloss",
+          "rgb": "868887",
+          "smooth": 0.5
+        },
+        {
+          "code": "4681",
+          "name": "Gun Metal Semi-Gloss",
+          "rgb": "000000",
+          "smooth": 0.5
+        },
+        {
+          "code": "4682",
+          "name": "International Orange FS12197 Gloss",
+          "rgb": "F26A4C"
+        },
+        {
+          "code": "4683",
+          "name": "Chrome Yellow FS13538 Gloss",
+          "rgb": "FFF200"
+        },
+        {
+          "code": "4684",
+          "name": "Blue Angel Yellow FS13655 Gloss",
+          "rgb": "E9C313"
+        },
+        {
+          "code": "4686",
+          "name": "Dark Sea Blue FS15042 Gloss",
+          "rgb": "072C49"
+        },
+        {
+          "code": "4687",
+          "name": "Blue Angel Blue FS15050 Gloss",
+          "rgb": "003559"
+        },
+        {
+          "code": "4691",
+          "name": "Navy Gray FS16081 Gloss",
+          "rgb": "4C514C"
+        },
+        {
+          "code": "4692",
+          "name": "Gull Gray FS16440 Gloss",
+          "rgb": "D1D1C9"
+        },
+        {
+          "code": "4693",
+          "name": "Aircraft Gray FS16473 Gloss",
+          "rgb": "C6CDC6"
+        },
+        {
+          "code": "4695",
+          "name": "Black FS17038 Gloss",
+          "rgb": "1C1D1F"
+        },
+        {
+          "code": "4696",
+          "name": "White FS17875 Gloss",
+          "rgb": "F4F0E3"
+        },
+        {
+          "code": "4697",
+          "name": "Tan FS20400 Gloss",
+          "rgb": "D79768"
+        },
+        {
+          "code": "4700",
+          "name": "Black FS27038 Semi-Gloss",
+          "rgb": "3B3A39",
+          "smooth": 0.5
+        },
+        {
+          "code": "4701",
+          "name": "White FS27875 Semi-Gloss",
+          "rgb": "FFFFFF",
+          "smooth": 0.5
+        },
+        {
+          "code": "4703",
+          "name": "Fluorescent Red FS28915 Flat",
+          "rgb": "EF3E25",
+          "smooth": 0.0,
+          "refl": "Fluorescent"
+        },
+        {
+          "code": "4707",
+          "name": "Earth Red FS30117 Flat",
+          "rgb": "8F4B2E",
+          "smooth": 0.0
+        },
+        {
+          "code": "4708",
+          "name": "Field Drab FS30118 Flat",
+          "rgb": "5B4A3A",
+          "smooth": 0.0
+        },
+        {
+          "code": "4709",
+          "name": "Dark Tan FS30219 Flat",
+          "rgb": "A78350",
+          "smooth": 0.0
+        },
+        {
+          "code": "4711",
+          "name": "Armor Sand FS30277 Flat",
+          "rgb": "9F8F74",
+          "smooth": 0.0
+        },
+        {
+          "code": "4714",
+          "name": "Insignia Red FS31136 Flat",
+          "rgb": "8D2227",
+          "smooth": 0.0
+        },
+        {
+          "code": "4720",
+          "name": "Sand FS33531 Flat",
+          "rgb": "BAA180",
+          "smooth": 0.0
+        },
+        {
+          "code": "4721",
+          "name": "Insignia Yellow FS33538 Flat",
+          "rgb": "F3A01F",
+          "smooth": 0.0
+        },
+        {
+          "code": "4722",
+          "name": "Radome Tan FS33613 Flat",
+          "rgb": "F2D79E",
+          "smooth": 0.0
+        },
+        {
+          "code": "4723",
+          "name": "US Army Helo Drab FS34031 Flat",
+          "rgb": "3A3532",
+          "smooth": 0.0
+        },
+        {
+          "code": "4724",
+          "name": "Marine Corps Drab FS34052 Flat",
+          "rgb": "393631",
+          "smooth": 0.0
+        },
+        {
+          "code": "4726",
+          "name": "Dark Green FS34079 Flat",
+          "rgb": "35372D",
+          "smooth": 0.0
+        },
+        {
+          "code": "4727",
+          "name": "Green Drab FS34086 Flat",
+          "rgb": "36322D",
+          "smooth": 0.0
+        },
+        {
+          "code": "4728",
+          "name": "Olive Drab FS34087 Flat",
+          "rgb": "4F4638",
+          "smooth": 0.0
+        },
+        {
+          "code": "4729",
+          "name": "Euro 1 Dark Green FS34092 Flat",
+          "rgb": "323B35",
+          "smooth": 0.0
+        },
+        {
+          "code": "4734",
+          "name": "Medium Green FS34102 Flat",
+          "rgb": "3A4232",
+          "smooth": 0.0
+        },
+        {
+          "code": "4736",
+          "name": "Interior Green FS34151 Flat",
+          "rgb": "4F593A",
+          "smooth": 0.0
+        },
+        {
+          "code": "4739",
+          "name": "Pale Green FS34227 Flat",
+          "rgb": "7E9969",
+          "smooth": 0.0
+        },
+        {
+          "code": "4742",
+          "name": "Insignia Blue FS35044 Flat",
+          "rgb": "334861",
+          "smooth": 0.0
+        },
+        {
+          "code": "4744",
+          "name": "Intermediate Blue FS35164 Flat",
+          "rgb": "515B69",
+          "smooth": 0.0
+        },
+        {
+          "code": "4746",
+          "name": "Medium Gray FS35237 Flat",
+          "rgb": "8499A3",
+          "smooth": 0.0
+        },
+        {
+          "code": "4748",
+          "name": "Duck Egg Blue FS35622 Flat",
+          "rgb": "B8D4D2",
+          "smooth": 0.0
+        },
+        {
+          "code": "4749",
+          "name": "Engine Gray FS36076 Flat",
+          "rgb": "4B4C50",
+          "smooth": 0.0
+        },
+        {
+          "code": "4750",
+          "name": "Euro 1 Gray FS36081 Flat",
+          "rgb": "505348",
+          "smooth": 0.0
+        },
+        {
+          "code": "4752",
+          "name": "Gunship Gray FS36118 Flat",
+          "rgb": "424348",
+          "smooth": 0.0
+        },
+        {
+          "code": "4754",
+          "name": "Dark Gray (F-15) FS36176 Flat",
+          "rgb": "879197",
+          "smooth": 0.0
+        },
+        {
+          "code": "4755",
+          "name": "Dark Gull Gray FS36231 Flat",
+          "rgb": "9FA390",
+          "smooth": 0.0
+        },
+        {
+          "code": "4757",
+          "name": "Neutral Gray FS36270 Flat",
+          "rgb": "808285",
+          "smooth": 0.0
+        },
+        {
+          "code": "4759",
+          "name": "Light Sea Gray FS36307 Flat",
+          "rgb": "B3B2A0",
+          "smooth": 0.0
+        },
+        {
+          "code": "4761",
+          "name": "Dark Ghost Gray FS36320 Flat",
+          "rgb": "747A80",
+          "smooth": 0.0
+        },
+        {
+          "code": "4762",
+          "name": "Light Ghost Gray FS36375 Flat",
+          "rgb": "C6C8CA",
+          "smooth": 0.0
+        },
+        {
+          "code": "4763",
+          "name": "Gull Gray FS36440 Flat",
+          "rgb": "C8C7BC",
+          "smooth": 0.0
+        },
+        {
+          "code": "4765",
+          "name": "Light Gray FS36495 Flat",
+          "rgb": "D8E1DC",
+          "smooth": 0.0
+        },
+        {
+          "code": "4766",
+          "name": "Camouflage Gray FS36622 Flat",
+          "rgb": "E5E5DC",
+          "smooth": 0.0
+        },
+        {
+          "code": "4767",
+          "name": "Aircraft Interior Black FS37031 Flat",
+          "rgb": "44423C",
+          "smooth": 0.0
+        },
+        {
+          "code": "4768",
+          "name": "Black FS37038 Flat",
+          "rgb": "1C2124",
+          "smooth": 0.0
+        },
+        {
+          "code": "4769",
+          "name": "White FS37875 Flat",
+          "rgb": "F4F0E4",
+          "smooth": 0.0
+        },
+        {
+          "code": "4770",
+          "name": "Gray RLM02 Semi-Gloss",
+          "rgb": "757263",
+          "smooth": 0.5
+        },
+        {
+          "code": "4771",
+          "name": "Gelb RLM04 Semi-Gloss",
+          "rgb": "E9B520",
+          "smooth": 0.5
+        },
+        {
+          "code": "4778",
+          "name": "Hellblau RLM65 Semi-Gloss",
+          "rgb": "A8C1B1",
+          "smooth": 0.5
+        },
+        {
+          "code": "4779",
+          "name": "Schwarzgrau RLM66 Flat",
+          "rgb": "3D3D3E",
+          "smooth": 0.0
+        },
+        {
+          "code": "4780",
+          "name": "Schwarzgrun RLM70 Semi-Gloss",
+          "rgb": "373838",
+          "smooth": 0.5
+        },
+        {
+          "code": "4781",
+          "name": "Dunkelgrun RLM71 Semi-Gloss",
+          "rgb": "535347",
+          "smooth": 0.5
+        },
+        {
+          "code": "4784",
+          "name": "Graugrun RLM74 Semi-Gloss",
+          "rgb": "505348",
+          "smooth": 0.5
+        },
+        {
+          "code": "4785",
+          "name": "Grauviolett RLM75 Semi-Gloss",
+          "rgb": "565448",
+          "smooth": 0.5
+        },
+        {
+          "code": "4786",
+          "name": "Lichtblau RLM76 Semi-Gloss",
+          "rgb": "8399A2",
+          "smooth": 0.5
+        },
+        {
+          "code": "4789",
+          "name": "Sandgelb RLM79 Semi-Gloss",
+          "rgb": "916A43",
+          "smooth": 0.5
+        },
+        {
+          "code": "4795",
+          "name": "Panzer Schwarzgrau RAL7021 Flat",
+          "rgb": "2E2D32",
+          "smooth": 0.0
+        },
+        {
+          "code": "4796",
+          "name": "Panzer Dunkelgelb 1943 Flat",
+          "rgb": "A3903D",
+          "smooth": 0.0
+        },
+        {
+          "code": "4797",
+          "name": "Schokoladenbraun ‘43 RAL8017 Flat",
+          "rgb": "332C21",
+          "smooth": 0.0
+        },
+        {
+          "code": "4798",
+          "name": "Panzer Olivgrun 1943 Flat",
+          "rgb": "3E4C43",
+          "smooth": 0.0
+        },
+        {
+          "code": "4805",
+          "name": "Panzer Interior Buff Semi-Gloss",
+          "rgb": "F6DCB2",
+          "smooth": 0.5
+        },
+        {
+          "code": "4807",
+          "name": "Russian Armor Green Semi-Gloss",
+          "rgb": "383C33",
+          "smooth": 0.5
+        },
+        {
+          "code": "4812",
+          "name": "US Army/Marines Gulf Armor Sand Flat",
+          "rgb": "BDA264",
+          "smooth": 0.0
+        },
+        {
+          "code": "4813",
+          "name": "British Gulf Armor Light Stone Flat",
+          "rgb": "A98556",
+          "smooth": 0.0
+        },
+        {
+          "code": "4840",
+          "name": "RAF Sky Type S ANA610 Flat",
+          "rgb": "A9AE8C",
+          "smooth": 0.0
+        },
+        {
+          "code": "4842",
+          "name": "Olive Drab ANA613 Flat",
+          "rgb": "45403A",
+          "smooth": 0.0
+        },
+        {
+          "code": "4846",
+          "name": "Dark Earth ANA617 Flat",
+          "rgb": "694E3A",
+          "smooth": 0.0
+        },
+        {
+          "code": "4847",
+          "name": "US Navy Blue Gray M-485 Flat",
+          "rgb": "64858D",
+          "smooth": 0.0
+        },
+        {
+          "code": "4849",
+          "name": "RAF Dark Green Flat",
+          "rgb": "3D3C37",
+          "smooth": 0.0
+        },
+        {
+          "code": "4850",
+          "name": "RAF Interior Green Flat",
+          "rgb": "697768",
+          "smooth": 0.0
+        },
+        {
+          "code": "4851",
+          "name": "Yellow Zinc Chromate Flat",
+          "rgb": "D2A73C",
+          "smooth": 0.0
+        },
+        {
+          "code": "4852",
+          "name": "Green Zinc Chromate Flat",
+          "rgb": "597A4D",
+          "smooth": 0.0
+        },
+        {
+          "code": "4860",
+          "name": "Fieldgrau RAL6006 Semi-Gloss",
+          "rgb": "4D4E47",
+          "smooth": 0.5
+        },
+        {
+          "code": "4861",
+          "name": "Rotbraun RAL8012 Semi-Gloss",
+          "rgb": "622F23",
+          "smooth": 0.5
+        },
+        {
+          "code": "4862",
+          "name": "Panzer Olivgrun RAL6003 Semi-Gloss",
+          "rgb": "3A5034",
+          "smooth": 0.5
+        },
+        {
+          "code": "4863",
+          "name": "5-L Light Gray Semi-Gloss",
+          "rgb": "A5BEBE",
+          "smooth": 0.5
+        },
+        {
+          "code": "4864",
+          "name": "5-P Pale Blue Gray Semi-Gloss",
+          "rgb": "B0BEBD",
+          "smooth": 0.5
+        },
+        {
+          "code": "4865",
+          "name": "5-H Haze Gray Semi-Gloss",
+          "rgb": "A1ABB4",
+          "smooth": 0.5
+        },
+        {
+          "code": "4866",
+          "name": "5-O Ocean Gray Semi-Gloss",
+          "rgb": "557082",
+          "smooth": 0.5
+        },
+        {
+          "code": "4867",
+          "name": "5-N Navy Blue Semi-Gloss",
+          "rgb": "072C49",
+          "smooth": 0.5
+        },
+        {
+          "code": "4868",
+          "name": "Hull Red KMS Semi-Gloss",
+          "rgb": "D31F3D",
+          "smooth": 0.5
+        },
+        {
+          "code": "4869",
+          "name": "507-A Dark Gray R.N. Semi-Gloss",
+          "rgb": "3F505A",
+          "smooth": 0.5
+        },
+        {
+          "code": "4870",
+          "name": "507-C Light Gray R.N. Semi-Gloss",
+          "rgb": "D8E1DC",
+          "smooth": 0.5
+        },
+        {
+          "code": "4871",
+          "name": "Black Detail Wash Flat",
+          "rgb": "39291C",
+          "smooth": 0.0
+        },
+        {
+          "code": "4872",
+          "name": "Brown Detail Wash Flat",
+          "rgb": "91775B",
+          "smooth": 0.0
+        },
+        {
+          "code": "4873",
+          "name": "Reefer White Flat",
+          "rgb": "F4F7F6",
+          "smooth": 0.0
+        },
+        {
+          "code": "4874",
+          "name": "Aged White Flat",
+          "rgb": "F3E6BE",
+          "smooth": 0.0
+        },
+        {
+          "code": "4875",
+          "name": "Aged Concrete Flat",
+          "rgb": "BCB48E",
+          "smooth": 0.0
+        },
+        {
+          "code": "4876",
+          "name": "Concrete Flat",
+          "rgb": "AAAC90",
+          "smooth": 0.0
+        },
+        {
+          "code": "4877",
+          "name": "Earth Flat",
+          "rgb": "DAC28F",
+          "smooth": 0.0
+        },
+        {
+          "code": "4878",
+          "name": "Depot Buff Flat",
+          "rgb": "C8B164",
+          "smooth": 0.0
+        },
+        {
+          "code": "4879",
+          "name": "Reefer Yellow Flat",
+          "rgb": "D7C477",
+          "smooth": 0.0
+        },
+        {
+          "code": "4880",
+          "name": "Caboose Red Flat",
+          "rgb": "D55D53",
+          "smooth": 0.0
+        },
+        {
+          "code": "4881",
+          "name": "Boxcar Red Flat",
+          "rgb": "76574D",
+          "smooth": 0.0
+        },
+        {
+          "code": "4882",
+          "name": "Oxide Red Flat",
+          "rgb": "531B0E",
+          "smooth": 0.0
+        },
+        {
+          "code": "4883",
+          "name": "Signal Green Flat",
+          "rgb": "33725B",
+          "smooth": 0.0
+        },
+        {
+          "code": "4884",
+          "name": "Roof Brown Flat",
+          "rgb": "715750",
+          "smooth": 0.0
+        },
+        {
+          "code": "4885",
+          "name": "Railroad Tie Brown Flat",
+          "rgb": "565448",
+          "smooth": 0.0
+        },
+        {
+          "code": "4886",
+          "name": "Reefer Gray Flat",
+          "rgb": "8C9293",
+          "smooth": 0.0
+        },
+        {
+          "code": "4887",
+          "name": "Grimy Black Flat",
+          "rgb": "4F5857",
+          "smooth": 0.0
+        },
+        {
+          "code": "4888",
+          "name": "Engine Black Flat",
+          "rgb": "2C3131",
+          "smooth": 0.0
+        }
+      ]
+    }
+  ]
+}

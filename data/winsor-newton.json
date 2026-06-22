@@ -1,0 +1,1549 @@
+{
+  "schemaVersion": 1,
+  "id": "winsor-newton",
+  "title": "Winsor & Newton",
+  "desc": "Oil & Acrylic Colours",
+  "version": 1,
+  "brand": "W&N",
+  "groups": [
+    {
+      "name": "Winton Oil Colour",
+      "type": "ArtOil",
+      "colors": [
+        {
+          "code": "346",
+          "name": "Lemon Yellow Hue",
+          "rgb": "FCEC29"
+        },
+        {
+          "code": "087",
+          "name": "Cadmium Lemon Hue",
+          "rgb": "F9EB33"
+        },
+        {
+          "code": "119",
+          "name": "Cadmium Yellow Pale Hue",
+          "rgb": "FAEE5C"
+        },
+        {
+          "code": "149",
+          "name": "Chrome Yellow Hue",
+          "rgb": "FADA1D"
+        },
+        {
+          "code": "109",
+          "name": "Cadmium Yellow Hue",
+          "rgb": "FBDF1F"
+        },
+        {
+          "code": "115",
+          "name": "Cadmium Yellow Deep Hue",
+          "rgb": "E77D2D"
+        },
+        {
+          "code": "090",
+          "name": "Cadmium Orange Hue",
+          "rgb": "DC5234"
+        },
+        {
+          "code": "603",
+          "name": "Scarlet Lake",
+          "rgb": "D9302F"
+        },
+        {
+          "code": "095",
+          "name": "Cadmium Red Hue",
+          "rgb": "BA232B"
+        },
+        {
+          "code": "682",
+          "name": "Vermilion Hue",
+          "rgb": "CD2537"
+        },
+        {
+          "code": "098",
+          "name": "Cadmium Red Deep Hue",
+          "rgb": "B72632"
+        },
+        {
+          "code": "480",
+          "name": "Permanent Geranium",
+          "rgb": "D9253C"
+        },
+        {
+          "code": "257",
+          "name": "Flesh Tint",
+          "rgb": "E88C75"
+        },
+        {
+          "code": "502",
+          "name": "Permanent Rose",
+          "rgb": "D91E56"
+        },
+        {
+          "code": "478",
+          "name": "Permanent Crimson",
+          "rgb": "AA2C34"
+        },
+        {
+          "code": "468",
+          "name": "Permanent Alizarin Crimson",
+          "rgb": "87252E"
+        },
+        {
+          "code": "380",
+          "name": "Magenta",
+          "rgb": "722746"
+        },
+        {
+          "code": "194",
+          "name": "Cobalt Violet Hue",
+          "rgb": "5C2E54"
+        },
+        {
+          "code": "229",
+          "name": "Dioxazine Purple",
+          "rgb": "42296C"
+        },
+        {
+          "code": "138",
+          "name": "Cerulean Blue Hue",
+          "rgb": "008EC4"
+        },
+        {
+          "code": "179",
+          "name": "Cobalt Blue Hue",
+          "rgb": "006BA7"
+        },
+        {
+          "code": "263",
+          "name": "French Ultramarine",
+          "rgb": "213881"
+        },
+        {
+          "code": "516",
+          "name": "Phthalo Blue",
+          "rgb": "083A64"
+        },
+        {
+          "code": "538",
+          "name": "Prussian Blue",
+          "rgb": "083A64"
+        },
+        {
+          "code": "241",
+          "name": "Emerald Green",
+          "rgb": "0FA97A"
+        },
+        {
+          "code": "483",
+          "name": "Permanent Green Light",
+          "rgb": "2EA948"
+        },
+        {
+          "code": "145",
+          "name": "Chrome Green Hue",
+          "rgb": "00A765"
+        },
+        {
+          "code": "696",
+          "name": "Viridian Hue",
+          "rgb": "007E5F"
+        },
+        {
+          "code": "459",
+          "name": "Oxide of Chromium",
+          "rgb": "3C5641"
+        },
+        {
+          "code": "637",
+          "name": "Terre Verte",
+          "rgb": "45682D"
+        },
+        {
+          "code": "599",
+          "name": "Sap Green",
+          "rgb": "3B5422"
+        },
+        {
+          "code": "422",
+          "name": "Naples Yellow Hue",
+          "rgb": "FAD071"
+        },
+        {
+          "code": "744",
+          "name": "Yellow Ochre",
+          "rgb": "945D21"
+        },
+        {
+          "code": "552",
+          "name": "Raw Sienna",
+          "rgb": "B86027"
+        },
+        {
+          "code": "362",
+          "name": "Light Red",
+          "rgb": "9C3935"
+        },
+        {
+          "code": "317",
+          "name": "Indian Red",
+          "rgb": "743435"
+        },
+        {
+          "code": "074",
+          "name": "Burnt Sienna",
+          "rgb": "9D3A22"
+        },
+        {
+          "code": "076",
+          "name": "Burnt Umber",
+          "rgb": "442610"
+        },
+        {
+          "code": "676",
+          "name": "Vandyke Brown",
+          "rgb": "442610"
+        },
+        {
+          "code": "554",
+          "name": "Raw Umber",
+          "rgb": "2C1711"
+        },
+        {
+          "code": "465",
+          "name": "Payne's Gray",
+          "rgb": "565B5B"
+        },
+        {
+          "code": "331",
+          "name": "Ivory Black",
+          "rgb": "1A1818"
+        },
+        {
+          "code": "337",
+          "name": "Lamp Black",
+          "rgb": "1A1818"
+        },
+        {
+          "code": "242",
+          "name": "Flake White Hue",
+          "rgb": "FEFFFD"
+        },
+        {
+          "code": "415",
+          "name": "Soft Mixing White",
+          "rgb": "FEFFFD"
+        },
+        {
+          "code": "644",
+          "name": "Titanium White",
+          "rgb": "FEFFFD"
+        },
+        {
+          "code": "748",
+          "name": "Zinc White",
+          "rgb": "FEFFFD"
+        }
+      ]
+    },
+    {
+      "name": "Galeria Acrylic Colour",
+      "type": "ArtAcrylic",
+      "colors": [
+        {
+          "code": "434",
+          "name": "Pale Lemon",
+          "rgb": "FFF9C0"
+        },
+        {
+          "code": "346",
+          "name": "Lemon Yellow",
+          "rgb": "FFF028"
+        },
+        {
+          "code": "114",
+          "name": "Cadmium Yellow Pale Hue",
+          "rgb": "FFF028"
+        },
+        {
+          "code": "653",
+          "name": "Transparent Yellow",
+          "rgb": "FED91C"
+        },
+        {
+          "code": "120",
+          "name": "Cadmium Yellow Medium Hue",
+          "rgb": "FED91C"
+        },
+        {
+          "code": "115",
+          "name": "Cadmium Yellow Deep Hue",
+          "rgb": "F5BE35"
+        },
+        {
+          "code": "257",
+          "name": "Flesh Tint",
+          "rgb": "EA8F64"
+        },
+        {
+          "code": "090",
+          "name": "Cadmium Orange Hue",
+          "rgb": "E46E39"
+        },
+        {
+          "code": "682",
+          "name": "Vermilion Hue",
+          "rgb": "DF5529"
+        },
+        {
+          "code": "095",
+          "name": "Cadmium Red Hue",
+          "rgb": "DB3E37"
+        },
+        {
+          "code": "203",
+          "name": "Crimson",
+          "rgb": "B4244C"
+        },
+        {
+          "code": "466",
+          "name": "Permanent Alizarin Crimson",
+          "rgb": "952134"
+        },
+        {
+          "code": "502",
+          "name": "Permanent Rose",
+          "rgb": "D81C7F"
+        },
+        {
+          "code": "448",
+          "name": "Opera Rose",
+          "rgb": "DA2869"
+        },
+        {
+          "code": "488",
+          "name": "Permanent Magenta",
+          "rgb": "852351"
+        },
+        {
+          "code": "075",
+          "name": "Burgundy",
+          "rgb": "4C2638"
+        },
+        {
+          "code": "444",
+          "name": "Pale Violet",
+          "rgb": "B2ABC8"
+        },
+        {
+          "code": "728",
+          "name": "Winsor Violet",
+          "rgb": "412A6A"
+        },
+        {
+          "code": "660",
+          "name": "Ultramarine",
+          "rgb": "1A4B8C"
+        },
+        {
+          "code": "446",
+          "name": "Powder Blue",
+          "rgb": "ADC2DB"
+        },
+        {
+          "code": "179",
+          "name": "Cobalt Blue Hue",
+          "rgb": "2172AC"
+        },
+        {
+          "code": "138",
+          "name": "Cerulean Blue Hue",
+          "rgb": "246CA7"
+        },
+        {
+          "code": "706",
+          "name": "Winsor Blue",
+          "rgb": "253867"
+        },
+        {
+          "code": "541",
+          "name": "Prussian Blue Hue",
+          "rgb": "203D66"
+        },
+        {
+          "code": "516",
+          "name": "Phthalo Blue",
+          "rgb": "11272F"
+        },
+        {
+          "code": "435",
+          "name": "Pale Olive",
+          "rgb": "99C2B0"
+        },
+        {
+          "code": "599",
+          "name": "Sap Green",
+          "rgb": "006539"
+        },
+        {
+          "code": "447",
+          "name": "Olive Green",
+          "rgb": "3F5129"
+        },
+        {
+          "code": "311",
+          "name": "Hooker's Green",
+          "rgb": "123D23"
+        },
+        {
+          "code": "483",
+          "name": "Permanent Green Light",
+          "rgb": "4DAF46"
+        },
+        {
+          "code": "484",
+          "name": "Permanent Green Middle",
+          "rgb": "00975A"
+        },
+        {
+          "code": "482",
+          "name": "Permanent Green Deep",
+          "rgb": "0F664B"
+        },
+        {
+          "code": "522",
+          "name": "Phthalo Green",
+          "rgb": "186639"
+        },
+        {
+          "code": "232",
+          "name": "Deep Turquoise",
+          "rgb": "14707B"
+        },
+        {
+          "code": "294",
+          "name": "Green Gold",
+          "rgb": "938A36"
+        },
+        {
+          "code": "060",
+          "name": "Buff Titanium",
+          "rgb": "EBBF7E"
+        },
+        {
+          "code": "422",
+          "name": "Naples Yellow",
+          "rgb": "F7CA7F"
+        },
+        {
+          "code": "744",
+          "name": "Yellow Ochre",
+          "rgb": "BB9033"
+        },
+        {
+          "code": "553",
+          "name": "Raw Sienna Opaque",
+          "rgb": "C37F31"
+        },
+        {
+          "code": "552",
+          "name": "Raw Sienna",
+          "rgb": "BA8432"
+        },
+        {
+          "code": "074",
+          "name": "Burnt Sienna",
+          "rgb": "C2682E"
+        },
+        {
+          "code": "077",
+          "name": "Burnt Sienna Opaque",
+          "rgb": "944929"
+        },
+        {
+          "code": "437",
+          "name": "Pale Terracotta",
+          "rgb": "F1AE7A"
+        },
+        {
+          "code": "564",
+          "name": "Red Ochre",
+          "rgb": "5F1C1D"
+        },
+        {
+          "code": "076",
+          "name": "Burnt Umber",
+          "rgb": "6B3F22"
+        },
+        {
+          "code": "438",
+          "name": "Pale Umber",
+          "rgb": "BDB3A8"
+        },
+        {
+          "code": "554",
+          "name": "Raw Umber",
+          "rgb": "613C20"
+        },
+        {
+          "code": "676",
+          "name": "Vandyke Brown",
+          "rgb": "3D2719"
+        },
+        {
+          "code": "465",
+          "name": "Payne's Gray",
+          "rgb": "111415"
+        },
+        {
+          "code": "331",
+          "name": "Ivory Black",
+          "rgb": "3E3C25"
+        },
+        {
+          "code": "337",
+          "name": "Lamp Black",
+          "rgb": "413F3B"
+        },
+        {
+          "code": "386",
+          "name": "Mars Black",
+          "rgb": "3E3C25"
+        },
+        {
+          "code": "415",
+          "name": "Mixing White",
+          "rgb": "FEFFFD"
+        },
+        {
+          "code": "644",
+          "name": "Titanium White",
+          "rgb": "FEFFFD"
+        },
+        {
+          "code": "283",
+          "name": "Gold",
+          "rgb": "96895D"
+        },
+        {
+          "code": "214",
+          "name": "Copper",
+          "rgb": "984A2A"
+        },
+        {
+          "code": "617",
+          "name": "Silver",
+          "rgb": "9FA1A0"
+        },
+        {
+          "code": "537",
+          "name": "Process Yellow",
+          "rgb": "FDE525"
+        },
+        {
+          "code": "533",
+          "name": "Process Magenta",
+          "rgb": "D21F59"
+        },
+        {
+          "code": "535",
+          "name": "Process Cyan",
+          "rgb": "246CA7"
+        }
+      ]
+    },
+    {
+      "name": "Artists' Oil Colour",
+      "type": "ArtOil",
+      "colors": [
+        {
+          "code": "347",
+          "name": "Lemon Yellow Hue",
+          "rgb": "F4ED76"
+        },
+        {
+          "code": "025",
+          "name": "Bismuth Yellow",
+          "rgb": "E5E551"
+        },
+        {
+          "code": "722",
+          "name": "Winsor Lemon",
+          "rgb": "F8EB3F"
+        },
+        {
+          "code": "086",
+          "name": "Cadmium Lemon",
+          "rgb": "F9EB31"
+        },
+        {
+          "code": "730",
+          "name": "Winsor Yellow",
+          "rgb": "F7E619"
+        },
+        {
+          "code": "653",
+          "name": "Transparent Yellow",
+          "rgb": "F9E722"
+        },
+        {
+          "code": "149",
+          "name": "Chrome Yellow Hue",
+          "rgb": "F7E11A"
+        },
+        {
+          "code": "118",
+          "name": "Cadmium Yellow Pale",
+          "rgb": "F8D31F"
+        },
+        {
+          "code": "108",
+          "name": "Cadmium Yellow",
+          "rgb": "E1922F"
+        },
+        {
+          "code": "319",
+          "name": "Indian Yellow",
+          "rgb": "E7AA2D"
+        },
+        {
+          "code": "731",
+          "name": "Winsor Yellow Deep",
+          "rgb": "E39A2D"
+        },
+        {
+          "code": "111",
+          "name": "Cadmium Yellow Deep",
+          "rgb": "D8782D"
+        },
+        {
+          "code": "089",
+          "name": "Cadmium Orange",
+          "rgb": "CD642D"
+        },
+        {
+          "code": "724",
+          "name": "Winsor Orange",
+          "rgb": "D18132"
+        },
+        {
+          "code": "106",
+          "name": "Cadmium Scarlet",
+          "rgb": "C63F2B"
+        },
+        {
+          "code": "603",
+          "name": "Scarlet Lake",
+          "rgb": "C0242A"
+        },
+        {
+          "code": "094",
+          "name": "Cadmium Red",
+          "rgb": "C02535"
+        },
+        {
+          "code": "726",
+          "name": "Winsor Red",
+          "rgb": "B9242A"
+        },
+        {
+          "code": "725",
+          "name": "Winsor Red Deep",
+          "rgb": "AC252D"
+        },
+        {
+          "code": "097",
+          "name": "Cadmium Red Deep",
+          "rgb": "93212F"
+        },
+        {
+          "code": "257",
+          "name": "Flesh Tint",
+          "rgb": "F2B8A6"
+        },
+        {
+          "code": "587",
+          "name": "Rose Madder",
+          "rgb": "D04A64"
+        },
+        {
+          "code": "576",
+          "name": "Rose Dore",
+          "rgb": "DB8C81"
+        },
+        {
+          "code": "042",
+          "name": "Bright Red",
+          "rgb": "B72430"
+        },
+        {
+          "code": "548",
+          "name": "Quinacridone Red Rouge ",
+          "rgb": "DA364E"
+        },
+        {
+          "code": "004",
+          "name": "Alizarin Crimson",
+          "rgb": "982529"
+        },
+        {
+          "code": "479",
+          "name": "Permanent Carmine",
+          "rgb": "AA2950"
+        },
+        {
+          "code": "468",
+          "name": "Permanent Alizarin Crimson",
+          "rgb": "B62437"
+        },
+        {
+          "code": "502",
+          "name": "Permanent Rose",
+          "rgb": "B72446"
+        },
+        {
+          "code": "545",
+          "name": "Quinacridone Magenta",
+          "rgb": "A34187"
+        },
+        {
+          "code": "380",
+          "name": "Magenta",
+          "rgb": "94245F"
+        },
+        {
+          "code": "489",
+          "name": "Permanent Magenta",
+          "rgb": "7D204B"
+        },
+        {
+          "code": "543",
+          "name": "Purple Madder",
+          "rgb": "551526"
+        },
+        {
+          "code": "544",
+          "name": "Purple Lake",
+          "rgb": "402336"
+        },
+        {
+          "code": "192",
+          "name": "Cobalt Violet",
+          "rgb": "893C75"
+        },
+        {
+          "code": "491",
+          "name": "Permanent Mauve",
+          "rgb": "532A56"
+        },
+        {
+          "code": "400",
+          "name": "Mauve Blue Shade",
+          "rgb": "312961"
+        },
+        {
+          "code": "733",
+          "name": "Winsor Violet",
+          "rgb": "532B6B"
+        },
+        {
+          "code": "672",
+          "name": "Ultramarine Violet",
+          "rgb": "724E87"
+        },
+        {
+          "code": "263",
+          "name": "French Ultramarine",
+          "rgb": "1A457F"
+        },
+        {
+          "code": "180",
+          "name": "Cobalt Blue Deep",
+          "rgb": "2A2E69"
+        },
+        {
+          "code": "867",
+          "name": "Ultramarine (Green Shade)",
+          "rgb": "195490"
+        },
+        {
+          "code": "178",
+          "name": "Cobalt Blue",
+          "rgb": "1B629E"
+        },
+        {
+          "code": "321",
+          "name": "Indanthrene Blue",
+          "rgb": "191839"
+        },
+        {
+          "code": "706",
+          "name": "Winsor Blue",
+          "rgb": "1B4D82"
+        },
+        {
+          "code": "707",
+          "name": "Winsor Blue (Green Shade)",
+          "rgb": "212F53"
+        },
+        {
+          "code": "538",
+          "name": "Prussian Blue",
+          "rgb": "263463"
+        },
+        {
+          "code": "137",
+          "name": "Cerulean Blue",
+          "rgb": "4E9DB6"
+        },
+        {
+          "code": "379",
+          "name": "Manganese Blue Hue",
+          "rgb": "238DC1"
+        },
+        {
+          "code": "526",
+          "name": "Phthalo Turquoise",
+          "rgb": "1B4F5C"
+        },
+        {
+          "code": "190",
+          "name": "Cobalt Turquoise",
+          "rgb": "116865"
+        },
+        {
+          "code": "191",
+          "name": "Cobalt Turquoise Light",
+          "rgb": "18A89A"
+        },
+        {
+          "code": "184",
+          "name": "Cobalt Green",
+          "rgb": "143F46"
+        },
+        {
+          "code": "183",
+          "name": "Cobalt Chromite Green",
+          "rgb": "8AB08F"
+        },
+        {
+          "code": "147",
+          "name": "Chrome Green Deep Hue",
+          "rgb": "236B38"
+        },
+        {
+          "code": "692",
+          "name": "Viridian",
+          "rgb": "1F9058"
+        },
+        {
+          "code": "720",
+          "name": "Winsor Green (Pthalo)",
+          "rgb": "14764B"
+        },
+        {
+          "code": "721",
+          "name": "Winsor Green (Yellow Shade)",
+          "rgb": "2B7F3F"
+        },
+        {
+          "code": "482",
+          "name": "Permanent Green Deep",
+          "rgb": "268241"
+        },
+        {
+          "code": "481",
+          "name": "Permanent Green",
+          "rgb": "358941"
+        },
+        {
+          "code": "708",
+          "name": "Winsor Emerald",
+          "rgb": "309667"
+        },
+        {
+          "code": "483",
+          "name": "Permanent Green Light",
+          "rgb": "358941"
+        },
+        {
+          "code": "637",
+          "name": "Terre Verte",
+          "rgb": "9BB782"
+        },
+        {
+          "code": "459",
+          "name": "Oxide of Chromium",
+          "rgb": "5B7D3A"
+        },
+        {
+          "code": "540",
+          "name": "Prussian Green",
+          "rgb": "1B6033"
+        },
+        {
+          "code": "599",
+          "name": "Sap Green",
+          "rgb": "245A2F"
+        },
+        {
+          "code": "084",
+          "name": "Cadmium Green Pale",
+          "rgb": "9BC03D"
+        },
+        {
+          "code": "294",
+          "name": "Green Gold",
+          "rgb": "4F6C34"
+        },
+        {
+          "code": "447",
+          "name": "Olive Green",
+          "rgb": "344326"
+        },
+        {
+          "code": "426",
+          "name": "Naples Yellow Light",
+          "rgb": "FBF0A3"
+        },
+        {
+          "code": "422",
+          "name": "Naples Yellow",
+          "rgb": "F3D374"
+        },
+        {
+          "code": "333",
+          "name": "Jaune Brillant",
+          "rgb": "F0CB46"
+        },
+        {
+          "code": "425",
+          "name": "Naples Yellow Deep",
+          "rgb": "E9B84D"
+        },
+        {
+          "code": "745",
+          "name": "Yellow Ochre Light",
+          "rgb": "BC8F33"
+        },
+        {
+          "code": "746",
+          "name": "Yellow Ochre Pale",
+          "rgb": "D59A2F"
+        },
+        {
+          "code": "320",
+          "name": "Indian Yellow Deep",
+          "rgb": "F8CC22"
+        },
+        {
+          "code": "285",
+          "name": "Gold Ochre",
+          "rgb": "CC9130"
+        },
+        {
+          "code": "744",
+          "name": "Yellow Ochre",
+          "rgb": "B58838"
+        },
+        {
+          "code": "557",
+          "name": "Raw Umber Light",
+          "rgb": "B59034"
+        },
+        {
+          "code": "552",
+          "name": "Raw Sienna",
+          "rgb": "BC7B31"
+        },
+        {
+          "code": "646",
+          "name": "Transparent Gold Ochre",
+          "rgb": "D8A53D"
+        },
+        {
+          "code": "059",
+          "name": "Brown Ochre",
+          "rgb": "AC672F"
+        },
+        {
+          "code": "074",
+          "name": "Burnt Sienna",
+          "rgb": "A9352B"
+        },
+        {
+          "code": "647",
+          "name": "Transparent Red Ochre",
+          "rgb": "CC6A38"
+        },
+        {
+          "code": "382",
+          "name": "Light Red",
+          "rgb": "763121"
+        },
+        {
+          "code": "678",
+          "name": "Venetian Red",
+          "rgb": "7B2322"
+        },
+        {
+          "code": "635",
+          "name": "Terra Rosa",
+          "rgb": "9C2529"
+        },
+        {
+          "code": "657",
+          "name": "Transparent Maroon",
+          "rgb": "9C4132"
+        },
+        {
+          "code": "317",
+          "name": "Indian Red",
+          "rgb": "6B1E22"
+        },
+        {
+          "code": "395",
+          "name": "Mars Violet Deep",
+          "rgb": "72212B"
+        },
+        {
+          "code": "056",
+          "name": "Brown Madder",
+          "rgb": "853427"
+        },
+        {
+          "code": "648",
+          "name": "Transparent Brown Oxide",
+          "rgb": "774630"
+        },
+        {
+          "code": "076",
+          "name": "Burnt Umber",
+          "rgb": "52371D"
+        },
+        {
+          "code": "676",
+          "name": "Vandyke Brown",
+          "rgb": "191313"
+        },
+        {
+          "code": "554",
+          "name": "Raw Umber",
+          "rgb": "433022"
+        },
+        {
+          "code": "558",
+          "name": "Raw Umber (Green Shade)",
+          "rgb": "8C7550"
+        },
+        {
+          "code": "217",
+          "name": "Davy's Gray",
+          "rgb": "B9B992"
+        },
+        {
+          "code": "465",
+          "name": "Payne's Gray",
+          "rgb": "3A3C3E"
+        },
+        {
+          "code": "034",
+          "name": "Blue Black",
+          "rgb": "0C100F"
+        },
+        {
+          "code": "322",
+          "name": "Indigo",
+          "rgb": "1C5393"
+        },
+        {
+          "code": "142",
+          "name": "Charcoal Grey",
+          "rgb": "1A1B1A"
+        },
+        {
+          "code": "386",
+          "name": "Mars Black",
+          "rgb": "141413"
+        },
+        {
+          "code": "331",
+          "name": "Ivory Black",
+          "rgb": "0E0F0D"
+        },
+        {
+          "code": "337",
+          "name": "Lamp Black",
+          "rgb": "111110"
+        },
+        {
+          "code": "505",
+          "name": "Perylene Black",
+          "rgb": "1F2B23"
+        },
+        {
+          "code": "242",
+          "name": "Flake White Hue",
+          "rgb": "FEFFFD"
+        },
+        {
+          "code": "748",
+          "name": "Zinc White",
+          "rgb": "FEFFFD"
+        },
+        {
+          "code": "674",
+          "name": "Underpainting White (Fast Drying)",
+          "rgb": "FEFFFD"
+        },
+        {
+          "code": "644",
+          "name": "Titanium White",
+          "rgb": "FEFFFD"
+        },
+        {
+          "code": "058",
+          "name": "Bronze",
+          "rgb": "5F4628"
+        },
+        {
+          "code": "214",
+          "name": "Copper",
+          "rgb": "BF6A31"
+        },
+        {
+          "code": "573",
+          "name": "Renaissance Gold",
+          "rgb": "D08C37"
+        },
+        {
+          "code": "283",
+          "name": "Gold",
+          "rgb": "E4CE8B"
+        },
+        {
+          "code": "511",
+          "name": "Pewter",
+          "rgb": "A2998F"
+        },
+        {
+          "code": "617",
+          "name": "Silver",
+          "rgb": "B4B4B0"
+        },
+        {
+          "code": "330",
+          "name": "Iridescent White",
+          "rgb": "FEFFFD"
+        }
+      ]
+    },
+    {
+      "name": "Professional Acrylic",
+      "type": "ArtAcrylic",
+      "colors": [
+        {
+          "code": "346",
+          "name": "Lemon Yellow",
+          "rgb": "FFEE09"
+        },
+        {
+          "code": "086",
+          "name": "Cadmium Lemon",
+          "rgb": "FFF028"
+        },
+        {
+          "code": "025",
+          "name": "Bismuth Yellow",
+          "rgb": "FFF028"
+        },
+        {
+          "code": "113",
+          "name": "Cadmium Yellow Light",
+          "rgb": "FFE734"
+        },
+        {
+          "code": "439",
+          "name": "Nickel Azo Yellow",
+          "rgb": "F3B628"
+        },
+        {
+          "code": "019",
+          "name": "Azo Yellow Medium",
+          "rgb": "FBD033"
+        },
+        {
+          "code": "116",
+          "name": "Cadmium Yellow Medium",
+          "rgb": "F8C62E"
+        },
+        {
+          "code": "111",
+          "name": "Cadmium Yellow Deep",
+          "rgb": "F2B434"
+        },
+        {
+          "code": "039",
+          "name": "Azo Yellow Deep",
+          "rgb": "F5B926"
+        },
+        {
+          "code": "089",
+          "name": "Cadmium Orange",
+          "rgb": "E5744A"
+        },
+        {
+          "code": "519",
+          "name": "Pyrrole Orange",
+          "rgb": "DE4F2B"
+        },
+        {
+          "code": "100",
+          "name": "Cadmium Red Light",
+          "rgb": "DA4C4B"
+        },
+        {
+          "code": "536",
+          "name": "Pyrrole Red Light",
+          "rgb": "DB474E"
+        },
+        {
+          "code": "099",
+          "name": "Cadmium Red Medium",
+          "rgb": "DC474B"
+        },
+        {
+          "code": "421",
+          "name": "Naphthol Red Light",
+          "rgb": "DC4156"
+        },
+        {
+          "code": "534",
+          "name": "Pyrrole Red",
+          "rgb": "DB4953"
+        },
+        {
+          "code": "097",
+          "name": "Cadmium Red Deep",
+          "rgb": "D1272C"
+        },
+        {
+          "code": "548",
+          "name": "Quinacridone Red Rouge",
+          "rgb": "DC4160"
+        },
+        {
+          "code": "464",
+          "name": "Perylene Red",
+          "rgb": "CD444F"
+        },
+        {
+          "code": "423",
+          "name": "Naphthol Red Medium",
+          "rgb": "C84354"
+        },
+        {
+          "code": "502",
+          "name": "Permanent Rose",
+          "rgb": "DB3967"
+        },
+        {
+          "code": "466",
+          "name": "Permanent Alizarin Crimson",
+          "rgb": "C04B50"
+        },
+        {
+          "code": "507",
+          "name": "Perylene Maroon",
+          "rgb": "8C292A"
+        },
+        {
+          "code": "550",
+          "name": "Quinacridone Violet",
+          "rgb": "B22F58"
+        },
+        {
+          "code": "545",
+          "name": "Quinacridone Magenta",
+          "rgb": "6B1C2C"
+        },
+        {
+          "code": "470",
+          "name": "Perylene Violet",
+          "rgb": "562933"
+        },
+        {
+          "code": "229",
+          "name": "Dioxazine Purple",
+          "rgb": "613D79"
+        },
+        {
+          "code": "672",
+          "name": "Ultramarine Violet",
+          "rgb": "532A6C"
+        },
+        {
+          "code": "321",
+          "name": "Indanthrene Blue",
+          "rgb": "322B46"
+        },
+        {
+          "code": "664",
+          "name": "Ultramarine Blue",
+          "rgb": "1F65A1"
+        },
+        {
+          "code": "180",
+          "name": "Cobalt Blue Deep",
+          "rgb": "2172AC"
+        },
+        {
+          "code": "178",
+          "name": "Cobalt Blue",
+          "rgb": "247EB5"
+        },
+        {
+          "code": "514",
+          "name": "Phthalo Blue (Red Shade)",
+          "rgb": "005E9A"
+        },
+        {
+          "code": "515",
+          "name": "Phthalo Blue (Green Shade)",
+          "rgb": "0093C8"
+        },
+        {
+          "code": "137",
+          "name": "Cerulean Blue",
+          "rgb": "406789"
+        },
+        {
+          "code": "130",
+          "name": "Cerulean Blue Chromium",
+          "rgb": "1F3C5D"
+        },
+        {
+          "code": "139",
+          "name": "Cerulean Blue Hue",
+          "rgb": "3C6A8D"
+        },
+        {
+          "code": "191",
+          "name": "Cobalt Turquoise Light",
+          "rgb": "0FAB8B"
+        },
+        {
+          "code": "190",
+          "name": "Cobalt Turquoise",
+          "rgb": "17958F"
+        },
+        {
+          "code": "526",
+          "name": "Phthalo Turquoise",
+          "rgb": "194542"
+        },
+        {
+          "code": "522",
+          "name": "Phthalo Green (Blue Shade)",
+          "rgb": "0FA078"
+        },
+        {
+          "code": "521",
+          "name": "Phthalo Green (Yellow Shade)",
+          "rgb": "068543"
+        },
+        {
+          "code": "184",
+          "name": "Cobalt Green",
+          "rgb": "1B8E47"
+        },
+        {
+          "code": "185",
+          "name": "Cobalt Green Deep",
+          "rgb": "40876E"
+        },
+        {
+          "code": "162",
+          "name": "Chromium Oxide Green",
+          "rgb": "41773B"
+        },
+        {
+          "code": "311",
+          "name": "Hooker's Green",
+          "rgb": "086C39"
+        },
+        {
+          "code": "460",
+          "name": "Perylene Green",
+          "rgb": "29281D"
+        },
+        {
+          "code": "503",
+          "name": "Permanent Sap Green",
+          "rgb": "375D2F"
+        },
+        {
+          "code": "447",
+          "name": "Olive Green",
+          "rgb": "8D6A2E"
+        },
+        {
+          "code": "294",
+          "name": "Green Gold",
+          "rgb": "B38F37"
+        },
+        {
+          "code": "060",
+          "name": "Buff Titanium",
+          "rgb": "F2C790"
+        },
+        {
+          "code": "422",
+          "name": "Naples Yellow",
+          "rgb": "F7C577"
+        },
+        {
+          "code": "425",
+          "name": "Naples Yellow Deep",
+          "rgb": "F2AD58"
+        },
+        {
+          "code": "744",
+          "name": "Yellow Ochre",
+          "rgb": "D9824A"
+        },
+        {
+          "code": "737",
+          "name": "Yellow Iron Oxide",
+          "rgb": "DA8749"
+        },
+        {
+          "code": "285",
+          "name": "Gold Ochre",
+          "rgb": "D8652C"
+        },
+        {
+          "code": "547",
+          "name": "Quinacridone Gold",
+          "rgb": "E0662D"
+        },
+        {
+          "code": "552",
+          "name": "Raw Sienna",
+          "rgb": "CF7E4B"
+        },
+        {
+          "code": "074",
+          "name": "Burnt Sienna",
+          "rgb": "A7514A"
+        },
+        {
+          "code": "537",
+          "name": "Potter's Pink",
+          "rgb": "E46E7D"
+        },
+        {
+          "code": "362",
+          "name": "Light Red",
+          "rgb": "DF552D"
+        },
+        {
+          "code": "560",
+          "name": "Red Iron Oxide",
+          "rgb": "874C49"
+        },
+        {
+          "code": "549",
+          "name": "Quinacridone Burnt Orange",
+          "rgb": "9F4647"
+        },
+        {
+          "code": "691",
+          "name": "Violet Iron Oxide",
+          "rgb": "805653"
+        },
+        {
+          "code": "557",
+          "name": "Raw Umber Light",
+          "rgb": "A35F2F"
+        },
+        {
+          "code": "554",
+          "name": "Raw Umber",
+          "rgb": "3C3624"
+        },
+        {
+          "code": "076",
+          "name": "Burnt Umber",
+          "rgb": "54311E"
+        },
+        {
+          "code": "217",
+          "name": "Davy's Gray",
+          "rgb": "AC9664"
+        },
+        {
+          "code": "292",
+          "name": "Graphite Grey",
+          "rgb": "505250"
+        },
+        {
+          "code": "465",
+          "name": "Payne's Gray",
+          "rgb": "1E2022"
+        },
+        {
+          "code": "331",
+          "name": "Ivory Black",
+          "rgb": "272E2F"
+        },
+        {
+          "code": "386",
+          "name": "Mars Black",
+          "rgb": "2C3434"
+        },
+        {
+          "code": "415",
+          "name": "Mixing White",
+          "rgb": "FEFFFD"
+        },
+        {
+          "code": "644",
+          "name": "Titanium White",
+          "rgb": "FEFFFD"
+        },
+        {
+          "code": "330",
+          "name": "Iridescent White",
+          "rgb": "E2D7CB"
+        },
+        {
+          "code": "617",
+          "name": "Silver",
+          "rgb": "CFCDC5"
+        },
+        {
+          "code": "624",
+          "name": "Silver No.2",
+          "rgb": "5E5950"
+        },
+        {
+          "code": "283",
+          "name": "Gold",
+          "rgb": "D1A85D"
+        },
+        {
+          "code": "573",
+          "name": "Renaissance Gold",
+          "rgb": "C18662"
+        },
+        {
+          "code": "014",
+          "name": "Antique Gold",
+          "rgb": "C9AF6E"
+        }
+      ]
+    }
+  ]
+}

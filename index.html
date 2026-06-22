@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hobby Colors — paint color libraries</title>
+  <meta name="description" content="Browse and search hobby paint color libraries (Tamiya, Gunze, AK, Vallejo, Humbrol, Testors, Winsor &amp; Newton).">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Hobby Colors</h1>
+    <p class="tagline">Browse &amp; search hobby paint color libraries. Data shared with the ColorMixer app.</p>
+    <div class="controls">
+      <select id="library" aria-label="Library"></select>
+      <select id="type" aria-label="Finish / type"></select>
+      <input id="search" type="search" placeholder="Search code, name or brand…" aria-label="Search" autocomplete="off">
+    </div>
+    <p id="status" class="status" role="status"></p>
+  </header>
+
+  <main id="results"></main>
+
+  <footer>
+    <p>Generated from the ColorMixer color libraries. Colors are approximate sRGB renderings.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
