@@ -1,0 +1,1119 @@
+{
+  "schemaVersion": 1,
+  "id": "army-painter-fanatic",
+  "title": "Army Painter",
+  "desc": "Warpaints Fanatic",
+  "version": 1,
+  "brand": "Army Painter",
+  "groups": [
+    {
+      "name": "Warpaints Fanatic",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "WP3001P",
+          "name": "Matt Black",
+          "rgb": "070705",
+          "smooth": 0.0
+        },
+        {
+          "code": "WP3002P",
+          "name": "Deep Grey",
+          "rgb": "3F444C"
+        },
+        {
+          "code": "WP3003P",
+          "name": "Uniform Grey",
+          "rgb": "5B5E63"
+        },
+        {
+          "code": "WP3004P",
+          "name": "Ash Grey",
+          "rgb": "70706E"
+        },
+        {
+          "code": "WP3005P",
+          "name": "Company Grey",
+          "rgb": "9FA09C"
+        },
+        {
+          "code": "WP3006P",
+          "name": "Brigade Grey",
+          "rgb": "B4B2A8"
+        },
+        {
+          "code": "WP3007P",
+          "name": "Grey Castle",
+          "rgb": "7B776B"
+        },
+        {
+          "code": "WP3008P",
+          "name": "Gargoyle Grey",
+          "rgb": "97907B"
+        },
+        {
+          "code": "WP3009P",
+          "name": "Great Hall Grey",
+          "rgb": "9C9680"
+        },
+        {
+          "code": "WP3010P",
+          "name": "Worn Stone",
+          "rgb": "AEA791"
+        },
+        {
+          "code": "WP3011P",
+          "name": "Brainmatter Beige",
+          "rgb": "C7C2B0",
+          "smooth": 0.0
+        },
+        {
+          "code": "WP3012P",
+          "name": "Matt White",
+          "rgb": "FDFBF8",
+          "smooth": 0.0
+        },
+        {
+          "code": "WP3013P",
+          "name": "Night Sky",
+          "rgb": "2A3A49"
+        },
+        {
+          "code": "WP3014P",
+          "name": "Thunderous Blue",
+          "rgb": "304A62"
+        },
+        {
+          "code": "WP3015P",
+          "name": "Stratos Blue",
+          "rgb": "2A526D"
+        },
+        {
+          "code": "WP3016P",
+          "name": "Wolf Grey",
+          "rgb": "486C87"
+        },
+        {
+          "code": "WP3017P",
+          "name": "Runic Cobalt",
+          "rgb": "6E899C"
+        },
+        {
+          "code": "WP3018P",
+          "name": "Frost Blue",
+          "rgb": "85A2B2"
+        },
+        {
+          "code": "WP3019P",
+          "name": "Triumphant Navy",
+          "rgb": "1A2645"
+        },
+        {
+          "code": "WP3020P",
+          "name": "Gothic Blue",
+          "rgb": "28365E"
+        },
+        {
+          "code": "WP3021P",
+          "name": "Ultramarine Blue",
+          "rgb": "26477B"
+        },
+        {
+          "code": "WP3022P",
+          "name": "Alpha Blue",
+          "rgb": "536893"
+        },
+        {
+          "code": "WP3023P",
+          "name": "Baron Blue",
+          "rgb": "6A7EA3"
+        },
+        {
+          "code": "WP3024P",
+          "name": "Augur Blue",
+          "rgb": "8E9BAE"
+        },
+        {
+          "code": "WP3025P",
+          "name": "Imperial Navy",
+          "rgb": "0B2C4B"
+        },
+        {
+          "code": "WP3026P",
+          "name": "Regal Blue",
+          "rgb": "05426C"
+        },
+        {
+          "code": "WP3027P",
+          "name": "Royal Blue",
+          "rgb": "045288"
+        },
+        {
+          "code": "WP3028P",
+          "name": "Crystal Blue",
+          "rgb": "055F91"
+        },
+        {
+          "code": "WP3029P",
+          "name": "Arctic Gem",
+          "rgb": "1581AA"
+        },
+        {
+          "code": "WP3030P",
+          "name": "Bright Sapphire",
+          "rgb": "70A7BB"
+        },
+        {
+          "code": "WP3031P",
+          "name": "Deep Ocean Blue",
+          "rgb": "192635"
+        },
+        {
+          "code": "WP3032P",
+          "name": "Abyssal Blue",
+          "rgb": "054052"
+        },
+        {
+          "code": "WP3033P",
+          "name": "Tidal Blue",
+          "rgb": "085B76"
+        },
+        {
+          "code": "WP3034P",
+          "name": "Phalanx Blue",
+          "rgb": "0B7B92"
+        },
+        {
+          "code": "WP3035P",
+          "name": "Shieldwall Blue",
+          "rgb": "0C92AF"
+        },
+        {
+          "code": "WP3036P",
+          "name": "Aegis Aqua",
+          "rgb": "2A9CAE"
+        },
+        {
+          "code": "WP3037P",
+          "name": "Deep Azure",
+          "rgb": "05575D"
+        },
+        {
+          "code": "WP3038P",
+          "name": "Hydra Turquoise",
+          "rgb": "19837E"
+        },
+        {
+          "code": "WP3039P",
+          "name": "Turquoise Siren",
+          "rgb": "259D9B"
+        },
+        {
+          "code": "WP3040P",
+          "name": "Aquamarine",
+          "rgb": "4DAEAB"
+        },
+        {
+          "code": "WP3041P",
+          "name": "Neptune Glow",
+          "rgb": "64A6A2"
+        },
+        {
+          "code": "WP3042P",
+          "name": "Marine Mist",
+          "rgb": "7FB5AA"
+        },
+        {
+          "code": "WP3043P",
+          "name": "Scarab Green",
+          "rgb": "1B3236"
+        },
+        {
+          "code": "WP3044P",
+          "name": "Temple Gate Teal",
+          "rgb": "305D50"
+        },
+        {
+          "code": "WP3045P",
+          "name": "Pharaoh Guard",
+          "rgb": "0E6D53"
+        },
+        {
+          "code": "WP3046P",
+          "name": "Talisman Teal",
+          "rgb": "139271"
+        },
+        {
+          "code": "WP3047P",
+          "name": "Aqua Alchemy",
+          "rgb": "27A687"
+        },
+        {
+          "code": "WP3048P",
+          "name": "Amulet Aqua",
+          "rgb": "55A58C"
+        },
+        {
+          "code": "WP3049P",
+          "name": "Angel Green",
+          "rgb": "183425"
+        },
+        {
+          "code": "WP3050P",
+          "name": "Guardian Green",
+          "rgb": "1B4F38"
+        },
+        {
+          "code": "WP3051P",
+          "name": "Greenskin",
+          "rgb": "1C6135"
+        },
+        {
+          "code": "WP3052P",
+          "name": "Eternal Hunt",
+          "rgb": "227D38"
+        },
+        {
+          "code": "WP3053P",
+          "name": "Wild Green",
+          "rgb": "399542"
+        },
+        {
+          "code": "WP3054P",
+          "name": "Ferocious Green",
+          "rgb": "65A55E"
+        },
+        {
+          "code": "WP3055P",
+          "name": "Emerald Forest",
+          "rgb": "4D9E3B"
+        },
+        {
+          "code": "WP3056P",
+          "name": "Leafy Green",
+          "rgb": "65A434"
+        },
+        {
+          "code": "WP3057P",
+          "name": "Rainforest",
+          "rgb": "73A131"
+        },
+        {
+          "code": "WP3058P",
+          "name": "Electric Lime",
+          "rgb": "ABB561"
+        },
+        {
+          "code": "WP3059P",
+          "name": "Vivid Volt",
+          "rgb": "B4BF41"
+        },
+        {
+          "code": "WP3060P",
+          "name": "Afterglow",
+          "rgb": "CCCF76"
+        },
+        {
+          "code": "WP3061P",
+          "name": "Evergreen Fog",
+          "rgb": "305148"
+        },
+        {
+          "code": "WP3062P",
+          "name": "Medieval Forest",
+          "rgb": "396856"
+        },
+        {
+          "code": "WP3063P",
+          "name": "Patagon Pine",
+          "rgb": "557D67"
+        },
+        {
+          "code": "WP3064P",
+          "name": "Autumn Sage",
+          "rgb": "64937B"
+        },
+        {
+          "code": "WP3065P",
+          "name": "Forest Faun",
+          "rgb": "82A384"
+        },
+        {
+          "code": "WP3066P",
+          "name": "Mossy Green",
+          "rgb": "95B898"
+        },
+        {
+          "code": "WP3067P",
+          "name": "Woodland Camo",
+          "rgb": "414E3A"
+        },
+        {
+          "code": "WP3068P",
+          "name": "Army Green",
+          "rgb": "516741"
+        },
+        {
+          "code": "WP3069P",
+          "name": "Camouflage Green",
+          "rgb": "63734A"
+        },
+        {
+          "code": "WP3070P",
+          "name": "Olive Drab",
+          "rgb": "6C7E4E"
+        },
+        {
+          "code": "WP3071P",
+          "name": "Necrotic Flesh",
+          "rgb": "848E68"
+        },
+        {
+          "code": "WP3072P",
+          "name": "Grotesque Green",
+          "rgb": "94A078"
+        },
+        {
+          "code": "WP3073P",
+          "name": "Brigandine Brown",
+          "rgb": "231717"
+        },
+        {
+          "code": "WP3074P",
+          "name": "Bootstrap Brown",
+          "rgb": "4D403D"
+        },
+        {
+          "code": "WP3075P",
+          "name": "Leather Brown",
+          "rgb": "674B40"
+        },
+        {
+          "code": "WP3076P",
+          "name": "Paratrooper Tan",
+          "rgb": "846556"
+        },
+        {
+          "code": "WP3077P",
+          "name": "Command Khaki",
+          "rgb": "A38472"
+        },
+        {
+          "code": "WP3078P",
+          "name": "Urban Buff",
+          "rgb": "C5A38C"
+        },
+        {
+          "code": "WP3079P",
+          "name": "Tundra Taupe",
+          "rgb": "3F4231"
+        },
+        {
+          "code": "WP3080P",
+          "name": "Prairie Ochre",
+          "rgb": "575135"
+        },
+        {
+          "code": "WP3081P",
+          "name": "Desert Yellow",
+          "rgb": "726038"
+        },
+        {
+          "code": "WP3082P",
+          "name": "Wasteland Clay",
+          "rgb": "897142"
+        },
+        {
+          "code": "WP3083P",
+          "name": "Burnt Turf",
+          "rgb": "A28046"
+        },
+        {
+          "code": "WP3084P",
+          "name": "Barren Dune",
+          "rgb": "BB9E5C"
+        },
+        {
+          "code": "WP3085P",
+          "name": "Dusty Skull",
+          "rgb": "7A6B54"
+        },
+        {
+          "code": "WP3086P",
+          "name": "Tomb King Tan",
+          "rgb": "907E62"
+        },
+        {
+          "code": "WP3087P",
+          "name": "Skeleton Bone",
+          "rgb": "A59673"
+        },
+        {
+          "code": "WP3088P",
+          "name": "Ancient Stone",
+          "rgb": "ADA17D"
+        },
+        {
+          "code": "WP3089P",
+          "name": "Bony Spikes",
+          "rgb": "CBB293"
+        },
+        {
+          "code": "WP3090P",
+          "name": "Pale Sand",
+          "rgb": "D9D2B4"
+        },
+        {
+          "code": "WP3091P",
+          "name": "Demigod Flames",
+          "rgb": "B46833"
+        },
+        {
+          "code": "WP3092P",
+          "name": "Fiendish Yellow",
+          "rgb": "D5883C"
+        },
+        {
+          "code": "WP3093P",
+          "name": "Daemonic Yellow",
+          "rgb": "DAAC20"
+        },
+        {
+          "code": "WP3094P",
+          "name": "Warped Yellow",
+          "rgb": "D3AC34"
+        },
+        {
+          "code": "WP3095P",
+          "name": "Space Dust",
+          "rgb": "D4BD69"
+        },
+        {
+          "code": "WP3096P",
+          "name": "Ice Yellow",
+          "rgb": "DDCA89"
+        },
+        {
+          "code": "WP3097P",
+          "name": "Molten Lava",
+          "rgb": "CA4931"
+        },
+        {
+          "code": "WP3098P",
+          "name": "Burning Ore",
+          "rgb": "D15631"
+        },
+        {
+          "code": "WP3099P",
+          "name": "Lava Orange",
+          "rgb": "CF6320"
+        },
+        {
+          "code": "WP3100P",
+          "name": "Flickering Flame",
+          "rgb": "E07E35"
+        },
+        {
+          "code": "WP3101P",
+          "name": "Glowing Inferno",
+          "rgb": "DC8735"
+        },
+        {
+          "code": "WP3102P",
+          "name": "Inner Light",
+          "rgb": "E3B44F"
+        },
+        {
+          "code": "WP3103P",
+          "name": "Resplendent Red",
+          "rgb": "802425"
+        },
+        {
+          "code": "WP3104P",
+          "name": "Angelic Red",
+          "rgb": "B0252C"
+        },
+        {
+          "code": "WP3105P",
+          "name": "Legendary Red",
+          "rgb": "C83D30"
+        },
+        {
+          "code": "WP3106P",
+          "name": "Sacred Scarlet",
+          "rgb": "C85038"
+        },
+        {
+          "code": "WP3107P",
+          "name": "Violent Vermilion",
+          "rgb": "D86B51"
+        },
+        {
+          "code": "WP3108P",
+          "name": "Raging Rouge",
+          "rgb": "CC7563"
+        },
+        {
+          "code": "WP3109P",
+          "name": "Oak Brown",
+          "rgb": "322020"
+        },
+        {
+          "code": "WP3110P",
+          "name": "Tree Ancient",
+          "rgb": "432C25"
+        },
+        {
+          "code": "WP3111P",
+          "name": "Dryad Brown",
+          "rgb": "522D25"
+        },
+        {
+          "code": "WP3112P",
+          "name": "Fur Brown",
+          "rgb": "673B36"
+        },
+        {
+          "code": "WP3113P",
+          "name": "Ruddy Umber",
+          "rgb": "854F41"
+        },
+        {
+          "code": "WP3114P",
+          "name": "Buffed Hide",
+          "rgb": "9D6755"
+        },
+        {
+          "code": "WP3115P",
+          "name": "Basilisk Red",
+          "rgb": "5C212D"
+        },
+        {
+          "code": "WP3116P",
+          "name": "Wyvern Fury",
+          "rgb": "832A34"
+        },
+        {
+          "code": "WP3117P",
+          "name": "Dragon Red",
+          "rgb": "A3242E"
+        },
+        {
+          "code": "WP3118P",
+          "name": "Pure Red",
+          "rgb": "A91517"
+        },
+        {
+          "code": "WP3119P",
+          "name": "Blood Chalice",
+          "rgb": "BD3F40"
+        },
+        {
+          "code": "WP3120P",
+          "name": "Raging Rose",
+          "rgb": "D25B53"
+        },
+        {
+          "code": "WP3121P",
+          "name": "Wicked Pink",
+          "rgb": "B60B6F"
+        },
+        {
+          "code": "WP3122P",
+          "name": "Impish Rouge",
+          "rgb": "B8487C"
+        },
+        {
+          "code": "WP3123P",
+          "name": "Pixie Pink",
+          "rgb": "9B4E74"
+        },
+        {
+          "code": "WP3124P",
+          "name": "Weird Elixir",
+          "rgb": "9B6179"
+        },
+        {
+          "code": "WP3125P",
+          "name": "Pink Potion",
+          "rgb": "A17680"
+        },
+        {
+          "code": "WP3126P",
+          "name": "Doomfire Drab",
+          "rgb": "D2B1B2"
+        },
+        {
+          "code": "WP3127P",
+          "name": "Terrestrial Titan",
+          "rgb": "262334"
+        },
+        {
+          "code": "WP3128P",
+          "name": "Alien Purple",
+          "rgb": "4E4378"
+        },
+        {
+          "code": "WP3129P",
+          "name": "Cultist Purple",
+          "rgb": "635890"
+        },
+        {
+          "code": "WP3130P",
+          "name": "Hexed Violet",
+          "rgb": "61577A"
+        },
+        {
+          "code": "WP3131P",
+          "name": "Violet Coven",
+          "rgb": "7F708D"
+        },
+        {
+          "code": "WP3132P",
+          "name": "Kraken Lavender",
+          "rgb": "B7A9B4"
+        },
+        {
+          "code": "WP3133P",
+          "name": "Diabolic Plum",
+          "rgb": "492756"
+        },
+        {
+          "code": "WP3134P",
+          "name": "Magecast Magenta",
+          "rgb": "623879"
+        },
+        {
+          "code": "WP3135P",
+          "name": "Warlock Magenta",
+          "rgb": "73417E"
+        },
+        {
+          "code": "WP3136P",
+          "name": "Spellbound Fuchsia",
+          "rgb": "8E4177"
+        },
+        {
+          "code": "WP3137P",
+          "name": "Enchanted Pink",
+          "rgb": "9B5C88"
+        },
+        {
+          "code": "WP3138P",
+          "name": "Diviner Light",
+          "rgb": "B3849B"
+        },
+        {
+          "code": "WP3139P",
+          "name": "Mulled Berry",
+          "rgb": "562E3B"
+        },
+        {
+          "code": "WP3140P",
+          "name": "Moldy Wine",
+          "rgb": "6C2D3D"
+        },
+        {
+          "code": "WP3141P",
+          "name": "Elder Flower",
+          "rgb": "904A62"
+        },
+        {
+          "code": "WP3142P",
+          "name": "Forbidden Fruit",
+          "rgb": "BE7F90"
+        },
+        {
+          "code": "WP3143P",
+          "name": "Figgy Pink",
+          "rgb": "D09AA6"
+        },
+        {
+          "code": "WP3144P",
+          "name": "Wilted Rose",
+          "rgb": "CBA6AC"
+        },
+        {
+          "code": "WP3145P",
+          "name": "Moonstone Skin",
+          "rgb": "A5655A"
+        },
+        {
+          "code": "WP3146P",
+          "name": "Agate Skin",
+          "rgb": "C07565"
+        },
+        {
+          "code": "WP3147P",
+          "name": "Barbarian Flesh",
+          "rgb": "CF7E60"
+        },
+        {
+          "code": "WP3148P",
+          "name": "Ruby Skin",
+          "rgb": "E5A888"
+        },
+        {
+          "code": "WP3149P",
+          "name": "Opal Skin",
+          "rgb": "E1BAA3"
+        },
+        {
+          "code": "WP3150P",
+          "name": "Pearl Skin",
+          "rgb": "DCC2AD",
+          "refl": "Pearl"
+        },
+        {
+          "code": "WP3151P",
+          "name": "Carnelian Skin",
+          "rgb": "513537"
+        },
+        {
+          "code": "WP3152P",
+          "name": "Tiger's Eye Skin",
+          "rgb": "804647"
+        },
+        {
+          "code": "WP3153P",
+          "name": "Topaz Skin",
+          "rgb": "A5524A"
+        },
+        {
+          "code": "WP3154P",
+          "name": "Jasper Skin",
+          "rgb": "9A625B"
+        },
+        {
+          "code": "WP3155P",
+          "name": "Tourmaline Skin",
+          "rgb": "C28470"
+        },
+        {
+          "code": "WP3156P",
+          "name": "Leopard Stone Skin",
+          "rgb": "CF9F92"
+        },
+        {
+          "code": "WP3157P",
+          "name": "Obsidian Skin",
+          "rgb": "3C3636"
+        },
+        {
+          "code": "WP3158P",
+          "name": "Onyx Skin",
+          "rgb": "554039"
+        },
+        {
+          "code": "WP3159P",
+          "name": "Mocca Skin",
+          "rgb": "6D5347"
+        },
+        {
+          "code": "WP3160P",
+          "name": "Amber Skin",
+          "rgb": "A68467"
+        },
+        {
+          "code": "WP3161P",
+          "name": "Dorado Skin",
+          "rgb": "C5A479"
+        },
+        {
+          "code": "WP3162P",
+          "name": "Quartz Skin",
+          "rgb": "D8BA94"
+        },
+        {
+          "code": "WP3163P",
+          "name": "Disgusting Slime (Effects)",
+          "rgb": "758A24"
+        },
+        {
+          "code": "WP3164P",
+          "name": "Dry Blood (Effects)",
+          "rgb": "170406"
+        },
+        {
+          "code": "WP3165P",
+          "name": "True Blood (Effects)",
+          "rgb": "5E0917"
+        },
+        {
+          "code": "WP3166P",
+          "name": "Dark Rust (Effects)",
+          "rgb": "26120F"
+        },
+        {
+          "code": "WP3167P",
+          "name": "Fresh Rust (Effects)",
+          "rgb": "803617"
+        },
+        {
+          "code": "WP3168P",
+          "name": "Verdigris (Effects)",
+          "rgb": "326751"
+        },
+        {
+          "code": "WP3169P",
+          "name": "Oil Stains (Effects)",
+          "rgb": "0E1213"
+        },
+        {
+          "code": "WP3170P",
+          "name": "Oozing Vomit (Effects)",
+          "rgb": "725F1C"
+        },
+        {
+          "code": "WP3171P",
+          "name": "Warpaints Stabilizer (Effects)",
+          "rgb": "B3B0A9"
+        },
+        {
+          "code": "WP3172P",
+          "name": "Warpaints Retarder (Effects)",
+          "rgb": "AAA59F"
+        },
+        {
+          "code": "WP3173P",
+          "name": "Gloss Varnish (Effects)",
+          "rgb": "AAA59F"
+        },
+        {
+          "code": "WP3174P",
+          "name": "Matt Varnish (Effects)",
+          "rgb": "AAA59F",
+          "smooth": 0.0
+        },
+        {
+          "code": "WP3175P",
+          "name": "Brush-On Primer (Effects)",
+          "rgb": "595856"
+        },
+        {
+          "code": "WP3176P",
+          "name": "Plasma Coil Glow (Effects)",
+          "rgb": "1195B0"
+        },
+        {
+          "code": "WP3177P",
+          "name": "Data System Glow (Effects)",
+          "rgb": "598D3B"
+        },
+        {
+          "code": "WP3178P",
+          "name": "Lens Flare Glow (Effects)",
+          "rgb": "A79D31"
+        },
+        {
+          "code": "WP3179P",
+          "name": "Radiation Glow (Effects)",
+          "rgb": "B27B46"
+        },
+        {
+          "code": "WP3180P",
+          "name": "Power Node Glow (Effects)",
+          "rgb": "B66582"
+        },
+        {
+          "code": "WP3181P",
+          "name": "Rough Iron (Metallic)",
+          "rgb": "1E1915",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3182P",
+          "name": "Red Copper (Metallic)",
+          "rgb": "5A2422",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3183P",
+          "name": "Weapon Bronze (Metallic)",
+          "rgb": "D45E06",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3184P",
+          "name": "True Copper (Metallic)",
+          "rgb": "AB4A1F",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3185P",
+          "name": "Evil Chrome (Metallic)",
+          "rgb": "AC4423",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3186P",
+          "name": "True Brass (Metallic)",
+          "rgb": "C7B285",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3187P",
+          "name": "Tainted Gold (Metallic)",
+          "rgb": "7F6D27",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3188P",
+          "name": "Greedy Gold (Metallic)",
+          "rgb": "D78B07",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3189P",
+          "name": "Bright Gold (Metallic)",
+          "rgb": "DBB207",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3190P",
+          "name": "Mithril (Metallic)",
+          "rgb": "B0A79E",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3191P",
+          "name": "Shining Silver (Metallic)",
+          "rgb": "979892",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3192P",
+          "name": "Plate Mail Metal (Metallic)",
+          "rgb": "7F7E78",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3193P",
+          "name": "Gun Metal (Metallic)",
+          "rgb": "656663",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3194P",
+          "name": "Cobalt Metal (Metallic)",
+          "rgb": "232D2D",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3195P",
+          "name": "Death Metal (Metallic)",
+          "rgb": "37331C",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3196P",
+          "name": "Dark Emerald (Metallic)",
+          "rgb": "2D3710",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3197P",
+          "name": "Glittering Green (Metallic)",
+          "rgb": "0E491B",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3198P",
+          "name": "Gemstone Red (Metallic)",
+          "rgb": "3D0F0F",
+          "refl": "Metallic"
+        },
+        {
+          "code": "WP3199P",
+          "name": "Dark Tone (Wash)",
+          "rgb": "1B1B1B"
+        },
+        {
+          "code": "WP3200P",
+          "name": "Strong Tone (Wash)",
+          "rgb": "1D160E"
+        },
+        {
+          "code": "WP3201P",
+          "name": "Soft Tone (Wash)",
+          "rgb": "3A2A1B"
+        },
+        {
+          "code": "WP3202P",
+          "name": "Light Tone (Wash)",
+          "rgb": "50320C"
+        },
+        {
+          "code": "WP3203P",
+          "name": "Sepia Tone (Wash)",
+          "rgb": "492A0E"
+        },
+        {
+          "code": "WP3204P",
+          "name": "Rust Tone (Wash)",
+          "rgb": "332113"
+        },
+        {
+          "code": "WP3205P",
+          "name": "Dark Red Tone (Wash)",
+          "rgb": "211114"
+        },
+        {
+          "code": "WP3206P",
+          "name": "Red Tone (Wash)",
+          "rgb": "64272E"
+        },
+        {
+          "code": "WP3207P",
+          "name": "Orange Tone (Wash)",
+          "rgb": "7F3A14"
+        },
+        {
+          "code": "WP3208P",
+          "name": "Green Tone (Wash)",
+          "rgb": "2C462E"
+        },
+        {
+          "code": "WP3209P",
+          "name": "Military Shade (Wash)",
+          "rgb": "383D1D"
+        },
+        {
+          "code": "WP3210P",
+          "name": "Blue Tone (Wash)",
+          "rgb": "203C55"
+        },
+        {
+          "code": "WP3211P",
+          "name": "Dark Blue Tone (Wash)",
+          "rgb": "232D3A"
+        },
+        {
+          "code": "WP3212P",
+          "name": "Purple Tone (Wash)",
+          "rgb": "3B2943"
+        },
+        {
+          "code": "WP3213P",
+          "name": "Magenta Tone (Wash)",
+          "rgb": "810543"
+        },
+        {
+          "code": "WP3214P",
+          "name": "Strong Skin Shade (Wash)",
+          "rgb": "3B231F"
+        },
+        {
+          "code": "WP3215P",
+          "name": "Dark Skin Shade (Wash)",
+          "rgb": "3D2D2C"
+        },
+        {
+          "code": "WP3216P",
+          "name": "Wash Medium (Wash)",
+          "rgb": "403030"
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22",
+  "generatedAt": "2026-06-23",
   "libraries": [
+    {
+      "id": "winsor-newton",
+      "title": "Winsor & Newton",
+      "desc": "Oil & Acrylic Colours",
+      "version": 1,
+      "colorCount": 303,
+      "file": "winsor-newton.json"
+    },
     {
       "id": "tamiya",
       "title": "Tamiya",
@@ -51,12 +59,20 @@
       "file": "testors.json"
     },
     {
-      "id": "winsor-newton",
-      "title": "Winsor & Newton",
-      "desc": "Oil & Acrylic Colours",
+      "id": "army-painter-fanatic",
+      "title": "Army Painter",
+      "desc": "Warpaints Fanatic",
       "version": 1,
-      "colorCount": 303,
-      "file": "winsor-newton.json"
+      "colorCount": 216,
+      "file": "army-painter-fanatic.json"
+    },
+    {
+      "id": "citadel",
+      "title": "Citadel",
+      "desc": "Games Workshop / Warhammer Colour",
+      "version": 1,
+      "colorCount": 337,
+      "file": "citadel.json"
     }
   ]
 }

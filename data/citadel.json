@@ -1,0 +1,1747 @@
+{
+  "schemaVersion": 1,
+  "id": "citadel",
+  "title": "Citadel",
+  "desc": "Games Workshop / Warhammer Colour",
+  "version": 1,
+  "brand": "Citadel",
+  "groups": [
+    {
+      "name": "Air",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "White Scar",
+          "name": "White Scar",
+          "rgb": "F2F2EE"
+        },
+        {
+          "code": "Ulthuan Grey",
+          "name": "Ulthuan Grey",
+          "rgb": "CFD8CE"
+        },
+        {
+          "code": "Phalanx Yellow",
+          "name": "Phalanx Yellow",
+          "rgb": "F4D83A"
+        },
+        {
+          "code": "Flash Gitz Yellow",
+          "name": "Flash Gitz Yellow",
+          "rgb": "F4E03A"
+        },
+        {
+          "code": "Averland Sunset",
+          "name": "Averland Sunset",
+          "rgb": "FCB813"
+        },
+        {
+          "code": "Troll Slayer Orange",
+          "name": "Troll Slayer Orange",
+          "rgb": "EE5A2A"
+        },
+        {
+          "code": "Evil Sunz Scarlet",
+          "name": "Evil Sunz Scarlet",
+          "rgb": "C8202A"
+        },
+        {
+          "code": "Mephiston Red",
+          "name": "Mephiston Red",
+          "rgb": "9A1115"
+        },
+        {
+          "code": "Khorne Red",
+          "name": "Khorne Red",
+          "rgb": "651410"
+        },
+        {
+          "code": "Phoenician Purple",
+          "name": "Phoenician Purple",
+          "rgb": "3D1840"
+        },
+        {
+          "code": "Lothern Blue",
+          "name": "Lothern Blue",
+          "rgb": "2C9CC8"
+        },
+        {
+          "code": "Macragge Blue",
+          "name": "Macragge Blue",
+          "rgb": "0F3D7C"
+        },
+        {
+          "code": "Kantor Blue",
+          "name": "Kantor Blue",
+          "rgb": "11335B"
+        },
+        {
+          "code": "Night Lords Blue",
+          "name": "Night Lords Blue",
+          "rgb": "1B3A4B"
+        },
+        {
+          "code": "Temple Guard Blue",
+          "name": "Temple Guard Blue",
+          "rgb": "2AA6A0"
+        },
+        {
+          "code": "Ogryn Camo",
+          "name": "Ogryn Camo",
+          "rgb": "8A9A5E"
+        },
+        {
+          "code": "Elysian Green",
+          "name": "Elysian Green",
+          "rgb": "5A7A3A"
+        },
+        {
+          "code": "Deathworld Forest",
+          "name": "Deathworld Forest",
+          "rgb": "4B5320"
+        },
+        {
+          "code": "Castellan Green",
+          "name": "Castellan Green",
+          "rgb": "3A4521"
+        },
+        {
+          "code": "Moot Green",
+          "name": "Moot Green",
+          "rgb": "3CB54A"
+        },
+        {
+          "code": "Caliban Green",
+          "name": "Caliban Green",
+          "rgb": "00401A"
+        },
+        {
+          "code": "Ushabti Bone",
+          "name": "Ushabti Bone",
+          "rgb": "C8BE8E"
+        },
+        {
+          "code": "Typhon Ash",
+          "name": "Typhon Ash",
+          "rgb": "8A8676"
+        },
+        {
+          "code": "Baneblade Brown",
+          "name": "Baneblade Brown",
+          "rgb": "C0A878"
+        },
+        {
+          "code": "Tallarn Sand",
+          "name": "Tallarn Sand",
+          "rgb": "B89A5E"
+        },
+        {
+          "code": "Zandri Dust",
+          "name": "Zandri Dust",
+          "rgb": "A89A5E"
+        },
+        {
+          "code": "Mournfang Brown",
+          "name": "Mournfang Brown",
+          "rgb": "6B3A1E"
+        },
+        {
+          "code": "Kislev Flesh",
+          "name": "Kislev Flesh",
+          "rgb": "E0B080"
+        },
+        {
+          "code": "Fenrisian Grey",
+          "name": "Fenrisian Grey",
+          "rgb": "6A8FB0"
+        },
+        {
+          "code": "Russ Grey",
+          "name": "Russ Grey",
+          "rgb": "4E7AA0"
+        },
+        {
+          "code": "The Fang",
+          "name": "The Fang",
+          "rgb": "4A5B6E"
+        },
+        {
+          "code": "Administratum Grey",
+          "name": "Administratum Grey",
+          "rgb": "B0B1A8"
+        },
+        {
+          "code": "Dawnstone",
+          "name": "Dawnstone",
+          "rgb": "6E706B"
+        },
+        {
+          "code": "Mechanicus Standard Grey",
+          "name": "Mechanicus Standard Grey",
+          "rgb": "3A3F41"
+        },
+        {
+          "code": "Corvus Black",
+          "name": "Corvus Black",
+          "rgb": "26282C"
+        },
+        {
+          "code": "Abaddon Black",
+          "name": "Abaddon Black",
+          "rgb": "231F20"
+        },
+        {
+          "code": "Grey Knights Steel",
+          "name": "Grey Knights Steel",
+          "rgb": "9A9DA0"
+        },
+        {
+          "code": "Runefang Steel",
+          "name": "Runefang Steel",
+          "rgb": "CACED0"
+        },
+        {
+          "code": "Leadbelcher",
+          "name": "Leadbelcher",
+          "rgb": "898C8E"
+        },
+        {
+          "code": "Valdor Gold",
+          "name": "Valdor Gold",
+          "rgb": "C8A24A"
+        },
+        {
+          "code": "Balthasar Gold",
+          "name": "Balthasar Gold",
+          "rgb": "9C6F34"
+        },
+        {
+          "code": "Thallax Gold",
+          "name": "Thallax Gold",
+          "rgb": "B08A3A"
+        },
+        {
+          "code": "Air Caste Thinner",
+          "name": "Air Caste Thinner",
+          "rgb": "E8E8E8"
+        },
+        {
+          "code": "Angron Red Clear",
+          "name": "Angron Red Clear",
+          "rgb": "C81420",
+          "alpha": 0.2
+        },
+        {
+          "code": "Eidolon Purple Clear",
+          "name": "Eidolon Purple Clear",
+          "rgb": "6A2A8A",
+          "alpha": 0.2
+        },
+        {
+          "code": "Calth Blue Clear",
+          "name": "Calth Blue Clear",
+          "rgb": "1A6AC8",
+          "alpha": 0.2
+        },
+        {
+          "code": "Mortarion Green Clear",
+          "name": "Mortarion Green Clear",
+          "rgb": "2AA84A",
+          "alpha": 0.2
+        }
+      ]
+    },
+    {
+      "name": "Base",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "Corax White",
+          "name": "Corax White",
+          "rgb": "E6E7E2"
+        },
+        {
+          "code": "Grey Seer",
+          "name": "Grey Seer",
+          "rgb": "9B9C94"
+        },
+        {
+          "code": "Celestra Grey",
+          "name": "Celestra Grey",
+          "rgb": "8DA39F"
+        },
+        {
+          "code": "Averland Sunset",
+          "name": "Averland Sunset",
+          "rgb": "FCB813"
+        },
+        {
+          "code": "Jokaero Orange",
+          "name": "Jokaero Orange",
+          "rgb": "E2521A"
+        },
+        {
+          "code": "Khorne Red",
+          "name": "Khorne Red",
+          "rgb": "651410"
+        },
+        {
+          "code": "Mephiston Red",
+          "name": "Mephiston Red",
+          "rgb": "9A1115"
+        },
+        {
+          "code": "Gal Vorbak Red",
+          "name": "Gal Vorbak Red",
+          "rgb": "4A1828"
+        },
+        {
+          "code": "Barak-Nar Burgundy",
+          "name": "Barak-Nar Burgundy",
+          "rgb": "46232C"
+        },
+        {
+          "code": "Screamer Pink",
+          "name": "Screamer Pink",
+          "rgb": "6B1B3A"
+        },
+        {
+          "code": "Daemonette Hide",
+          "name": "Daemonette Hide",
+          "rgb": "70707F"
+        },
+        {
+          "code": "Phoenician Purple",
+          "name": "Phoenician Purple",
+          "rgb": "3D1840"
+        },
+        {
+          "code": "Naggaroth Night",
+          "name": "Naggaroth Night",
+          "rgb": "3E3252"
+        },
+        {
+          "code": "Caledor Sky",
+          "name": "Caledor Sky",
+          "rgb": "2C5C8A"
+        },
+        {
+          "code": "Macragge Blue",
+          "name": "Macragge Blue",
+          "rgb": "0F3D7C"
+        },
+        {
+          "code": "Kantor Blue",
+          "name": "Kantor Blue",
+          "rgb": "11335B"
+        },
+        {
+          "code": "Night Lords Blue",
+          "name": "Night Lords Blue",
+          "rgb": "1B3A4B"
+        },
+        {
+          "code": "Thousand Sons Blue",
+          "name": "Thousand Sons Blue",
+          "rgb": "14525E"
+        },
+        {
+          "code": "Stegadon Scale Green",
+          "name": "Stegadon Scale Green",
+          "rgb": "16414B"
+        },
+        {
+          "code": "Lupercal Green",
+          "name": "Lupercal Green",
+          "rgb": "0E3A3A"
+        },
+        {
+          "code": "Incubi Darkness",
+          "name": "Incubi Darkness",
+          "rgb": "154346"
+        },
+        {
+          "code": "Death Guard Green",
+          "name": "Death Guard Green",
+          "rgb": "6C6F3F"
+        },
+        {
+          "code": "Deathworld Forest",
+          "name": "Deathworld Forest",
+          "rgb": "4B5320"
+        },
+        {
+          "code": "Castellan Green",
+          "name": "Castellan Green",
+          "rgb": "3A4521"
+        },
+        {
+          "code": "Death Korps Drab",
+          "name": "Death Korps Drab",
+          "rgb": "4A4A38"
+        },
+        {
+          "code": "Waaagh! Flesh",
+          "name": "Waaagh! Flesh",
+          "rgb": "1E3B2C"
+        },
+        {
+          "code": "Caliban Green",
+          "name": "Caliban Green",
+          "rgb": "00401A"
+        },
+        {
+          "code": "Nocturne Green",
+          "name": "Nocturne Green",
+          "rgb": "1A3A2A"
+        },
+        {
+          "code": "Wraithbone",
+          "name": "Wraithbone",
+          "rgb": "D9CFB0"
+        },
+        {
+          "code": "Morghast Bone",
+          "name": "Morghast Bone",
+          "rgb": "C8BE94"
+        },
+        {
+          "code": "Zandri Dust",
+          "name": "Zandri Dust",
+          "rgb": "A89A5E"
+        },
+        {
+          "code": "XV-88",
+          "name": "XV-88",
+          "rgb": "6E5A30"
+        },
+        {
+          "code": "Steel Legion Drab",
+          "name": "Steel Legion Drab",
+          "rgb": "6B5A3E"
+        },
+        {
+          "code": "Mournfang Brown",
+          "name": "Mournfang Brown",
+          "rgb": "6B3A1E"
+        },
+        {
+          "code": "Rhinox Hide",
+          "name": "Rhinox Hide",
+          "rgb": "4A3537"
+        },
+        {
+          "code": "Dryad Bark",
+          "name": "Dryad Bark",
+          "rgb": "39332C"
+        },
+        {
+          "code": "Ionrach Skin",
+          "name": "Ionrach Skin",
+          "rgb": "D8B48E"
+        },
+        {
+          "code": "Rakarth Flesh",
+          "name": "Rakarth Flesh",
+          "rgb": "A99F86"
+        },
+        {
+          "code": "Ratskin Flesh",
+          "name": "Ratskin Flesh",
+          "rgb": "C0744A"
+        },
+        {
+          "code": "Bugman's Glow",
+          "name": "Bugman's Glow",
+          "rgb": "8C4A3C"
+        },
+        {
+          "code": "Catachan Flesh",
+          "name": "Catachan Flesh",
+          "rgb": "4A3328"
+        },
+        {
+          "code": "The Fang",
+          "name": "The Fang",
+          "rgb": "4A5B6E"
+        },
+        {
+          "code": "Mechanicus Standard Grey",
+          "name": "Mechanicus Standard Grey",
+          "rgb": "3A3F41"
+        },
+        {
+          "code": "Corvus Black",
+          "name": "Corvus Black",
+          "rgb": "26282C"
+        },
+        {
+          "code": "Abaddon Black",
+          "name": "Abaddon Black",
+          "rgb": "231F20"
+        },
+        {
+          "code": "Grey Knights Steel",
+          "name": "Grey Knights Steel",
+          "rgb": "9A9DA0"
+        },
+        {
+          "code": "Iron Hands Steel",
+          "name": "Iron Hands Steel",
+          "rgb": "8E9295"
+        },
+        {
+          "code": "Leadbelcher",
+          "name": "Leadbelcher",
+          "rgb": "898C8E"
+        },
+        {
+          "code": "Iron Warriors",
+          "name": "Iron Warriors",
+          "rgb": "5A5A5C"
+        },
+        {
+          "code": "Retributor Armour",
+          "name": "Retributor Armour",
+          "rgb": "B68A41"
+        },
+        {
+          "code": "Balthasar Gold",
+          "name": "Balthasar Gold",
+          "rgb": "9C6F34"
+        },
+        {
+          "code": "Screaming Bell",
+          "name": "Screaming Bell",
+          "rgb": "9A6A3A"
+        },
+        {
+          "code": "Warplock Bronze",
+          "name": "Warplock Bronze",
+          "rgb": "6E4A2A"
+        },
+        {
+          "code": "Runelord Brass",
+          "name": "Runelord Brass",
+          "rgb": "B89A5E"
+        },
+        {
+          "code": "Orruk Flesh",
+          "name": "Orruk Flesh",
+          "rgb": "4A7A4A"
+        },
+        {
+          "code": "Hobgrot Hide",
+          "name": "Hobgrot Hide",
+          "rgb": "9A8A4A"
+        },
+        {
+          "code": "Thondia Brown",
+          "name": "Thondia Brown",
+          "rgb": "5A4030"
+        }
+      ]
+    },
+    {
+      "name": "Contrast",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "Bad Moon Yellow",
+          "name": "Bad Moon Yellow",
+          "rgb": "F0C82A"
+        },
+        {
+          "code": "Imperial Fist",
+          "name": "Imperial Fist",
+          "rgb": "F0C040"
+        },
+        {
+          "code": "Ironjawz Yellow",
+          "name": "Ironjawz Yellow",
+          "rgb": "E8B41A"
+        },
+        {
+          "code": "Iyanden Yellow",
+          "name": "Iyanden Yellow",
+          "rgb": "E8B41A"
+        },
+        {
+          "code": "Nazdreg Yellow",
+          "name": "Nazdreg Yellow",
+          "rgb": "E0A41E"
+        },
+        {
+          "code": "Magmadroth Flame",
+          "name": "Magmadroth Flame",
+          "rgb": "E86A1E"
+        },
+        {
+          "code": "Gryph-Hound Orange",
+          "name": "Gryph-Hound Orange",
+          "rgb": "D85A24"
+        },
+        {
+          "code": "Baal Red",
+          "name": "Baal Red",
+          "rgb": "A01418"
+        },
+        {
+          "code": "Blood Angels Red",
+          "name": "Blood Angels Red",
+          "rgb": "8A1414"
+        },
+        {
+          "code": "Flesh Tearers Red",
+          "name": "Flesh Tearers Red",
+          "rgb": "6A1010"
+        },
+        {
+          "code": "Doomfire Magenta",
+          "name": "Doomfire Magenta",
+          "rgb": "A0146A"
+        },
+        {
+          "code": "Volupus Pink",
+          "name": "Volupus Pink",
+          "rgb": "9A2A5A"
+        },
+        {
+          "code": "Sigvald Burgundy",
+          "name": "Sigvald Burgundy",
+          "rgb": "6A1A3A"
+        },
+        {
+          "code": "Magos Purple",
+          "name": "Magos Purple",
+          "rgb": "5A2A5A"
+        },
+        {
+          "code": "Luxion Purple",
+          "name": "Luxion Purple",
+          "rgb": "6A3A8A"
+        },
+        {
+          "code": "Leviathan Purple",
+          "name": "Leviathan Purple",
+          "rgb": "4A2A6A"
+        },
+        {
+          "code": "Shyish Purple",
+          "name": "Shyish Purple",
+          "rgb": "3A1A4A"
+        },
+        {
+          "code": "Pylar Glacier",
+          "name": "Pylar Glacier",
+          "rgb": "8AAEC0"
+        },
+        {
+          "code": "Frostheart",
+          "name": "Frostheart",
+          "rgb": "5A9AC0"
+        },
+        {
+          "code": "Talassar Blue",
+          "name": "Talassar Blue",
+          "rgb": "1A5AAE"
+        },
+        {
+          "code": "Asurmen Blue",
+          "name": "Asurmen Blue",
+          "rgb": "1A4A9A"
+        },
+        {
+          "code": "Celestium Blue",
+          "name": "Celestium Blue",
+          "rgb": "2A7AC0"
+        },
+        {
+          "code": "Ultramarines Blue",
+          "name": "Ultramarines Blue",
+          "rgb": "12356E"
+        },
+        {
+          "code": "Leviadon Blue",
+          "name": "Leviadon Blue",
+          "rgb": "143A6A"
+        },
+        {
+          "code": "Stormfiend",
+          "name": "Stormfiend",
+          "rgb": "4A5A5A"
+        },
+        {
+          "code": "Karandras Green",
+          "name": "Karandras Green",
+          "rgb": "1A6A4A"
+        },
+        {
+          "code": "Striking Scorpion Green",
+          "name": "Striking Scorpion Green",
+          "rgb": "2A8A4A"
+        },
+        {
+          "code": "Mantis Warriors Green",
+          "name": "Mantis Warriors Green",
+          "rgb": "1A7A4A"
+        },
+        {
+          "code": "Plaguebearer Flesh",
+          "name": "Plaguebearer Flesh",
+          "rgb": "8A9A4A"
+        },
+        {
+          "code": "Gutrippa Flesh",
+          "name": "Gutrippa Flesh",
+          "rgb": "9AA86A"
+        },
+        {
+          "code": "Militarum Green",
+          "name": "Militarum Green",
+          "rgb": "3A4A2A"
+        },
+        {
+          "code": "Creed Camo",
+          "name": "Creed Camo",
+          "rgb": "5A5A2A"
+        },
+        {
+          "code": "Dark Angels Green",
+          "name": "Dark Angels Green",
+          "rgb": "0A3A1E"
+        },
+        {
+          "code": "Hexwraith Flame",
+          "name": "Hexwraith Flame",
+          "rgb": "1E8A6A"
+        },
+        {
+          "code": "Briar Queen Chill",
+          "name": "Briar Queen Chill",
+          "rgb": "8AAEA8"
+        },
+        {
+          "code": "Nighthaunt Gloom",
+          "name": "Nighthaunt Gloom",
+          "rgb": "6A8A8A"
+        },
+        {
+          "code": "Gryph-Charger Grey",
+          "name": "Gryph-Charger Grey",
+          "rgb": "5E7A82"
+        },
+        {
+          "code": "Space Wolves Grey",
+          "name": "Space Wolves Grey",
+          "rgb": "3A5A78"
+        },
+        {
+          "code": "Skeleton Horde",
+          "name": "Skeleton Horde",
+          "rgb": "C8B878"
+        },
+        {
+          "code": "Aggaros Dunes",
+          "name": "Aggaros Dunes",
+          "rgb": "B89A4A"
+        },
+        {
+          "code": "Garaghak's Sewer",
+          "name": "Garaghak's Sewer",
+          "rgb": "6A5A2A"
+        },
+        {
+          "code": "Snakebite Leather",
+          "name": "Snakebite Leather",
+          "rgb": "8A5A2A"
+        },
+        {
+          "code": "Gore-Grunta Fur",
+          "name": "Gore-Grunta Fur",
+          "rgb": "7A4A2A"
+        },
+        {
+          "code": "Aethermatic Blue",
+          "name": "Aethermatic Blue",
+          "rgb": "2C8AB0"
+        },
+        {
+          "code": "Kroxigor Scales",
+          "name": "Kroxigor Scales",
+          "rgb": "2A6A6A"
+        },
+        {
+          "code": "Akhelian Green",
+          "name": "Akhelian Green",
+          "rgb": "0E6A6A"
+        },
+        {
+          "code": "Terradon Turquoise",
+          "name": "Terradon Turquoise",
+          "rgb": "1A8A8A"
+        },
+        {
+          "code": "Aeldari Emerald",
+          "name": "Aeldari Emerald",
+          "rgb": "0A8A5A"
+        },
+        {
+          "code": "Ork Flesh",
+          "name": "Ork Flesh",
+          "rgb": "2E7A3A"
+        },
+        {
+          "code": "Warp Lightning",
+          "name": "Warp Lightning",
+          "rgb": "3AC84A"
+        },
+        {
+          "code": "Ratling Grime",
+          "name": "Ratling Grime",
+          "rgb": "6A5A3A"
+        },
+        {
+          "code": "Wyldwood",
+          "name": "Wyldwood",
+          "rgb": "2A1E16"
+        },
+        {
+          "code": "Cygor Brown",
+          "name": "Cygor Brown",
+          "rgb": "5A3A22"
+        },
+        {
+          "code": "Guilliman Flesh",
+          "name": "Guilliman Flesh",
+          "rgb": "C88A6A"
+        },
+        {
+          "code": "Fyreslayer Flesh",
+          "name": "Fyreslayer Flesh",
+          "rgb": "C86A4A"
+        },
+        {
+          "code": "Darkoath Flesh",
+          "name": "Darkoath Flesh",
+          "rgb": "C8906A"
+        },
+        {
+          "code": "Dreadful Visage",
+          "name": "Dreadful Visage",
+          "rgb": "5A2A2A"
+        },
+        {
+          "code": "Apothecary White",
+          "name": "Apothecary White",
+          "rgb": "D8D6C8"
+        },
+        {
+          "code": "Basilicanum Grey",
+          "name": "Basilicanum Grey",
+          "rgb": "3A3A38"
+        },
+        {
+          "code": "Black Templar",
+          "name": "Black Templar",
+          "rgb": "1B1B1D"
+        },
+        {
+          "code": "Black Legion",
+          "name": "Black Legion",
+          "rgb": "26262A"
+        }
+      ]
+    },
+    {
+      "name": "Dry",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "Praxeti White",
+          "name": "Praxeti White",
+          "rgb": "E2E0D0"
+        },
+        {
+          "code": "Wrack White",
+          "name": "Wrack White",
+          "rgb": "DCD8C8"
+        },
+        {
+          "code": "Hexos Palesun",
+          "name": "Hexos Palesun",
+          "rgb": "E8E0A0"
+        },
+        {
+          "code": "Ryza Rust",
+          "name": "Ryza Rust",
+          "rgb": "C85A24"
+        },
+        {
+          "code": "Astorath Red",
+          "name": "Astorath Red",
+          "rgb": "B82A24"
+        },
+        {
+          "code": "Lucius Lilac",
+          "name": "Lucius Lilac",
+          "rgb": "C8AED8"
+        },
+        {
+          "code": "Skink Blue",
+          "name": "Skink Blue",
+          "rgb": "5AC0C4"
+        },
+        {
+          "code": "Etherium Blue",
+          "name": "Etherium Blue",
+          "rgb": "9CB6C8"
+        },
+        {
+          "code": "Hoeth Blue",
+          "name": "Hoeth Blue",
+          "rgb": "3C8AC0"
+        },
+        {
+          "code": "Imrik Blue",
+          "name": "Imrik Blue",
+          "rgb": "3C8AC0"
+        },
+        {
+          "code": "Nurgling Green",
+          "name": "Nurgling Green",
+          "rgb": "A8B070"
+        },
+        {
+          "code": "Niblet Green",
+          "name": "Niblet Green",
+          "rgb": "8AC84A"
+        },
+        {
+          "code": "Underhive Ash",
+          "name": "Underhive Ash",
+          "rgb": "9A968A"
+        },
+        {
+          "code": "Tyrant Skull",
+          "name": "Tyrant Skull",
+          "rgb": "C8C0A0"
+        },
+        {
+          "code": "Terminatus Stone",
+          "name": "Terminatus Stone",
+          "rgb": "C0B080"
+        },
+        {
+          "code": "Golgfag Brown",
+          "name": "Golgfag Brown",
+          "rgb": "9A7A4A"
+        },
+        {
+          "code": "Sylvaneth Bark",
+          "name": "Sylvaneth Bark",
+          "rgb": "5A5A4A"
+        },
+        {
+          "code": "Eldar Flesh",
+          "name": "Eldar Flesh",
+          "rgb": "E0B080"
+        },
+        {
+          "code": "Stormfang",
+          "name": "Stormfang",
+          "rgb": "8AA0B6"
+        },
+        {
+          "code": "Longbeard Grey",
+          "name": "Longbeard Grey",
+          "rgb": "9AA09A"
+        },
+        {
+          "code": "Dawnstone",
+          "name": "Dawnstone",
+          "rgb": "7E807A"
+        },
+        {
+          "code": "Necron Compound",
+          "name": "Necron Compound",
+          "rgb": "C8CCCE"
+        },
+        {
+          "code": "Sigmarite",
+          "name": "Sigmarite",
+          "rgb": "D8B86A"
+        },
+        {
+          "code": "Golden Griffon",
+          "name": "Golden Griffon",
+          "rgb": "C89A4A"
+        }
+      ]
+    },
+    {
+      "name": "Layer",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "White Scar",
+          "name": "White Scar",
+          "rgb": "F2F2EE"
+        },
+        {
+          "code": "Ulthuan Grey",
+          "name": "Ulthuan Grey",
+          "rgb": "CFD8CE"
+        },
+        {
+          "code": "Dorn Yellow",
+          "name": "Dorn Yellow",
+          "rgb": "F2D44A"
+        },
+        {
+          "code": "Phalanx Yellow",
+          "name": "Phalanx Yellow",
+          "rgb": "F4D83A"
+        },
+        {
+          "code": "Flash Gitz Yellow",
+          "name": "Flash Gitz Yellow",
+          "rgb": "F4E03A"
+        },
+        {
+          "code": "Yriel Yellow",
+          "name": "Yriel Yellow",
+          "rgb": "F7C61A"
+        },
+        {
+          "code": "Lugganath Orange",
+          "name": "Lugganath Orange",
+          "rgb": "F08A4A"
+        },
+        {
+          "code": "Fire Dragon Bright",
+          "name": "Fire Dragon Bright",
+          "rgb": "EE6A1E"
+        },
+        {
+          "code": "Troll Slayer Orange",
+          "name": "Troll Slayer Orange",
+          "rgb": "EE5A2A"
+        },
+        {
+          "code": "Squig Orange",
+          "name": "Squig Orange",
+          "rgb": "C84A28"
+        },
+        {
+          "code": "Wild Rider Red",
+          "name": "Wild Rider Red",
+          "rgb": "E83828"
+        },
+        {
+          "code": "Evil Sunz Scarlet",
+          "name": "Evil Sunz Scarlet",
+          "rgb": "C8202A"
+        },
+        {
+          "code": "Wazdakka Red",
+          "name": "Wazdakka Red",
+          "rgb": "8E1A1E"
+        },
+        {
+          "code": "Word Bearers Red",
+          "name": "Word Bearers Red",
+          "rgb": "6A1418"
+        },
+        {
+          "code": "Fulgrim Pink",
+          "name": "Fulgrim Pink",
+          "rgb": "E78FB0"
+        },
+        {
+          "code": "Emperor's Children",
+          "name": "Emperor's Children",
+          "rgb": "B43A6E"
+        },
+        {
+          "code": "Pink Horror",
+          "name": "Pink Horror",
+          "rgb": "B0507E"
+        },
+        {
+          "code": "Slaanesh Grey",
+          "name": "Slaanesh Grey",
+          "rgb": "8A8290"
+        },
+        {
+          "code": "Warpfiend Grey",
+          "name": "Warpfiend Grey",
+          "rgb": "5A5868"
+        },
+        {
+          "code": "Dechala Lilac",
+          "name": "Dechala Lilac",
+          "rgb": "9A86C0"
+        },
+        {
+          "code": "Kakophoni Purple",
+          "name": "Kakophoni Purple",
+          "rgb": "8A5EA8"
+        },
+        {
+          "code": "Genestealer Purple",
+          "name": "Genestealer Purple",
+          "rgb": "7B5EA8"
+        },
+        {
+          "code": "Xereus Purple",
+          "name": "Xereus Purple",
+          "rgb": "3E2A66"
+        },
+        {
+          "code": "Blue Horror",
+          "name": "Blue Horror",
+          "rgb": "7AA0D8"
+        },
+        {
+          "code": "Hoeth Blue",
+          "name": "Hoeth Blue",
+          "rgb": "3C73B0"
+        },
+        {
+          "code": "Lothern Blue",
+          "name": "Lothern Blue",
+          "rgb": "2C9CC8"
+        },
+        {
+          "code": "Calgar Blue",
+          "name": "Calgar Blue",
+          "rgb": "2A5DAE"
+        },
+        {
+          "code": "Teclis Blue",
+          "name": "Teclis Blue",
+          "rgb": "1C72C8"
+        },
+        {
+          "code": "Alaitoc Blue",
+          "name": "Alaitoc Blue",
+          "rgb": "3A5A9A"
+        },
+        {
+          "code": "Altdorf Guard Blue",
+          "name": "Altdorf Guard Blue",
+          "rgb": "1A4F9C"
+        },
+        {
+          "code": "Baharroth Blue",
+          "name": "Baharroth Blue",
+          "rgb": "44B6C6"
+        },
+        {
+          "code": "Temple Guard Blue",
+          "name": "Temple Guard Blue",
+          "rgb": "2AA6A0"
+        },
+        {
+          "code": "Ahriman Blue",
+          "name": "Ahriman Blue",
+          "rgb": "1A7E8C"
+        },
+        {
+          "code": "Sotek Green",
+          "name": "Sotek Green",
+          "rgb": "10859A"
+        },
+        {
+          "code": "Gauss Blaster Green",
+          "name": "Gauss Blaster Green",
+          "rgb": "9FD6B8"
+        },
+        {
+          "code": "Sybarite Green",
+          "name": "Sybarite Green",
+          "rgb": "00A878"
+        },
+        {
+          "code": "Kabalite Green",
+          "name": "Kabalite Green",
+          "rgb": "0F8A6E"
+        },
+        {
+          "code": "Nurgling Green",
+          "name": "Nurgling Green",
+          "rgb": "A8B070"
+        },
+        {
+          "code": "Elysian Green",
+          "name": "Elysian Green",
+          "rgb": "5A7A3A"
+        },
+        {
+          "code": "Ogryn Camo",
+          "name": "Ogryn Camo",
+          "rgb": "8A9A5E"
+        },
+        {
+          "code": "Straken Green",
+          "name": "Straken Green",
+          "rgb": "6FA04A"
+        },
+        {
+          "code": "Loren Forest",
+          "name": "Loren Forest",
+          "rgb": "4A6B3A"
+        },
+        {
+          "code": "Sons of Horus Green",
+          "name": "Sons of Horus Green",
+          "rgb": "2A6A5A"
+        },
+        {
+          "code": "Vulkan Green",
+          "name": "Vulkan Green",
+          "rgb": "2A5A3A"
+        },
+        {
+          "code": "Skarsnik Green",
+          "name": "Skarsnik Green",
+          "rgb": "4FB58A"
+        },
+        {
+          "code": "Moot Green",
+          "name": "Moot Green",
+          "rgb": "3CB54A"
+        },
+        {
+          "code": "Warboss Green",
+          "name": "Warboss Green",
+          "rgb": "2E8B57"
+        },
+        {
+          "code": "Warpstone Glow",
+          "name": "Warpstone Glow",
+          "rgb": "1CA04A"
+        },
+        {
+          "code": "Screaming Skull",
+          "name": "Screaming Skull",
+          "rgb": "BFC2A0"
+        },
+        {
+          "code": "Ushabti Bone",
+          "name": "Ushabti Bone",
+          "rgb": "C8BE8E"
+        },
+        {
+          "code": "Krieg Khaki",
+          "name": "Krieg Khaki",
+          "rgb": "B6A874"
+        },
+        {
+          "code": "Karak Stone",
+          "name": "Karak Stone",
+          "rgb": "C8AE74"
+        },
+        {
+          "code": "Baneblade Brown",
+          "name": "Baneblade Brown",
+          "rgb": "C0A878"
+        },
+        {
+          "code": "Gorthor Brown",
+          "name": "Gorthor Brown",
+          "rgb": "6A4A3A"
+        },
+        {
+          "code": "Zamesi Desert",
+          "name": "Zamesi Desert",
+          "rgb": "D2A23A"
+        },
+        {
+          "code": "Tallarn Sand",
+          "name": "Tallarn Sand",
+          "rgb": "B89A5E"
+        },
+        {
+          "code": "Deathclaw Brown",
+          "name": "Deathclaw Brown",
+          "rgb": "9A6A3A"
+        },
+        {
+          "code": "Balor Brown",
+          "name": "Balor Brown",
+          "rgb": "A8763A"
+        },
+        {
+          "code": "Tau Light Ochre",
+          "name": "Tau Light Ochre",
+          "rgb": "D08A2E"
+        },
+        {
+          "code": "Skrag Brown",
+          "name": "Skrag Brown",
+          "rgb": "8A4A20"
+        },
+        {
+          "code": "Tuskgor Fur",
+          "name": "Tuskgor Fur",
+          "rgb": "7E3A24"
+        },
+        {
+          "code": "Doombull Brown",
+          "name": "Doombull Brown",
+          "rgb": "5E2218"
+        },
+        {
+          "code": "Pallid Wych Flesh",
+          "name": "Pallid Wych Flesh",
+          "rgb": "D4D2BA"
+        },
+        {
+          "code": "Deepkin Flesh",
+          "name": "Deepkin Flesh",
+          "rgb": "C99B7E"
+        },
+        {
+          "code": "Flayed One Flesh",
+          "name": "Flayed One Flesh",
+          "rgb": "E8C39A"
+        },
+        {
+          "code": "Ungor Flesh",
+          "name": "Ungor Flesh",
+          "rgb": "C8A878"
+        },
+        {
+          "code": "Kislev Flesh",
+          "name": "Kislev Flesh",
+          "rgb": "E0B080"
+        },
+        {
+          "code": "Bestigor Flesh",
+          "name": "Bestigor Flesh",
+          "rgb": "C8946A"
+        },
+        {
+          "code": "Cadian Fleshtone",
+          "name": "Cadian Fleshtone",
+          "rgb": "C07A50"
+        },
+        {
+          "code": "Knight-Questor Flesh",
+          "name": "Knight-Questor Flesh",
+          "rgb": "D8A078"
+        },
+        {
+          "code": "Bloodreaver Flesh",
+          "name": "Bloodreaver Flesh",
+          "rgb": "B86A4A"
+        },
+        {
+          "code": "Fenrisian Grey",
+          "name": "Fenrisian Grey",
+          "rgb": "6A8FB0"
+        },
+        {
+          "code": "Russ Grey",
+          "name": "Russ Grey",
+          "rgb": "4E7AA0"
+        },
+        {
+          "code": "Thunderhawk Blue",
+          "name": "Thunderhawk Blue",
+          "rgb": "3A5560"
+        },
+        {
+          "code": "Dark Reaper",
+          "name": "Dark Reaper",
+          "rgb": "3A4248"
+        },
+        {
+          "code": "Administratum Grey",
+          "name": "Administratum Grey",
+          "rgb": "B0B1A8"
+        },
+        {
+          "code": "Dawnstone",
+          "name": "Dawnstone",
+          "rgb": "6E706B"
+        },
+        {
+          "code": "Stormvermin Fur",
+          "name": "Stormvermin Fur",
+          "rgb": "6B665C"
+        },
+        {
+          "code": "Eshin Grey",
+          "name": "Eshin Grey",
+          "rgb": "4A4E50"
+        },
+        {
+          "code": "Skavenblight Dinge",
+          "name": "Skavenblight Dinge",
+          "rgb": "3A3830"
+        },
+        {
+          "code": "Stormhost Silver",
+          "name": "Stormhost Silver",
+          "rgb": "C8CDD0"
+        },
+        {
+          "code": "Runefang Steel",
+          "name": "Runefang Steel",
+          "rgb": "CACED0"
+        },
+        {
+          "code": "Ironbreaker",
+          "name": "Ironbreaker",
+          "rgb": "A8ACAE"
+        },
+        {
+          "code": "Liberator Gold",
+          "name": "Liberator Gold",
+          "rgb": "D8B24A"
+        },
+        {
+          "code": "Auric Armour Gold",
+          "name": "Auric Armour Gold",
+          "rgb": "D2A437"
+        },
+        {
+          "code": "Gehenna's Gold",
+          "name": "Gehenna's Gold",
+          "rgb": "C89A3A"
+        },
+        {
+          "code": "Fulgurite Copper",
+          "name": "Fulgurite Copper",
+          "rgb": "B0744A"
+        },
+        {
+          "code": "Hashut Copper",
+          "name": "Hashut Copper",
+          "rgb": "AE6A38"
+        },
+        {
+          "code": "Skullcrusher Brass",
+          "name": "Skullcrusher Brass",
+          "rgb": "B89A4A"
+        },
+        {
+          "code": "Brass Scorpion",
+          "name": "Brass Scorpion",
+          "rgb": "8A6A3A"
+        },
+        {
+          "code": "Sycorax Bronze",
+          "name": "Sycorax Bronze",
+          "rgb": "B89A4A"
+        },
+        {
+          "code": "Castellax Bronze",
+          "name": "Castellax Bronze",
+          "rgb": "8A6A4A"
+        },
+        {
+          "code": "Canoptek Alloy",
+          "name": "Canoptek Alloy",
+          "rgb": "7A8A6A"
+        }
+      ]
+    },
+    {
+      "name": "Shade",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "Casandora Yellow",
+          "name": "Casandora Yellow",
+          "rgb": "D6A41A"
+        },
+        {
+          "code": "Fuegan Orange",
+          "name": "Fuegan Orange",
+          "rgb": "8A3A14"
+        },
+        {
+          "code": "Berserker Bloodshade",
+          "name": "Berserker Bloodshade",
+          "rgb": "6A0E10"
+        },
+        {
+          "code": "Carroburg Crimson",
+          "name": "Carroburg Crimson",
+          "rgb": "5A1424"
+        },
+        {
+          "code": "Targor Rageshade",
+          "name": "Targor Rageshade",
+          "rgb": "5A1A1E"
+        },
+        {
+          "code": "Druchii Violet",
+          "name": "Druchii Violet",
+          "rgb": "3A2050"
+        },
+        {
+          "code": "Tyran Blue",
+          "name": "Tyran Blue",
+          "rgb": "1C3A6A"
+        },
+        {
+          "code": "Drakenhof Nightshade",
+          "name": "Drakenhof Nightshade",
+          "rgb": "1C2E4A"
+        },
+        {
+          "code": "Athonian Camoshade",
+          "name": "Athonian Camoshade",
+          "rgb": "4A4A1E"
+        },
+        {
+          "code": "Biel-Tan Green",
+          "name": "Biel-Tan Green",
+          "rgb": "0F4A30"
+        },
+        {
+          "code": "Coelia Greenshade",
+          "name": "Coelia Greenshade",
+          "rgb": "0E5A52"
+        },
+        {
+          "code": "Kroak Green",
+          "name": "Kroak Green",
+          "rgb": "0A5A4A"
+        },
+        {
+          "code": "Poxwalker",
+          "name": "Poxwalker",
+          "rgb": "7A8A5A"
+        },
+        {
+          "code": "Mortarion Grime",
+          "name": "Mortarion Grime",
+          "rgb": "4A5A3A"
+        },
+        {
+          "code": "Seraphim Sepia",
+          "name": "Seraphim Sepia",
+          "rgb": "8A6A2A"
+        },
+        {
+          "code": "Reikland Fleshshade",
+          "name": "Reikland Fleshshade",
+          "rgb": "8A4A30"
+        },
+        {
+          "code": "Agrax Earthshade",
+          "name": "Agrax Earthshade",
+          "rgb": "3A2E22"
+        },
+        {
+          "code": "Soulblight Grey",
+          "name": "Soulblight Grey",
+          "rgb": "4A4A48"
+        },
+        {
+          "code": "Nuln Oil",
+          "name": "Nuln Oil",
+          "rgb": "1A1A1A"
+        }
+      ]
+    },
+    {
+      "name": "Spray",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "White Scar",
+          "name": "White Scar",
+          "rgb": "F2F2EE"
+        },
+        {
+          "code": "Retributor Armour",
+          "name": "Retributor Armour",
+          "rgb": "B68A41"
+        },
+        {
+          "code": "Chaos Black",
+          "name": "Chaos Black",
+          "rgb": "1A1A1A"
+        },
+        {
+          "code": "Mechanicus Standard Grey",
+          "name": "Mechanicus Standard Grey",
+          "rgb": "3A3F41"
+        },
+        {
+          "code": "Leadbelcher",
+          "name": "Leadbelcher",
+          "rgb": "898C8E"
+        },
+        {
+          "code": "Munitorum Varnish",
+          "name": "Munitorum Varnish",
+          "rgb": "D8D8D0"
+        },
+        {
+          "code": "Mephiston Red",
+          "name": "Mephiston Red",
+          "rgb": "9A1115"
+        },
+        {
+          "code": "Macragge Blue",
+          "name": "Macragge Blue",
+          "rgb": "0F3D7C"
+        },
+        {
+          "code": "Zandri Dust",
+          "name": "Zandri Dust",
+          "rgb": "A89A5E"
+        },
+        {
+          "code": "Death Guard Green",
+          "name": "Death Guard Green",
+          "rgb": "6C6F3F"
+        },
+        {
+          "code": "Grey Seer",
+          "name": "Grey Seer",
+          "rgb": "9B9C94"
+        },
+        {
+          "code": "Wraithbone",
+          "name": "Wraithbone",
+          "rgb": "D9CFB0"
+        }
+      ]
+    },
+    {
+      "name": "Technical",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "Armageddon Dust",
+          "name": "Armageddon Dust",
+          "rgb": "B8A878"
+        },
+        {
+          "code": "Armageddon Dunes",
+          "name": "Armageddon Dunes",
+          "rgb": "C8A85A"
+        },
+        {
+          "code": "Agrellan Earth",
+          "name": "Agrellan Earth",
+          "rgb": "9A7A5A"
+        },
+        {
+          "code": "Agrellan Badland",
+          "name": "Agrellan Badland",
+          "rgb": "B85A2A"
+        },
+        {
+          "code": "Martian Ironearth",
+          "name": "Martian Ironearth",
+          "rgb": "8A3A1E"
+        },
+        {
+          "code": "Martian Ironcrust",
+          "name": "Martian Ironcrust",
+          "rgb": "9A4A24"
+        },
+        {
+          "code": "Stirland Mud",
+          "name": "Stirland Mud",
+          "rgb": "4A3A2A"
+        },
+        {
+          "code": "Stirland Battlemire",
+          "name": "Stirland Battlemire",
+          "rgb": "3A2E1E"
+        },
+        {
+          "code": "Astrogranite",
+          "name": "Astrogranite",
+          "rgb": "8A8A86"
+        },
+        {
+          "code": "Astrogranite Debris",
+          "name": "Astrogranite Debris",
+          "rgb": "7A7A76"
+        },
+        {
+          "code": "Mordant Earth",
+          "name": "Mordant Earth",
+          "rgb": "8A6A4A"
+        },
+        {
+          "code": "Valhallan Blizzard",
+          "name": "Valhallan Blizzard",
+          "rgb": "E8E8E8"
+        },
+        {
+          "code": "Blood For The Blood God",
+          "name": "Blood For The Blood God",
+          "rgb": "5A0808"
+        },
+        {
+          "code": "Lahmian Medium",
+          "name": "Lahmian Medium",
+          "rgb": "D8D2C0"
+        },
+        {
+          "code": "Contrast Medium",
+          "name": "Contrast Medium",
+          "rgb": "D8D2C0"
+        },
+        {
+          "code": "Stormshield",
+          "name": "Stormshield",
+          "rgb": "D0D0D0"
+        },
+        {
+          "code": "Ardcoat",
+          "name": "Ardcoat",
+          "rgb": "E8E8E8"
+        },
+        {
+          "code": "Nurgles Rot",
+          "name": "Nurgles Rot",
+          "rgb": "8A9A4A"
+        },
+        {
+          "code": "Spiritstone Red",
+          "name": "Spiritstone Red",
+          "rgb": "C8141A"
+        },
+        {
+          "code": "Soulstone Blue",
+          "name": "Soulstone Blue",
+          "rgb": "0A6AC8"
+        },
+        {
+          "code": "Waystone Green",
+          "name": "Waystone Green",
+          "rgb": "0AA84A"
+        },
+        {
+          "code": "Nihilakh Oxide",
+          "name": "Nihilakh Oxide",
+          "rgb": "6FB0A0"
+        },
+        {
+          "code": "Typhus Corrosion",
+          "name": "Typhus Corrosion",
+          "rgb": "2A241E"
+        },
+        {
+          "code": "Tesseract Glow",
+          "name": "Tesseract Glow",
+          "rgb": "5AE85A"
+        }
+      ]
+    }
+  ]
+}
