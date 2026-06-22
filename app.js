@@ -4,6 +4,10 @@
 // (data/manifest.json + data/<id>.json) and filters entirely client-side — no build step.
 
 const DATA = "data/";
+const ALL = "__all__";
+const LS_LIBRARY = "hobbycolors.library";
+const LS_TYPE = "hobbycolors.type";
+
 const TYPE_LABELS = {
   Generic: "Generic",
   Enamel: "Enamel",
@@ -14,7 +18,7 @@ const TYPE_LABELS = {
 };
 
 const els = {
-  library: document.getElementById("library"),
+  libraryList: document.getElementById("library-list"),
   type: document.getElementById("type"),
   search: document.getElementById("search"),
   status: document.getElementById("status"),
@@ -24,6 +28,7 @@ const els = {
 const state = {
   manifest: null,
   cache: new Map(), // id -> normalized color list
+  current: ALL,
 };
 
 init();
@@ -36,26 +41,51 @@ async function init() {
     return;
   }
 
-  const all = document.createElement("option");
-  all.value = "__all__";
-  all.textContent = "All libraries";
-  els.library.appendChild(all);
-  for (const lib of state.manifest.libraries) {
-    const opt = document.createElement("option");
-    opt.value = lib.id;
-    opt.textContent = lib.title + " (" + lib.colorCount + ")";
-    els.library.appendChild(opt);
-  }
-
-  els.library.value = state.manifest.libraries[0].id;
-  els.library.addEventListener("change", onLibraryChange);
-  els.type.addEventListener("change", render);
+  buildLibraryList();
+  els.type.addEventListener("change", () => {
+    save(LS_TYPE, els.type.value);
+    render();
+  });
   els.search.addEventListener("input", debounce(render, 120));
 
-  await onLibraryChange();
+  const stored = load(LS_LIBRARY);
+  const valid = stored === ALL || state.manifest.libraries.some((l) => l.id === stored);
+  selectLibrary(valid ? stored : state.manifest.libraries[0].id);
 }
 
-async function onLibraryChange() {
+function buildLibraryList() {
+  els.libraryList.innerHTML = "";
+  els.libraryList.appendChild(libButton(ALL, "All libraries", null));
+  const sep = document.createElement("div");
+  sep.className = "lib-sep";
+  els.libraryList.appendChild(sep);
+  for (const lib of state.manifest.libraries) {
+    els.libraryList.appendChild(libButton(lib.id, lib.title, lib.colorCount));
+  }
+}
+
+function libButton(id, title, count) {
+  const btn = document.createElement("button");
+  btn.className = "lib-item";
+  btn.dataset.id = id;
+  btn.innerHTML = '<span class="lib-title"></span>';
+  btn.querySelector(".lib-title").textContent = title;
+  if (count != null) {
+    const c = document.createElement("span");
+    c.className = "lib-count";
+    c.textContent = count;
+    btn.appendChild(c);
+  }
+  btn.addEventListener("click", () => selectLibrary(id));
+  return btn;
+}
+
+async function selectLibrary(id) {
+  state.current = id;
+  save(LS_LIBRARY, id);
+  for (const btn of els.libraryList.querySelectorAll(".lib-item")) {
+    btn.classList.toggle("active", btn.dataset.id === id);
+  }
   els.status.textContent = "Loading…";
   try {
     const colors = await currentColors();
@@ -69,12 +99,11 @@ async function onLibraryChange() {
 
 // Loads (and caches) the normalized color list for the current selection.
 async function currentColors() {
-  const id = els.library.value;
-  if (id === "__all__") {
+  if (state.current === ALL) {
     const lists = await Promise.all(state.manifest.libraries.map((l) => loadLibrary(l.id)));
     return lists.flat();
   }
-  return loadLibrary(id);
+  return loadLibrary(state.current);
 }
 
 async function loadLibrary(id) {
@@ -108,7 +137,7 @@ function normalize(data, libraryTitle) {
 
 function rebuildTypeFilter(colors) {
   const present = [...new Set(colors.map((c) => c.type))].sort();
-  const prev = els.type.value;
+  const stored = load(LS_TYPE);
   els.type.innerHTML = "";
   const any = document.createElement("option");
   any.value = "";
@@ -120,14 +149,14 @@ function rebuildTypeFilter(colors) {
     opt.textContent = TYPE_LABELS[t] || t;
     els.type.appendChild(opt);
   }
-  els.type.value = present.includes(prev) ? prev : "";
+  els.type.value = present.includes(stored) ? stored : "";
 }
 
 async function render() {
   const colors = await currentColors();
   const term = els.search.value.trim().toLowerCase();
   const typeFilter = els.type.value;
-  const groupByLibrary = els.library.value === "__all__";
+  const groupByLibrary = state.current === ALL;
 
   const filtered = colors.filter((c) => {
     if (typeFilter && c.type !== typeFilter) return false;
@@ -221,4 +250,11 @@ function debounce(fn, ms) {
     clearTimeout(t);
     t = setTimeout(() => fn.apply(this, args), ms);
   };
+}
+
+function save(key, value) {
+  try { localStorage.setItem(key, value); } catch (e) { /* private mode */ }
+}
+function load(key) {
+  try { return localStorage.getItem(key); } catch (e) { return null; }
 }

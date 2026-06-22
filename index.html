@@ -8,22 +8,48 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <header>
-    <h1>Hobby Colors</h1>
-    <p class="tagline">Browse &amp; search hobby paint color libraries. Data shared with the ColorMixer app.</p>
-    <div class="controls">
-      <select id="library" aria-label="Library"></select>
-      <select id="type" aria-label="Finish / type"></select>
-      <input id="search" type="search" placeholder="Search code, name or brand…" aria-label="Search" autocomplete="off">
-    </div>
-    <p id="status" class="status" role="status"></p>
-  </header>
+  <div class="layout">
+    <aside class="sidebar sidebar-left">
+      <div class="brand">
+        <h1>Hobby Colors</h1>
+        <p class="tagline">Paint color libraries</p>
+      </div>
+      <nav id="library-list" class="library-list" aria-label="Libraries"></nav>
+    </aside>
 
-  <main id="results"></main>
+    <main class="content">
+      <div class="toolbar">
+        <input id="search" type="search" placeholder="Search code, name or brand…" aria-label="Search" autocomplete="off">
+        <select id="type" aria-label="Finish / type"></select>
+      </div>
+      <p id="status" class="status" role="status"></p>
+      <div id="results"></div>
+      <footer>
+        <p>Generated from the ColorMixer color libraries. Colors are approximate sRGB renderings.</p>
+      </footer>
+    </main>
 
-  <footer>
-    <p>Generated from the ColorMixer color libraries. Colors are approximate sRGB renderings.</p>
-  </footer>
+    <aside class="sidebar sidebar-right">
+      <div class="promo">
+        <div class="promo-icon" aria-hidden="true">🎨</div>
+        <h2>ColorMixer</h2>
+        <p class="promo-lead">Mix, unmix &amp; convert paint colors.</p>
+        <ul class="promo-features">
+          <li>Physics-based paint <strong>mixing</strong> from any of these libraries</li>
+          <li><strong>Unmix</strong> a target color into a buildable recipe</li>
+          <li>Match &amp; convert across brands and color spaces</li>
+        </ul>
+        <a class="store-btn" href="https://play.google.com/store/apps/details?id=com.nitramite.colormixer" target="_blank" rel="noopener">
+          <span class="store-sub">Get it on</span>
+          <span class="store-name">Google Play</span>
+        </a>
+        <a class="store-btn" href="https://apps.apple.com/au/app/colormixer-mix-unmix-convert/id1398134243" target="_blank" rel="noopener">
+          <span class="store-sub">Download on the</span>
+          <span class="store-name">App Store</span>
+        </a>
+      </div>
+    </aside>
+  </div>
 
   <script src="app.js"></script>
 </body>
