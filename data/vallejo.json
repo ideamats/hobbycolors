@@ -3,342 +3,938 @@
   "id": "vallejo",
   "title": "Vallejo",
   "desc": "Model & Game Color",
-  "version": 1,
+  "version": 2,
   "brand": "Vallejo",
   "groups": [
     {
-      "name": "Surface Primers",
+      "name": "Game Air",
       "type": "Acrylic",
       "colors": [
         {
-          "code": "70600",
-          "name": "White (17ml) Primer",
+          "code": "72701",
+          "name": "Dead White Matt",
+          "rgb": "FFFFFF",
+          "smooth": 0.0
+        },
+        {
+          "code": "72703",
+          "name": "Pale Flesh Matt",
+          "rgb": "FADACF",
+          "smooth": 0.0
+        },
+        {
+          "code": "72704",
+          "name": "Elf Skintone Matt",
+          "rgb": "E7AE83",
+          "smooth": 0.0
+        },
+        {
+          "code": "72705",
+          "name": "Moon Yellow Matt",
+          "rgb": "FCBC03",
+          "smooth": 0.0
+        },
+        {
+          "code": "72706",
+          "name": "Sun Yellow Matt",
+          "rgb": "F6B422",
+          "smooth": 0.0
+        },
+        {
+          "code": "72707",
+          "name": "Gold Yellow Matt",
+          "rgb": "F19901",
+          "smooth": 0.0
+        },
+        {
+          "code": "72708",
+          "name": "Orange Fire Matt",
+          "rgb": "EA632B",
+          "smooth": 0.0
+        },
+        {
+          "code": "72709",
+          "name": "Hot Orange Matt",
+          "rgb": "E64C2A",
+          "smooth": 0.0
+        },
+        {
+          "code": "72710",
+          "name": "Bloody Red Matt",
+          "rgb": "CD3230",
+          "smooth": 0.0
+        },
+        {
+          "code": "72711",
+          "name": "Gory Red Matt",
+          "rgb": "693B3D",
+          "smooth": 0.0
+        },
+        {
+          "code": "72712",
+          "name": "Scarlett Blood Matt",
+          "rgb": "9D112C",
+          "smooth": 0.0
+        },
+        {
+          "code": "72713",
+          "name": "Squid Pink Matt",
+          "rgb": "DA88B8",
+          "smooth": 0.0
+        },
+        {
+          "code": "72714",
+          "name": "Warlord Purple Matt",
+          "rgb": "B0376D",
+          "smooth": 0.0
+        },
+        {
+          "code": "72715",
+          "name": "Hexed Lichen Matt",
+          "rgb": "39373A",
+          "smooth": 0.0
+        },
+        {
+          "code": "72720",
+          "name": "Imperial Blue Matt",
+          "rgb": "04316A",
+          "smooth": 0.0
+        },
+        {
+          "code": "72721",
+          "name": "Magic Blue Matt",
+          "rgb": "036EB6",
+          "smooth": 0.0
+        },
+        {
+          "code": "72722",
+          "name": "Ultramarine Blue Matt",
+          "rgb": "1E5389",
+          "smooth": 0.0
+        },
+        {
+          "code": "72723",
+          "name": "Electric Blue Matt",
+          "rgb": "2D94B3",
+          "smooth": 0.0
+        },
+        {
+          "code": "72728",
+          "name": "Dark Green Matt",
+          "rgb": "274E39",
+          "smooth": 0.0
+        },
+        {
+          "code": "72729",
+          "name": "Sick Green Matt",
+          "rgb": "246B4B",
+          "smooth": 0.0
+        },
+        {
+          "code": "72730",
+          "name": "Goblin Green Matt",
+          "rgb": "6B7344",
+          "smooth": 0.0
+        },
+        {
+          "code": "72732",
+          "name": "Escorpena Green Matt",
+          "rgb": "80AF49",
+          "smooth": 0.0
+        },
+        {
+          "code": "72733",
+          "name": "Light Livery Green Matt",
+          "rgb": "92BD16",
+          "smooth": 0.0
+        },
+        {
+          "code": "72734",
+          "name": "Bonewhite Matt",
+          "rgb": "C3B89C",
+          "smooth": 0.0
+        },
+        {
+          "code": "72735",
+          "name": "Dead Flesh Matt",
+          "rgb": "C8BC8A",
+          "smooth": 0.0
+        },
+        {
+          "code": "72736",
+          "name": "Bronze Fleshtone Matt",
+          "rgb": "EF9849",
+          "smooth": 0.0
+        },
+        {
+          "code": "72740",
+          "name": "Leather Brown Matt",
+          "rgb": "855C26",
+          "smooth": 0.0
+        },
+        {
+          "code": "72741",
+          "name": "Dwarf Skin Matt",
+          "rgb": "D9916B",
+          "smooth": 0.0
+        },
+        {
+          "code": "72743",
+          "name": "Beasty Brown Matt",
+          "rgb": "7A543D",
+          "smooth": 0.0
+        },
+        {
+          "code": "72744",
+          "name": "Dark Fleshtone Matt",
+          "rgb": "5B4746",
+          "smooth": 0.0
+        },
+        {
+          "code": "72745",
+          "name": "Charred Brown Matt",
+          "rgb": "4E4442",
+          "smooth": 0.0
+        },
+        {
+          "code": "72747",
+          "name": "Wolf Grey Matt",
+          "rgb": "ACBDCD",
+          "smooth": 0.0
+        },
+        {
+          "code": "72748",
+          "name": "Sombre Grey Matt",
+          "rgb": "566777",
+          "smooth": 0.0
+        },
+        {
+          "code": "72749",
+          "name": "Stonewall Grey Matt",
+          "rgb": "A1A2A4",
+          "smooth": 0.0
+        },
+        {
+          "code": "72750",
+          "name": "Cold Grey Matt",
+          "rgb": "828385",
+          "smooth": 0.0
+        },
+        {
+          "code": "72751",
+          "name": "Black Matt",
+          "rgb": "010101",
+          "smooth": 0.0
+        },
+        {
+          "code": "72752",
+          "name": "Silver Matt",
+          "rgb": "A7ACB0",
+          "smooth": 0.0
+        },
+        {
+          "code": "72753",
+          "name": "Chainmail Silver Matt",
+          "rgb": "AEAEAE",
+          "smooth": 0.0
+        },
+        {
+          "code": "72754",
+          "name": "Gunmetal Matt",
+          "rgb": "6E6F71",
+          "smooth": 0.0
+        },
+        {
+          "code": "72755",
+          "name": "Polished Gold Matt",
+          "rgb": "EBAD00",
+          "smooth": 0.0
+        },
+        {
+          "code": "72756",
+          "name": "Glorious Gold Matt",
+          "rgb": "C4905E",
+          "smooth": 0.0
+        },
+        {
+          "code": "72757",
+          "name": "Bright Bronze Matt",
+          "rgb": "95664C",
+          "smooth": 0.0
+        },
+        {
+          "code": "72758",
+          "name": "Brassy Brass Matt",
+          "rgb": "A15323",
+          "smooth": 0.0
+        },
+        {
+          "code": "72761",
+          "name": "Khaki Matt",
+          "rgb": "AA9C75",
+          "smooth": 0.0
+        },
+        {
+          "code": "72762",
+          "name": "Earth Matt",
+          "rgb": "7B6848",
+          "smooth": 0.0
+        },
+        {
+          "code": "72763",
+          "name": "Desert Yellow Matt",
+          "rgb": "A8834E",
+          "smooth": 0.0
+        },
+        {
+          "code": "72769",
+          "name": "Flesh Matt",
+          "rgb": "F6BD92",
+          "smooth": 0.0
+        },
+        {
+          "code": "72770",
+          "name": "Burned Flesh Matt",
+          "rgb": "A16541",
+          "smooth": 0.0
+        },
+        {
+          "code": "72771",
+          "name": "Barbarian Flesh Matt",
+          "rgb": "A17C62",
+          "smooth": 0.0
+        },
+        {
+          "code": "72772",
+          "name": "Red Terracotta Matt",
+          "rgb": "79423D",
+          "smooth": 0.0
+        },
+        {
+          "code": "72776",
+          "name": "Alien Purple Matt",
+          "rgb": "6D62A6",
+          "smooth": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Game Color",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "72001",
+          "name": "Dead White",
           "rgb": "FFFFFF"
         },
         {
-          "code": "70601",
-          "name": "Grey (17ml) Primer",
-          "rgb": "B9BDC2"
-        },
-        {
-          "code": "70602",
-          "name": "Black (17ml) Primer",
-          "rgb": "000000"
-        },
-        {
-          "code": "70603",
-          "name": "German Panzer Grey (17ml) Primer",
-          "rgb": "3D4047"
-        },
-        {
-          "code": "70604",
-          "name": "German Dark Yellow (17ml) Primer",
-          "rgb": "8B7762"
-        },
-        {
-          "code": "70605",
-          "name": "German Red Brown (17ml) Primer",
-          "rgb": "5C3B39"
-        },
-        {
-          "code": "70606",
-          "name": "German Green Brown (17ml) Primer",
-          "rgb": "7D694B"
-        },
-        {
-          "code": "70607",
-          "name": "UK Bronze Green (17ml) Primer",
-          "rgb": "333C3B"
-        },
-        {
-          "code": "70608",
-          "name": "USA Olive Drab (17ml) Primer",
-          "rgb": "5D5C50"
-        },
-        {
-          "code": "70609",
-          "name": "Russian Green 4BO (17ml) Primer",
-          "rgb": "454B42"
-        },
-        {
-          "code": "70610",
-          "name": "Parched Grass (Late) (17ml) Primer",
-          "rgb": "6E664F"
-        },
-        {
-          "code": "70611",
-          "name": "Earth Green (Early) (17ml) Primer",
-          "rgb": "5E5532"
-        },
-        {
-          "code": "70612",
-          "name": "NATO Green (17ml) Primer",
-          "rgb": "435245"
-        },
-        {
-          "code": "70613",
-          "name": "Desert Tan (17ml) Primer",
-          "rgb": "D2BE93"
-        },
-        {
-          "code": "70614",
-          "name": "IDF Israeli Sand Grey (61-73) (17ml) Primer",
-          "rgb": "7F766D"
-        },
-        {
-          "code": "70615",
-          "name": "USN Light Ghost Grey (17ml) Primer",
-          "rgb": "919CA6"
-        },
-        {
-          "code": "70624",
-          "name": "Pure Red (17ml) Primer",
-          "rgb": "E5234A"
-        },
-        {
-          "code": "70625",
-          "name": "Ultramarine (17ml) Primer",
-          "rgb": "343494"
-        },
-        {
-          "code": "70626",
-          "name": "Leather Brown (17ml) Primer",
-          "rgb": "755422"
-        },
-        {
-          "code": "70627",
-          "name": "Skeleton Bone (17ml) Primer",
-          "rgb": "CDC09A"
-        },
-        {
-          "code": "70628",
-          "name": "Plate Mail Metal (17ml) Primer",
-          "rgb": "8C9AA1"
-        },
-        {
-          "code": "73600",
-          "name": "White (60ml) Primer",
+          "code": "72002",
+          "name": "White Primer",
           "rgb": "FFFFFF"
         },
         {
-          "code": "73601",
-          "name": "Grey (60ml) Primer",
-          "rgb": "B9BDC2"
+          "code": "72003",
+          "name": "Pale Flesh",
+          "rgb": "E9AD9A"
         },
         {
-          "code": "73602",
-          "name": "Black (60ml) Primer",
+          "code": "72004",
+          "name": "Elf Skintone",
+          "rgb": "DA9267"
+        },
+        {
+          "code": "72005",
+          "name": "Moon Yellow",
+          "rgb": "F4E305"
+        },
+        {
+          "code": "72006",
+          "name": "Sun Yellow",
+          "rgb": "F79210"
+        },
+        {
+          "code": "72007",
+          "name": "Gold Yellow",
+          "rgb": "F68514"
+        },
+        {
+          "code": "72008",
+          "name": "Orange Fire",
+          "rgb": "F05720"
+        },
+        {
+          "code": "72009",
+          "name": "Hot Orange",
+          "rgb": "F1402D"
+        },
+        {
+          "code": "72010",
+          "name": "Bloody Red (Game Color)",
+          "rgb": "BF1134"
+        },
+        {
+          "code": "72011",
+          "name": "Gory Red",
+          "rgb": "6A2F38"
+        },
+        {
+          "code": "72012",
+          "name": "Scarlet Red",
+          "rgb": "971631"
+        },
+        {
+          "code": "72013",
+          "name": "Squid Pink",
+          "rgb": "CD6FBE"
+        },
+        {
+          "code": "72014",
+          "name": "Warlord Purple",
+          "rgb": "AE1F7F"
+        },
+        {
+          "code": "72015",
+          "name": "Hexed Lichen",
+          "rgb": "4E2F8F"
+        },
+        {
+          "code": "72016",
+          "name": "Royal Purple",
+          "rgb": "403D63"
+        },
+        {
+          "code": "72019",
+          "name": "Night Blue",
+          "rgb": "323242"
+        },
+        {
+          "code": "72020",
+          "name": "Imperial Blue",
+          "rgb": "344464"
+        },
+        {
+          "code": "72021",
+          "name": "Magic Blue",
+          "rgb": "346EBF"
+        },
+        {
+          "code": "72022",
+          "name": "Ultramarine Blue",
+          "rgb": "335696"
+        },
+        {
+          "code": "72023",
+          "name": "Electric Blue",
+          "rgb": "4897BC"
+        },
+        {
+          "code": "72024",
+          "name": "Turquoise",
+          "rgb": "2A8697"
+        },
+        {
+          "code": "72025",
+          "name": "Foul Green",
+          "rgb": "46A884"
+        },
+        {
+          "code": "72026",
+          "name": "Jade Green",
+          "rgb": "0E8E76"
+        },
+        {
+          "code": "72027",
+          "name": "Scurvy Green",
+          "rgb": "2D5250"
+        },
+        {
+          "code": "72028",
+          "name": "Dark Green",
+          "rgb": "303D38"
+        },
+        {
+          "code": "72029",
+          "name": "Sick Green",
+          "rgb": "446B50"
+        },
+        {
+          "code": "72030",
+          "name": "Goblin Green",
+          "rgb": "5B6C41"
+        },
+        {
+          "code": "72031",
+          "name": "Camouflage Green",
+          "rgb": "7C7339"
+        },
+        {
+          "code": "72032",
+          "name": "Scorpy Green",
+          "rgb": "64B04D"
+        },
+        {
+          "code": "72034",
+          "name": "Bonewhite",
+          "rgb": "C9B686"
+        },
+        {
+          "code": "72035",
+          "name": "Dead Flesh",
+          "rgb": "A59A64"
+        },
+        {
+          "code": "72036",
+          "name": "Bronze Fleshtone",
+          "rgb": "BD7841"
+        },
+        {
+          "code": "72038",
+          "name": "Scrofulous Brown",
+          "rgb": "B26C2D"
+        },
+        {
+          "code": "72039",
+          "name": "Plague Brown",
+          "rgb": "C9861A"
+        },
+        {
+          "code": "72040",
+          "name": "Leather Brown",
+          "rgb": "775837"
+        },
+        {
+          "code": "72041",
+          "name": "Dwarf Skin",
+          "rgb": "D3805F"
+        },
+        {
+          "code": "72042",
+          "name": "Parasite Brown",
+          "rgb": "99471D"
+        },
+        {
+          "code": "72043",
+          "name": "Beasty Brown",
+          "rgb": "694B3A"
+        },
+        {
+          "code": "72044",
+          "name": "Dark Fleshtone",
+          "rgb": "523634"
+        },
+        {
+          "code": "72045",
+          "name": "Charred Brown",
+          "rgb": "403637"
+        },
+        {
+          "code": "72047",
+          "name": "Wolf Grey",
+          "rgb": "A4BACA"
+        },
+        {
+          "code": "72048",
+          "name": "Sombre Grey",
+          "rgb": "586482"
+        },
+        {
+          "code": "72049",
+          "name": "Stonewall Grey",
+          "rgb": "93969C"
+        },
+        {
+          "code": "72050",
+          "name": "Cold Grey/Neutral Grey",
+          "rgb": "71737C"
+        },
+        {
+          "code": "72051",
+          "name": "Black (Game Color)",
           "rgb": "000000"
         },
         {
-          "code": "73603",
-          "name": "German Panzer Grey (60ml) Primer",
-          "rgb": "3D4047"
+          "code": "72052",
+          "name": "Silver (Game Color)",
+          "rgb": "A7ACB0"
         },
         {
-          "code": "73604",
-          "name": "German Dark Yellow (60ml) Primer",
-          "rgb": "8B7762"
+          "code": "72053",
+          "name": "Chainmail Silver",
+          "rgb": "71737C"
         },
         {
-          "code": "73605",
-          "name": "German Red Brown (60ml) Primer",
-          "rgb": "5C3B39"
+          "code": "72054",
+          "name": "Gunmetal (Game Color)",
+          "rgb": "636365"
         },
         {
-          "code": "73606",
-          "name": "German Green Brown (60ml) Primer",
-          "rgb": "7D694B"
+          "code": "72055",
+          "name": "Polished Gold",
+          "rgb": "E9A211"
         },
         {
-          "code": "73607",
-          "name": "UK Bronze Green (60ml) Primer",
-          "rgb": "333C3B"
+          "code": "72056",
+          "name": "Glorious Gold",
+          "rgb": "8D6330"
         },
         {
-          "code": "73608",
-          "name": "USA Olive Drab (60ml) Primer",
-          "rgb": "5D5C50"
+          "code": "72057",
+          "name": "Bright Bronze",
+          "rgb": "885A47"
         },
         {
-          "code": "73609",
-          "name": "Russian Green 4BO (60ml) Primer",
-          "rgb": "454B42"
+          "code": "72058",
+          "name": "Brassy Brass",
+          "rgb": "774934"
         },
         {
-          "code": "73610",
-          "name": "Parched Grass (Late) (60ml) Primer",
-          "rgb": "6E664F"
+          "code": "72059",
+          "name": "Hammered Copper",
+          "rgb": "6C3B31"
         },
         {
-          "code": "73611",
-          "name": "Earth Green (Early) (60ml) Primer",
-          "rgb": "5E5532"
+          "code": "72061",
+          "name": "Khaki",
+          "rgb": "9A9569"
         },
         {
-          "code": "73612",
-          "name": "NATO Green (60ml) Primer",
-          "rgb": "435245"
+          "code": "72062",
+          "name": "Earth",
+          "rgb": "6B5741"
         },
         {
-          "code": "73613",
-          "name": "Desert Tan (60ml) Primer",
-          "rgb": "D2BE93"
+          "code": "72063",
+          "name": "Desert Yellow",
+          "rgb": "898041"
         },
         {
-          "code": "73614",
-          "name": "IDF Israeli Sand Grey (61-73) (60ml) Primer",
-          "rgb": "7F766D"
+          "code": "72066",
+          "name": "Tan",
+          "rgb": "A04B4A"
         },
         {
-          "code": "73615",
-          "name": "USN Light Ghost Grey (60ml) Primer",
-          "rgb": "919CA6"
+          "code": "72067",
+          "name": "Cayman Green",
+          "rgb": "4F5140"
         },
         {
-          "code": "73624",
-          "name": "Pure Red (60ml) Primer",
-          "rgb": "E5234A"
+          "code": "72071",
+          "name": "Barbarian Skin",
+          "rgb": "997851"
         },
         {
-          "code": "73625",
-          "name": "Ultramarine (60ml) Primer",
-          "rgb": "343494"
+          "code": "72076",
+          "name": "Alien Purple",
+          "rgb": "665AB2"
         },
         {
-          "code": "73626",
-          "name": "Leather Brown (60ml) Primer",
-          "rgb": "755422"
+          "code": "72100",
+          "name": "Rosy Flesh",
+          "rgb": "EF7D7F"
         },
         {
-          "code": "73627",
-          "name": "Skeleton Bone (60ml) Primer",
-          "rgb": "CDC09A"
+          "code": "72102",
+          "name": "Steel Grey",
+          "rgb": "44647F"
         },
         {
-          "code": "73628",
-          "name": "Plate Mail Metal (60ml) Primer",
-          "rgb": "8C9AA1"
+          "code": "72106",
+          "name": "Scarlett Blood",
+          "rgb": "A42E38"
         },
         {
-          "code": "73660",
-          "name": "Gloss Black (60ml) Primer",
-          "rgb": "000000"
+          "code": "72107",
+          "name": "Athena Skin",
+          "rgb": "BD634F"
         },
         {
-          "code": "74600",
-          "name": "White (200ml) Primer",
-          "rgb": "FFFFFF"
+          "code": "72109",
+          "name": "Toxic Yellow",
+          "rgb": "DDD446"
         },
         {
-          "code": "74601",
-          "name": "Grey (200ml) Primer",
-          "rgb": "B9BDC2"
+          "code": "72111",
+          "name": "Nocturnal Red",
+          "rgb": "491724"
         },
         {
-          "code": "74602",
-          "name": "Black (200ml) Primer",
-          "rgb": "000000"
+          "code": "72114",
+          "name": "Lustful Purple",
+          "rgb": "AF76C0"
         },
         {
-          "code": "74603",
-          "name": "German Panzer Grey (200ml) Primer",
-          "rgb": "3D4047"
+          "code": "72116",
+          "name": "Midnight Purple",
+          "rgb": "251B31"
         },
         {
-          "code": "74604",
-          "name": "German Dark Yellow (200ml) Primer",
-          "rgb": "8B7762"
+          "code": "72117",
+          "name": "Elfic Blue",
+          "rgb": "4A6081"
         },
         {
-          "code": "74605",
-          "name": "German Red Brown (200ml) Primer",
-          "rgb": "5C3B39"
+          "code": "72118",
+          "name": "Sunrise Blue",
+          "rgb": "73D0EC"
         },
         {
-          "code": "74606",
-          "name": "German Green Brown (200ml) Primer",
-          "rgb": "7D694B"
+          "code": "72120",
+          "name": "Abyssal Turquoise",
+          "rgb": "21415A"
         },
         {
-          "code": "74607",
-          "name": "UK Bronze Green (200ml) Primer",
-          "rgb": "333C3B"
+          "code": "72121",
+          "name": "Ghost Green",
+          "rgb": "76CA8A"
         },
         {
-          "code": "74608",
-          "name": "USA Olive Drab (200ml) Primer",
-          "rgb": "5D5C50"
+          "code": "72122",
+          "name": "Bile Green",
+          "rgb": "C2E11C"
         },
         {
-          "code": "74609",
-          "name": "Russian Green 4BO (200ml) Primer",
-          "rgb": "454B42"
+          "code": "72123",
+          "name": "Angel Green",
+          "rgb": "1A2F22"
         },
         {
-          "code": "74610",
-          "name": "Parched Grass (Late) (200ml) Primer",
-          "rgb": "6E664F"
+          "code": "72124",
+          "name": "Gorgon Brown",
+          "rgb": "4D2925"
         },
         {
-          "code": "74611",
-          "name": "Earth Green (Early) (200ml) Primer",
-          "rgb": "5E5532"
+          "code": "73209",
+          "name": "VIOLET (WASH)",
+          "rgb": "2D2031"
+        }
+      ]
+    },
+    {
+      "name": "Game Color Effects",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "72130",
+          "name": "Rotten White Effect",
+          "rgb": "EFEDEE"
         },
         {
-          "code": "74612",
-          "name": "NATO Green (200ml) Primer",
-          "rgb": "435245"
+          "code": "72131",
+          "name": "Rust Effect",
+          "rgb": "E45314"
         },
         {
-          "code": "74613",
-          "name": "Desert Tan (200ml) Primer",
-          "rgb": "D2BE93"
+          "code": "72132",
+          "name": "Fresh Blood Effect",
+          "rgb": "7E2B1B"
         },
         {
-          "code": "74614",
-          "name": "IDF Israeli Sand Grey (61-73) (200ml) Primer",
-          "rgb": "7F766D"
+          "code": "72133",
+          "name": "Dried Blood Effect",
+          "rgb": "622A1D"
         },
         {
-          "code": "74615",
-          "name": "USN Light Ghost Grey (200ml) Primer",
-          "rgb": "919CA6"
+          "code": "72134",
+          "name": "Vomit Effect",
+          "rgb": "847C33"
         },
         {
-          "code": "74624",
-          "name": "Pure Red (200ml) Primer",
-          "rgb": "E5234A"
+          "code": "72135",
+          "name": "Verdigris Effect",
+          "rgb": "91CBCC"
         },
         {
-          "code": "74625",
-          "name": "Ultramarine (200ml) Primer",
-          "rgb": "343494"
+          "code": "72136",
+          "name": "Dry Rust Effect",
+          "rgb": "5F322D"
+        }
+      ]
+    },
+    {
+      "name": "Game Color Extra Opaque",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "72140",
+          "name": "Heavy Skintone Extra Opaque",
+          "rgb": "AD8468"
         },
         {
-          "code": "74626",
-          "name": "Leather Brown (200ml) Primer",
-          "rgb": "755422"
+          "code": "72141",
+          "name": "Heavy Red Extra Opaque",
+          "rgb": "8D363C"
         },
         {
-          "code": "74627",
-          "name": "Skeleton Bone (200ml) Primer",
-          "rgb": "CDC09A"
+          "code": "72142",
+          "name": "Heavy Violet Extra Opaque",
+          "rgb": "484069"
         },
         {
-          "code": "74628",
-          "name": "Plate Mail Metal (200ml) Primer",
-          "rgb": "8C9AA1"
+          "code": "72143",
+          "name": "Heavy Blue Extra Opaque",
+          "rgb": "405B78"
         },
         {
-          "code": "74660",
-          "name": "Gloss Black (200ml) Primer",
-          "rgb": "000000"
+          "code": "72144",
+          "name": "Heavy Bluegrey Extra Opaque",
+          "rgb": "CBCAC8"
         },
         {
-          "code": "77660",
-          "name": "Gloss Black (32ml) Primer",
-          "rgb": "000000"
+          "code": "72145",
+          "name": "Heavy Grey Extra Opaque",
+          "rgb": "707354"
+        },
+        {
+          "code": "72146",
+          "name": "Heavy Green Extra Opaque",
+          "rgb": "556536"
+        },
+        {
+          "code": "72147",
+          "name": "Heavy Blackgreen Extra Opaque",
+          "rgb": "3F4843"
+        },
+        {
+          "code": "72148",
+          "name": "Heavy Warmgrey Extra Opaque",
+          "rgb": "AA9C75"
+        },
+        {
+          "code": "72149",
+          "name": "Heavy Khaki Extra Opaque",
+          "rgb": "B49F50"
+        },
+        {
+          "code": "72150",
+          "name": "Heavy Ochre Extra Opaque",
+          "rgb": "AE7727"
+        },
+        {
+          "code": "72151",
+          "name": "Heavy Goldbrown Extra Opaque",
+          "rgb": "B68646"
+        },
+        {
+          "code": "72152",
+          "name": "Heavy Orange Extra Opaque",
+          "rgb": "EB5E0F"
+        },
+        {
+          "code": "72153",
+          "name": "Heavy Brown Extra Opaque",
+          "rgb": "7B674E"
+        },
+        {
+          "code": "72154",
+          "name": "Heavy Siena Extra Opaque",
+          "rgb": "5E483B"
+        },
+        {
+          "code": "72155",
+          "name": "Heavy Charcoal Extra Opaque",
+          "rgb": "464650"
+        }
+      ]
+    },
+    {
+      "name": "Game Color Ink",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "72085",
+          "name": "Yellow Ink",
+          "rgb": "FED346"
+        },
+        {
+          "code": "72086",
+          "name": "Red Ink",
+          "rgb": "E53238"
+        },
+        {
+          "code": "72087",
+          "name": "Violet Ink",
+          "rgb": "692D85"
+        },
+        {
+          "code": "72088",
+          "name": "Blue Ink",
+          "rgb": "004C9A"
+        },
+        {
+          "code": "72089",
+          "name": "Green Ink",
+          "rgb": "3DAA67"
+        },
+        {
+          "code": "72090",
+          "name": "Black Green Ink",
+          "rgb": "10644A"
+        },
+        {
+          "code": "72091",
+          "name": "Sepia Ink",
+          "rgb": "9B6F28"
+        },
+        {
+          "code": "72092",
+          "name": "Brown Ink",
+          "rgb": "9A632B"
+        },
+        {
+          "code": "72093",
+          "name": "Skin Wash Ink",
+          "rgb": "C56F18"
+        },
+        {
+          "code": "72094",
+          "name": "Black Ink",
+          "rgb": "282722"
+        }
+      ]
+    },
+    {
+      "name": "Game Color Washes",
+      "type": "Acrylic",
+      "colors": [
+        {
+          "code": "73200",
+          "name": "Sepia Wash",
+          "rgb": "7F561B"
+        },
+        {
+          "code": "73201",
+          "name": "Black Wash",
+          "rgb": "231F20"
+        },
+        {
+          "code": "73202",
+          "name": "Pale Grey Wash",
+          "rgb": "BFC0C3"
+        },
+        {
+          "code": "73203",
+          "name": "Umber Wash",
+          "rgb": "684F40"
+        },
+        {
+          "code": "73204",
+          "name": "Flesh Wash",
+          "rgb": "AF6F65"
+        },
+        {
+          "code": "73205",
+          "name": "Green Wash",
+          "rgb": "65B561"
+        },
+        {
+          "code": "73206",
+          "name": "Red Wash",
+          "rgb": "D15880"
+        },
+        {
+          "code": "73207",
+          "name": "Blue Wash",
+          "rgb": "005595"
         }
       ]
     },
@@ -797,1224 +1393,99 @@
       ]
     },
     {
-      "name": "Model Color Acrylic",
+      "name": "Metal Color",
       "type": "Acrylic",
       "colors": [
         {
-          "code": "70730",
-          "name": "Yellow 206 Fluorescent",
-          "rgb": "EFE641",
-          "refl": "Fluorescent"
+          "code": "77657",
+          "name": "Varnish Gloss Metal",
+          "rgb": "FFFFFF"
         },
         {
-          "code": "70733",
-          "name": "Orange 207 Fluorescent",
-          "rgb": "E86016",
-          "refl": "Fluorescent"
+          "code": "77701",
+          "name": "Aluminium Metal",
+          "rgb": "B0ADAB"
         },
         {
-          "code": "70735",
-          "name": "Magenta 208 Fluorescent",
-          "rgb": "E7418D",
-          "refl": "Fluorescent"
+          "code": "77702",
+          "name": "Duraluminium Metal",
+          "rgb": "928F92"
         },
         {
-          "code": "70736",
-          "name": "Blue 209 Fluorescent",
-          "rgb": "0370B1",
-          "refl": "Fluorescent"
+          "code": "77703",
+          "name": "Dark Aluminium Metal",
+          "rgb": "A2A0A2"
         },
         {
-          "code": "70737",
-          "name": "Green 210 Fluorescent",
-          "rgb": "A8C958",
-          "refl": "Fluorescent"
+          "code": "77704",
+          "name": "Pale Burnt Metal Metal",
+          "rgb": "9C9B9A"
         },
         {
-          "code": "70790",
-          "name": "Silvergrey 211 Metal",
-          "rgb": "EBECF0"
+          "code": "77706",
+          "name": "White Aluminium Metal",
+          "rgb": "ACAFB3"
         },
         {
-          "code": "70791",
-          "name": "Gold 212 Metal",
-          "rgb": "C6B5A1"
+          "code": "77707",
+          "name": "Chrome Metal",
+          "rgb": "A0A09E"
         },
         {
-          "code": "70792",
-          "name": "Old Gold 213 Metal",
-          "rgb": "D2C167"
+          "code": "77710",
+          "name": "Copper Metal",
+          "rgb": "90705E"
         },
         {
-          "code": "70793",
-          "name": "Rich Gold 214 Metal",
-          "rgb": "BB9F56"
+          "code": "77711",
+          "name": "Magnesium Metal",
+          "rgb": "6E696A"
         },
         {
-          "code": "70794",
-          "name": "Red Gold 215 Metal",
-          "rgb": "D9A55A"
+          "code": "77712",
+          "name": "Steel Metal",
+          "rgb": "565553"
         },
         {
-          "code": "70795",
-          "name": "Green Gold 216 Metal",
-          "rgb": "A59250"
+          "code": "77713",
+          "name": "Jet Exhaust Metal",
+          "rgb": "A1A0A2"
         },
         {
-          "code": "70796",
-          "name": "White Gold 217 Metal",
-          "rgb": "E6E7E9"
-        },
-        {
-          "code": "70797",
-          "name": "Copper 218 Metal",
-          "rgb": "B06A48"
-        },
-        {
-          "code": "70800",
-          "name": "Gunmetal Blue 180 Metallic",
-          "rgb": "2F4A5D",
-          "refl": "Metallic"
-        },
-        {
-          "code": "70801",
-          "name": "Brass 174 Metallic",
-          "rgb": "976F31",
-          "refl": "Metallic"
-        },
-        {
-          "code": "70802",
-          "name": "Sunset Red 41 Matt",
-          "rgb": "BE3964",
-          "smooth": 0.0
-        },
-        {
-          "code": "70803",
-          "name": "Brown Rose 38 Matt",
-          "rgb": "B38585",
-          "smooth": 0.0
-        },
-        {
-          "code": "70804",
-          "name": "Beige Red 36 Matt",
-          "rgb": "BB886D",
-          "smooth": 0.0
-        },
-        {
-          "code": "70805",
-          "name": "German Orange 23 Matt",
-          "rgb": "D08474",
-          "smooth": 0.0
-        },
-        {
-          "code": "70806",
-          "name": "German Yellow 12 Matt",
-          "rgb": "CBBE78",
-          "smooth": 0.0
-        },
-        {
-          "code": "70807",
-          "name": "Oxford Blue 49 Matt",
-          "rgb": "4D4D6F",
-          "smooth": 0.0
-        },
-        {
-          "code": "70808",
-          "name": "Blue Green 70 Matt",
-          "rgb": "009B9F",
-          "smooth": 0.0
-        },
-        {
-          "code": "70809",
-          "name": "Royal Blue 54 Matt",
-          "rgb": "275C8E",
-          "smooth": 0.0
-        },
-        {
-          "code": "70810",
-          "name": "Royal Purple 45 Matt",
-          "rgb": "543F5E",
-          "smooth": 0.0
-        },
-        {
-          "code": "70811",
-          "name": "Blue Violet 46 Matt",
-          "rgb": "7168A7",
-          "smooth": 0.0
-        },
-        {
-          "code": "70812",
-          "name": "Violet Red 43 Matt",
-          "rgb": "6E263E",
-          "smooth": 0.0
-        },
-        {
-          "code": "70814",
-          "name": "Burnt Red 34 Matt",
-          "rgb": "65423E",
-          "smooth": 0.0
-        },
-        {
-          "code": "70815",
-          "name": "Basic Skintone 17 Matt",
-          "rgb": "F0BAA0",
-          "smooth": 0.0
-        },
-        {
-          "code": "70816",
-          "name": "Luftwaffe Uniform WWII 105 Matt",
-          "rgb": "4F5467",
-          "smooth": 0.0
-        },
-        {
-          "code": "70817",
-          "name": "Scarlet 26 Matt",
-          "rgb": "BC4040",
-          "smooth": 0.0
-        },
-        {
-          "code": "70818",
-          "name": "Red Leather 136 Matt",
-          "rgb": "8E5840",
-          "smooth": 0.0
-        },
-        {
-          "code": "70819",
-          "name": "Iraqui Sand 124 Matt",
-          "rgb": "BC9E7C",
-          "smooth": 0.0
-        },
-        {
-          "code": "70820",
-          "name": "Offwhite 4 Matt",
-          "rgb": "EBEBE3",
-          "smooth": 0.0
-        },
-        {
-          "code": "70821",
-          "name": "German Camouflage Beige WWII 103 Matt",
-          "rgb": "8E8671",
-          "smooth": 0.0
-        },
-        {
-          "code": "70822",
-          "name": "German Camouflage Black Brown 150 Matt",
-          "rgb": "474141",
-          "smooth": 0.0
-        },
-        {
-          "code": "70823",
-          "name": "Luftwaffe Camouflage Green 86 Matt",
-          "rgb": "475146",
-          "smooth": 0.0
-        },
-        {
-          "code": "70824",
-          "name": "German Camouflage Orange Ochre 128 Matt",
-          "rgb": "A37D4C",
-          "smooth": 0.0
-        },
-        {
-          "code": "70825",
-          "name": "German Camouflage Pale Brown 144 Matt",
-          "rgb": "7D6857",
-          "smooth": 0.0
-        },
-        {
-          "code": "70826",
-          "name": "German Camouflage Med. Brown 145 Matt",
-          "rgb": "625141",
-          "smooth": 0.0
-        },
-        {
-          "code": "70827",
-          "name": "Lime Green 77 Matt",
-          "rgb": "8C9441",
-          "smooth": 0.0
-        },
-        {
-          "code": "70828",
-          "name": "Wookgrain 182 Transparent",
-          "rgb": "4B3D34"
-        },
-        {
-          "code": "70829",
-          "name": "Amaranth Red 130 Matt",
-          "rgb": "BD533B",
-          "smooth": 0.0
-        },
-        {
-          "code": "70830",
-          "name": "German Fieldgrey WWII 102 Matt",
-          "rgb": "5F5F57",
-          "smooth": 0.0
-        },
-        {
-          "code": "70831",
-          "name": "Tan 203 Glaze",
-          "rgb": "D59335"
-        },
-        {
-          "code": "70832",
-          "name": "Verdigris 202 Glaze",
-          "rgb": "99D0CA"
-        },
-        {
-          "code": "70833",
-          "name": "German Camouflage Bright Green 80 Matt",
-          "rgb": "5C704B",
-          "smooth": 0.0
-        },
-        {
-          "code": "70834",
-          "name": "Natural Wood Grain 183 Transparent",
-          "rgb": "EAA432"
-        },
-        {
-          "code": "70835",
-          "name": "Salmon Rose 37 Matt",
-          "rgb": "F1AFA1",
-          "smooth": 0.0
-        },
-        {
-          "code": "70836",
-          "name": "London Grey 161 Matt",
-          "rgb": "626973",
-          "smooth": 0.0
-        },
-        {
-          "code": "70837",
-          "name": "Pale Sand 7 Matt",
-          "rgb": "F5D8B6",
-          "smooth": 0.0
-        },
-        {
-          "code": "70838",
-          "name": "Emerald 71 Matt",
-          "rgb": "00855A",
-          "smooth": 0.0
-        },
-        {
-          "code": "70839",
-          "name": "Ultramarine 55 Matt",
-          "rgb": "2E549D",
-          "smooth": 0.0
-        },
-        {
-          "code": "70840",
-          "name": "Light Turquoise 68 Matt",
-          "rgb": "0190A0",
-          "smooth": 0.0
-        },
-        {
-          "code": "70841",
-          "name": "Andrea Blue 65 Matt",
-          "rgb": "0C97C2",
-          "smooth": 0.0
-        },
-        {
-          "code": "70842",
-          "name": "Gloss White 3 Matt",
-          "rgb": "F5F3F4",
-          "smooth": 0.0
-        },
-        {
-          "code": "70843",
-          "name": "Cork Brown 133 Matt",
-          "rgb": "A6775B",
-          "smooth": 0.0
-        },
-        {
-          "code": "70844",
-          "name": "Deep Sky Blue 66 Matt",
-          "rgb": "42AEDC",
-          "smooth": 0.0
-        },
-        {
-          "code": "70845",
-          "name": "Sunny Skin Tone 20 Matt",
-          "rgb": "EAAF77",
-          "smooth": 0.0
-        },
-        {
-          "code": "70846",
-          "name": "Mahogany Brown 139 Matt",
-          "rgb": "74534A",
-          "smooth": 0.0
-        },
-        {
-          "code": "70847",
-          "name": "Dark Sand 123 Matt",
-          "rgb": "D0B182",
-          "smooth": 0.0
-        },
-        {
-          "code": "70850",
-          "name": "Medium Olive 81 Matt",
-          "rgb": "2B6C2A",
-          "smooth": 0.0
-        },
-        {
-          "code": "70851",
-          "name": "Bright Orange 24 Matt",
-          "rgb": "E85F2B",
-          "smooth": 0.0
-        },
-        {
-          "code": "70853",
-          "name": "White 201 Glaze",
-          "rgb": "F4F4F6"
-        },
-        {
-          "code": "70854",
-          "name": "Brown 204 Glaze",
-          "rgb": "4E403D"
-        },
-        {
-          "code": "70855",
-          "name": "Black 205 Glaze",
-          "rgb": "383838"
-        },
-        {
-          "code": "70856",
-          "name": "Ochre Brown 127 Matt",
-          "rgb": "AE7727",
-          "smooth": 0.0
-        },
-        {
-          "code": "70857",
-          "name": "Golden Olive 79 Matt",
-          "rgb": "818145",
-          "smooth": 0.0
-        },
-        {
-          "code": "70858",
-          "name": "Ice Yellow 13 Matt",
-          "rgb": "F7D897",
-          "smooth": 0.0
-        },
-        {
-          "code": "70859",
-          "name": "Black Red 35 Matt",
-          "rgb": "513939",
-          "smooth": 0.0
-        },
-        {
-          "code": "70860",
-          "name": "Medium Fleshtone 21 Matt",
-          "rgb": "BC854D",
-          "smooth": 0.0
-        },
-        {
-          "code": "70861",
-          "name": "Glossy Black 170 Matt",
-          "rgb": "151515",
-          "smooth": 0.0
-        },
-        {
-          "code": "70862",
-          "name": "Black Grey 168 Matt",
-          "rgb": "48494B",
-          "smooth": 0.0
-        },
-        {
-          "code": "70863",
-          "name": "Gunmetal Grey 179 Metallic",
-          "rgb": "646760",
-          "refl": "Metallic"
-        },
-        {
-          "code": "70864",
-          "name": "Natural Steel 178 Metallic",
-          "rgb": "888981",
-          "refl": "Metallic"
-        },
-        {
-          "code": "70865",
-          "name": "Oily Steel 177 Metallic",
-          "rgb": "727375",
-          "refl": "Metallic"
-        },
-        {
-          "code": "70866",
-          "name": "Grey Green 165 Matt",
-          "rgb": "5A5B5D",
-          "smooth": 0.0
-        },
-        {
-          "code": "70867",
-          "name": "Dark Bluegrey 164 Matt",
-          "rgb": "49534A",
-          "smooth": 0.0
-        },
-        {
-          "code": "70868",
-          "name": "Dark Seagreen 163 Matt",
-          "rgb": "535762",
-          "smooth": 0.0
-        },
-        {
-          "code": "70869",
-          "name": "Basalt Grey 162 Matt",
-          "rgb": "646871",
-          "smooth": 0.0
-        },
-        {
-          "code": "70870",
-          "name": "Medium Sea Grey 158 Matt",
-          "rgb": "828385",
-          "smooth": 0.0
-        },
-        {
-          "code": "70871",
-          "name": "Leather Brown 147 Matt",
-          "rgb": "5C4F46",
-          "smooth": 0.0
-        },
-        {
-          "code": "70872",
-          "name": "Chocolate Brown 149 Matt",
-          "rgb": "564C42",
-          "smooth": 0.0
-        },
-        {
-          "code": "70873",
-          "name": "US Field Drab 142 Matt",
-          "rgb": "7B674E",
-          "smooth": 0.0
-        },
-        {
-          "code": "70874",
-          "name": "Tan Earth 134 Matt",
-          "rgb": "917359",
-          "smooth": 0.0
-        },
-        {
-          "code": "70875",
-          "name": "Beige Brown 135 Matt",
-          "rgb": "937962",
-          "smooth": 0.0
-        },
-        {
-          "code": "70876",
-          "name": "Brown Sand 132 Matt",
-          "rgb": "A1775F",
-          "smooth": 0.0
-        },
-        {
-          "code": "70877",
-          "name": "Goldbrown 126 Matt",
-          "rgb": "B68646",
-          "smooth": 0.0
-        },
-        {
-          "code": "70878",
-          "name": "Old Gold 173 Metallic",
-          "rgb": "9C8448",
-          "refl": "Metallic"
-        },
-        {
-          "code": "70879",
-          "name": "Green Brown 114 Matt",
-          "rgb": "846D43",
-          "smooth": 0.0
-        },
-        {
-          "code": "70880",
-          "name": "Khaki Grey 113 Matt",
-          "rgb": "856D49",
-          "smooth": 0.0
-        },
-        {
-          "code": "70881",
-          "name": "Yellow Green 112 Matt",
-          "rgb": "756C43",
-          "smooth": 0.0
-        },
-        {
-          "code": "70882",
-          "name": "Middle Stone 118 Matt",
-          "rgb": "937E4F",
-          "smooth": 0.0
-        },
-        {
-          "code": "70883",
-          "name": "Silver Grey 152 Matt",
-          "rgb": "CAC6BA",
-          "smooth": 0.0
-        },
-        {
-          "code": "70884",
-          "name": "Stone Grey 104 Matt",
-          "rgb": "A09883",
-          "smooth": 0.0
-        },
-        {
-          "code": "70885",
-          "name": "Pastel Green 109 Matt",
-          "rgb": "A3A691",
-          "smooth": 0.0
-        },
-        {
-          "code": "70886",
-          "name": "Green Grey 101 Matt",
-          "rgb": "75756D",
-          "smooth": 0.0
-        },
-        {
-          "code": "70887",
-          "name": "Brown Violet 93 Matt",
-          "rgb": "605947",
-          "smooth": 0.0
-        },
-        {
-          "code": "70888",
-          "name": "Olive Grey 92 Matt",
-          "rgb": "545547",
-          "smooth": 0.0
-        },
-        {
-          "code": "70889",
-          "name": "US Olive Drab 91 Matt",
-          "rgb": "514C48",
-          "smooth": 0.0
-        },
-        {
-          "code": "70890",
-          "name": "Reflective Green 90 Matt",
-          "rgb": "555742",
-          "smooth": 0.0
-        },
-        {
-          "code": "70891",
-          "name": "Intermediate Green 74 Matt",
-          "rgb": "448B3D",
-          "smooth": 0.0
-        },
-        {
-          "code": "70892",
-          "name": "Yellow Olive 87 Matt",
-          "rgb": "4E5148",
-          "smooth": 0.0
-        },
-        {
-          "code": "70893",
-          "name": "US Dark Green 95 Matt",
-          "rgb": "57574F",
-          "smooth": 0.0
-        },
-        {
-          "code": "70894",
-          "name": "Camouflage Olive Green 96 Matt",
-          "rgb": "525345",
-          "smooth": 0.0
-        },
-        {
-          "code": "70895",
-          "name": "Gunship Green 88 Matt",
-          "rgb": "526257",
-          "smooth": 0.0
-        },
-        {
-          "code": "70896",
-          "name": "German Camouflage Extra Dark Green 99 Matt",
-          "rgb": "484A47",
-          "smooth": 0.0
-        },
-        {
-          "code": "70897",
-          "name": "Bronce Green 98 Matt",
-          "rgb": "505251",
-          "smooth": 0.0
-        },
-        {
-          "code": "70898",
-          "name": "Dark Sea Blue 48 Matt",
-          "rgb": "41454E",
-          "smooth": 0.0
-        },
-        {
-          "code": "70899",
-          "name": "Dark Prussian Blue 50 Matt",
-          "rgb": "0F2B39",
-          "smooth": 0.0
-        },
-        {
-          "code": "70900",
-          "name": "French Mirage Blue 59 Matt",
-          "rgb": "606672",
-          "smooth": 0.0
-        },
-        {
-          "code": "70901",
-          "name": "Pastel Blue 63 Matt",
-          "rgb": "6A8795",
-          "smooth": 0.0
-        },
-        {
-          "code": "70902",
-          "name": "Azure 62 Matt",
-          "rgb": "6B8DBB",
-          "smooth": 0.0
-        },
-        {
-          "code": "70903",
-          "name": "Intermediate Blue 60 Matt",
-          "rgb": "656C76",
-          "smooth": 0.0
-        },
-        {
-          "code": "70904",
-          "name": "Dark Blue Grey 157 Matt",
-          "rgb": "6D8589",
-          "smooth": 0.0
-        },
-        {
-          "code": "70905",
-          "name": "Bluegrey Pale 156 Matt",
-          "rgb": "828993",
-          "smooth": 0.0
-        },
-        {
-          "code": "70906",
-          "name": "Pale Blue 64 Matt",
-          "rgb": "99A9A6",
-          "smooth": 0.0
-        },
-        {
-          "code": "70907",
-          "name": "Greyblue 153 Matt",
-          "rgb": "A5B4BB",
-          "smooth": 0.0
-        },
-        {
-          "code": "70908",
-          "name": "Carmine Red 30 Matt",
-          "rgb": "B51927",
-          "smooth": 0.0
-        },
-        {
-          "code": "70909",
-          "name": "Vermillion 28 Matt",
-          "rgb": "CE1A23",
-          "smooth": 0.0
-        },
-        {
-          "code": "70910",
-          "name": "Orange Red 27 Matt",
-          "rgb": "DC4319",
-          "smooth": 0.0
-        },
-        {
-          "code": "70911",
-          "name": "Light Orange 22 Matt",
-          "rgb": "F1873D",
-          "smooth": 0.0
-        },
-        {
-          "code": "70912",
-          "name": "Tan Yellow 122 Matt",
-          "rgb": "C19B6E",
-          "smooth": 0.0
-        },
-        {
-          "code": "70913",
-          "name": "Yellow Ochre 121 Matt",
-          "rgb": "C2924A",
-          "smooth": 0.0
-        },
-        {
-          "code": "70914",
-          "name": "Green Ochre 119 Matt",
-          "rgb": "A88658",
-          "smooth": 0.0
-        },
-        {
-          "code": "70915",
-          "name": "Deep Yellow 14 Matt",
-          "rgb": "FFE20E",
-          "smooth": 0.0
-        },
-        {
-          "code": "70916",
-          "name": "Sand Yellow 9 Matt",
-          "rgb": "E4B86F",
-          "smooth": 0.0
-        },
-        {
-          "code": "70917",
-          "name": "Beige 8 Matt",
-          "rgb": "DABA81",
-          "smooth": 0.0
-        },
-        {
-          "code": "70918",
-          "name": "Ivory 5 Matt",
-          "rgb": "F4EFD2",
-          "smooth": 0.0
-        },
-        {
-          "code": "70919",
-          "name": "Cold White 2 Matt",
-          "rgb": "FFFFFF",
-          "smooth": 0.0
-        },
-        {
-          "code": "70920",
-          "name": "German Uniform 85 Matt",
-          "rgb": "51625C",
-          "smooth": 0.0
-        },
-        {
-          "code": "70921",
-          "name": "English Uniform 141 Matt",
-          "rgb": "715E40",
-          "smooth": 0.0
-        },
-        {
-          "code": "70922",
-          "name": "Uniform Green 84 Matt",
-          "rgb": "5B6946",
-          "smooth": 0.0
-        },
-        {
-          "code": "70923",
-          "name": "Japan Uniform WWII 117 Matt",
-          "rgb": "9F7C3C",
-          "smooth": 0.0
-        },
-        {
-          "code": "70924",
-          "name": "Russian Uniform WWII 94 Matt",
-          "rgb": "68614E",
-          "smooth": 0.0
-        },
-        {
-          "code": "70925",
-          "name": "Blue 52 Matt",
-          "rgb": "003362",
-          "smooth": 0.0
-        },
-        {
-          "code": "70926",
-          "name": "Red 33 Matt",
-          "rgb": "93262C",
-          "smooth": 0.0
-        },
-        {
-          "code": "70927",
-          "name": "Dark Flesh 19 Matt",
-          "rgb": "D69E61",
-          "smooth": 0.0
-        },
-        {
-          "code": "70928",
-          "name": "Light Flesh 6 Matt",
-          "rgb": "F8D8C9",
-          "smooth": 0.0
-        },
-        {
-          "code": "70929",
-          "name": "Light Brown 129 Matt",
-          "rgb": "AC724A",
-          "smooth": 0.0
-        },
-        {
-          "code": "70930",
-          "name": "Dark Blue 53 Matt",
-          "rgb": "336195",
-          "smooth": 0.0
-        },
-        {
-          "code": "70934",
-          "name": "Red 186 Transparent",
-          "rgb": "B62336"
-        },
-        {
-          "code": "70935",
-          "name": "Orange 185 Transparent",
-          "rgb": "EA651A"
-        },
-        {
-          "code": "70936",
-          "name": "Green 188 Transparent",
-          "rgb": "007943"
-        },
-        {
-          "code": "70937",
-          "name": "Yellow 184 Transparent",
-          "rgb": "F7A501"
-        },
-        {
-          "code": "70938",
-          "name": "Blue 187 Transparent",
-          "rgb": "323D5D"
-        },
-        {
-          "code": "70939",
-          "name": "Smoke 181 Transparent",
-          "rgb": "46413B"
-        },
-        {
-          "code": "70940",
-          "name": "Saddle Brown 138 Matt",
-          "rgb": "75544B",
-          "smooth": 0.0
-        },
-        {
-          "code": "70941",
-          "name": "Burnt Umber 148 Matt",
-          "rgb": "5A5046",
-          "smooth": 0.0
-        },
-        {
-          "code": "70942",
-          "name": "Light Green 75 Matt",
-          "rgb": "007943",
-          "smooth": 0.0
-        },
-        {
-          "code": "70943",
-          "name": "Grey Blue 61 Matt",
-          "rgb": "70849F",
-          "smooth": 0.0
-        },
-        {
-          "code": "70944",
-          "name": "Old Rose 39 Matt",
-          "rgb": "D77E78",
-          "smooth": 0.0
-        },
-        {
-          "code": "70945",
-          "name": "Magenta 42 Matt",
-          "rgb": "CA3B67",
-          "smooth": 0.0
-        },
-        {
-          "code": "70946",
-          "name": "Dark Red 32 Matt",
-          "rgb": "8D4354",
-          "smooth": 0.0
-        },
-        {
-          "code": "70947",
-          "name": "Dark Vermillion 29 Matt",
-          "rgb": "B33737",
-          "smooth": 0.0
-        },
-        {
-          "code": "70948",
-          "name": "Golden Yellow 16 Matt",
-          "rgb": "F7B554",
-          "smooth": 0.0
-        },
-        {
-          "code": "70949",
-          "name": "Light Yellow 10 Matt",
-          "rgb": "FEE857",
-          "smooth": 0.0
-        },
-        {
-          "code": "70950",
-          "name": "Black 169 Matt",
-          "rgb": "010101",
-          "smooth": 0.0
-        },
-        {
-          "code": "70951",
-          "name": "White 1 Matt",
-          "rgb": "FFFFFF",
-          "smooth": 0.0
-        },
-        {
-          "code": "70952",
-          "name": "Lemon Yellow 11 Matt",
-          "rgb": "FBEA21",
-          "smooth": 0.0
-        },
-        {
-          "code": "70953",
-          "name": "Flat Yellow 15 Matt",
-          "rgb": "F7B634",
-          "smooth": 0.0
-        },
-        {
-          "code": "70954",
-          "name": "Yellow Green 78 Matt",
-          "rgb": "CAD435",
-          "smooth": 0.0
-        },
-        {
-          "code": "70955",
-          "name": "Flat Flesh 18 Matt",
-          "rgb": "E0A57B",
-          "smooth": 0.0
-        },
-        {
-          "code": "70956",
-          "name": "Clear Orange 25 Matt",
-          "rgb": "CA4B38",
-          "smooth": 0.0,
-          "alpha": 0.2
-        },
-        {
-          "code": "70957",
-          "name": "Flat Red 31 Matt",
-          "rgb": "A73B39",
-          "smooth": 0.0
-        },
-        {
-          "code": "70958",
-          "name": "Pink 40 Matt",
-          "rgb": "C57BAC",
-          "smooth": 0.0
-        },
-        {
-          "code": "70959",
-          "name": "Purple 44 Matt",
-          "rgb": "70547C",
-          "smooth": 0.0
-        },
-        {
-          "code": "70960",
-          "name": "Violet 47 Matt",
-          "rgb": "484069",
-          "smooth": 0.0
-        },
-        {
-          "code": "70961",
-          "name": "Sky Blue 67 Matt",
-          "rgb": "7ACAEB",
-          "smooth": 0.0
-        },
-        {
-          "code": "70962",
-          "name": "Flat Blue 56 Matt",
-          "rgb": "44689C",
-          "smooth": 0.0
-        },
-        {
-          "code": "70963",
-          "name": "Medium Blue 57 Matt",
-          "rgb": "216083",
-          "smooth": 0.0
-        },
-        {
-          "code": "70964",
-          "name": "Field Blue 58 Matt",
-          "rgb": "57656E",
-          "smooth": 0.0
-        },
-        {
-          "code": "70965",
-          "name": "Prussian Blue 51 Matt",
-          "rgb": "405B78",
-          "smooth": 0.0
-        },
-        {
-          "code": "70966",
-          "name": "Turquoise 69 Matt",
-          "rgb": "306B7B",
-          "smooth": 0.0
-        },
-        {
-          "code": "70967",
-          "name": "Olive Green 82 Matt",
-          "rgb": "5E6D44",
-          "smooth": 0.0
-        },
-        {
-          "code": "70968",
-          "name": "Flat Green 83 Matt",
-          "rgb": "475B40",
-          "smooth": 0.0
-        },
-        {
-          "code": "70969",
-          "name": "Park Green Flat 73 Matt",
-          "rgb": "057857",
-          "smooth": 0.0
-        },
-        {
-          "code": "70970",
-          "name": "Deep Green 72 Matt",
-          "rgb": "33634D",
-          "smooth": 0.0
-        },
-        {
-          "code": "70971",
-          "name": "Green Grey 106 Matt",
-          "rgb": "B4B7AE",
-          "smooth": 0.0
-        },
-        {
-          "code": "70972",
-          "name": "Light Green Blue 107 Matt",
-          "rgb": "769E93",
+          "code": "77716",
+          "name": "Semi Matte Aluminium Metal",
+          "rgb": "B7B8BC",
           "smooth": 0.0
         },
         {
-          "code": "70973",
-          "name": "Light Sea Grey 108 Matt",
-          "rgb": "A1B1B1",
-          "smooth": 0.0
-        },
-        {
-          "code": "70974",
-          "name": "Green Sky 76 Matt",
-          "rgb": "8A9F80",
-          "smooth": 0.0
-        },
-        {
-          "code": "70975",
-          "name": "Military Green 89 Matt",
-          "rgb": "464940",
-          "smooth": 0.0
-        },
-        {
-          "code": "70976",
-          "name": "Buff 120 Matt",
-          "rgb": "CEB07E",
-          "smooth": 0.0
-        },
-        {
-          "code": "70977",
-          "name": "Desert Yellow 125 Matt",
-          "rgb": "B58F62",
-          "smooth": 0.0
-        },
-        {
-          "code": "70978",
-          "name": "Dark Yellow 116 Matt",
-          "rgb": "94854C",
-          "smooth": 0.0
-        },
-        {
-          "code": "70979",
-          "name": "German Camouflage Dark Green 97 Matt",
-          "rgb": "4B4D4A",
-          "smooth": 0.0
-        },
-        {
-          "code": "70980",
-          "name": "Black Green 100 Matt",
-          "rgb": "3F4843",
-          "smooth": 0.0
-        },
-        {
-          "code": "70981",
-          "name": "Orange Brown 131 Matt",
-          "rgb": "BA6C3B",
-          "smooth": 0.0
-        },
-        {
-          "code": "70982",
-          "name": "Cavalry Brown 137 Matt",
-          "rgb": "853430",
-          "smooth": 0.0
-        },
-        {
-          "code": "70983",
-          "name": "Flat Earth 143 Matt",
-          "rgb": "765742",
-          "smooth": 0.0
-        },
-        {
-          "code": "70984",
-          "name": "Flat Brown 140 Matt",
-          "rgb": "5E483B",
-          "smooth": 0.0
-        },
-        {
-          "code": "70985",
-          "name": "Hull Red 146 Matt",
-          "rgb": "502721",
-          "smooth": 0.0
-        },
-        {
-          "code": "70986",
-          "name": "Deck Tan 110 Matt",
-          "rgb": "B0B0A8",
-          "smooth": 0.0
-        },
-        {
-          "code": "70987",
-          "name": "Medium Grey 111 Matt",
-          "rgb": "979983",
-          "smooth": 0.0
-        },
-        {
-          "code": "70988",
-          "name": "Khaki 115 Matt",
-          "rgb": "87775D",
-          "smooth": 0.0
-        },
-        {
-          "code": "70989",
-          "name": "Sky Grey 154 Matt",
-          "rgb": "A5A6A8",
-          "smooth": 0.0
-        },
-        {
-          "code": "70990",
-          "name": "Light Grey 155 Matt",
-          "rgb": "8F939E",
-          "smooth": 0.0
-        },
-        {
-          "code": "70991",
-          "name": "Dark Sea Grey 159 Matt",
-          "rgb": "7A7B7D",
-          "smooth": 0.0
-        },
-        {
-          "code": "70992",
-          "name": "Neutral Grey 160 Matt",
-          "rgb": "69707A",
-          "smooth": 0.0
-        },
-        {
-          "code": "70993",
-          "name": "White Grey 151 Matt",
-          "rgb": "EEF0EF",
-          "smooth": 0.0
-        },
-        {
-          "code": "70994",
-          "name": "Dark Grey 166 Matt",
-          "rgb": "4D515A",
-          "smooth": 0.0
+          "code": "77717",
+          "name": "Dull Aluminium Metal",
+          "rgb": "B0AFB2"
         },
         {
-          "code": "70995",
-          "name": "German Grey 167 Matt",
-          "rgb": "464650",
-          "smooth": 0.0
+          "code": "77720",
+          "name": "Gunmetal Grey Metal",
+          "rgb": "54514F"
         },
         {
-          "code": "70996",
-          "name": "Gold 172 Metallic",
-          "rgb": "CEAF52",
-          "refl": "Metallic"
+          "code": "77721",
+          "name": "Burnt Iron Metal",
+          "rgb": "675F5D"
         },
         {
-          "code": "70997",
-          "name": "Silver 171 Metallic",
-          "rgb": "CDD6D3",
-          "refl": "Metallic"
+          "code": "77723",
+          "name": "Exhaust Manifold Metal",
+          "rgb": "696259"
         },
         {
-          "code": "70998",
-          "name": "Bronze 175 Metallic",
-          "rgb": "766B35",
-          "refl": "Metallic"
+          "code": "77724",
+          "name": "Silver Metal",
+          "rgb": "8F9092"
         },
         {
-          "code": "70999",
-          "name": "Copper 176 Metallic",
-          "rgb": "9A5B3A",
-          "refl": "Metallic"
+          "code": "77725",
+          "name": "Gold Metal",
+          "rgb": "A68E61"
         }
       ]
     },
@@ -3611,672 +3082,1052 @@
       ]
     },
     {
-      "name": "Game Color",
+      "name": "Model Color Acrylic",
       "type": "Acrylic",
       "colors": [
         {
-          "code": "72001",
-          "name": "Dead White Matt",
+          "code": "70510",
+          "name": "Glossy Varnish",
+          "rgb": "FFFFFF"
+        },
+        {
+          "code": "70520",
+          "name": "Matte Varnish",
           "rgb": "FFFFFF",
           "smooth": 0.0
         },
         {
-          "code": "72002",
-          "name": "White Primer Matt",
+          "code": "70522",
+          "name": "Satin Varnish",
           "rgb": "FFFFFF",
-          "smooth": 0.0
+          "smooth": 0.5
         },
         {
-          "code": "72003",
-          "name": "Pale Flesh Matt",
-          "rgb": "EDBDA9",
-          "smooth": 0.0
+          "code": "70730",
+          "name": "Yellow Fluo",
+          "rgb": "E7ED35"
         },
         {
-          "code": "72004",
-          "name": "Elf Skintone Matt",
-          "rgb": "E0A273",
-          "smooth": 0.0
+          "code": "70733",
+          "name": "Orange Fluo",
+          "rgb": "F2531B"
         },
         {
-          "code": "72005",
-          "name": "Moon Yellow Matt",
-          "rgb": "FCE000",
-          "smooth": 0.0
+          "code": "70735",
+          "name": "Magenta Fluo",
+          "rgb": "EF259D"
         },
         {
-          "code": "72006",
-          "name": "Sun Yellow Matt",
-          "rgb": "FEE300",
-          "smooth": 0.0
+          "code": "70736",
+          "name": "Blue Fluo",
+          "rgb": "1573BB"
         },
         {
-          "code": "72007",
-          "name": "Gold Yellow Matt",
-          "rgb": "FDC500",
-          "smooth": 0.0
+          "code": "70752",
+          "name": "Infantry Blue",
+          "rgb": "191829"
         },
         {
-          "code": "72008",
-          "name": "Orange Fire Matt",
-          "rgb": "E9651A",
-          "smooth": 0.0
+          "code": "70759",
+          "name": "German Tank Crew",
+          "rgb": "4A483C"
         },
         {
-          "code": "72009",
-          "name": "Hot Orange Matt",
-          "rgb": "E64C2A",
-          "smooth": 0.0
+          "code": "70760",
+          "name": "Light Mud",
+          "rgb": "797861"
         },
         {
-          "code": "72010",
-          "name": "Blood Red Matt",
-          "rgb": "BF1134",
-          "smooth": 0.0
+          "code": "70761",
+          "name": "Old Wood",
+          "rgb": "7B6C57"
         },
         {
-          "code": "72011",
-          "name": "Gory Red Matt",
-          "rgb": "850E34",
-          "smooth": 0.0
+          "code": "70762",
+          "name": "Grey Brown",
+          "rgb": "534724"
         },
         {
-          "code": "72012",
-          "name": "Scarlett Red Matt",
-          "rgb": "9D112C",
-          "smooth": 0.0
+          "code": "70763",
+          "name": "Canvas",
+          "rgb": "423A1C"
         },
         {
-          "code": "72013",
-          "name": "Squid Pink Matt",
-          "rgb": "D18AB6",
-          "smooth": 0.0
+          "code": "70764",
+          "name": "Military Yellow",
+          "rgb": "8A732F"
         },
         {
-          "code": "72014",
-          "name": "Warlord Purple Matt",
-          "rgb": "862246",
-          "smooth": 0.0
+          "code": "70766",
+          "name": "Cream White",
+          "rgb": "D9CABB"
         },
         {
-          "code": "72015",
-          "name": "Hexed Lichen Matt",
-          "rgb": "512E7E",
-          "smooth": 0.0
+          "code": "70767",
+          "name": "Desert Brown",
+          "rgb": "A8835C"
         },
         {
-          "code": "72016",
-          "name": "Royal Purple Matt",
-          "rgb": "464362",
-          "smooth": 0.0
+          "code": "70768",
+          "name": "BC Dark Brown",
+          "rgb": "6C553F"
         },
         {
-          "code": "72017",
-          "name": "Dark Blue Matt",
-          "rgb": "464775",
-          "smooth": 0.0
+          "code": "70769",
+          "name": "Mustard Brown",
+          "rgb": "977150"
         },
         {
-          "code": "72018",
-          "name": "Stormy Blue Matt",
-          "rgb": "413F57",
-          "smooth": 0.0
+          "code": "70772",
+          "name": "Medium Grey Blue",
+          "rgb": "719B93"
         },
         {
-          "code": "72019",
-          "name": "Night Blue Matt",
-          "rgb": "393945",
-          "smooth": 0.0
+          "code": "70773",
+          "name": "Violet Grey",
+          "rgb": "525756"
         },
         {
-          "code": "72020",
-          "name": "Imperial Blue Matt",
-          "rgb": "344863",
-          "smooth": 0.0
+          "code": "70801",
+          "name": "Brass(Metallic)",
+          "rgb": "9E7630",
+          "refl": "Metallic"
         },
         {
-          "code": "72021",
-          "name": "Magic Blue Matt",
-          "rgb": "036EB6",
-          "smooth": 0.0
+          "code": "70802",
+          "name": "Sunset Red",
+          "rgb": "BF215E"
         },
         {
-          "code": "72022",
-          "name": "Ultramarine Blue Matt",
-          "rgb": "1E5389",
-          "smooth": 0.0
+          "code": "70803",
+          "name": "Brown Rose",
+          "rgb": "C9756A"
         },
         {
-          "code": "72023",
-          "name": "Electric Blue Matt",
-          "rgb": "3495B6",
-          "smooth": 0.0
+          "code": "70804",
+          "name": "Beige Red",
+          "rgb": "C1885B"
         },
         {
-          "code": "72024",
-          "name": "Turquoise Matt",
-          "rgb": "017F8E",
-          "smooth": 0.0
+          "code": "70805",
+          "name": "German Orange",
+          "rgb": "EF4220"
         },
         {
-          "code": "72025",
-          "name": "Foul Green Matt",
-          "rgb": "3F9E80",
-          "smooth": 0.0
+          "code": "70806",
+          "name": "German Yellow",
+          "rgb": "DFE96E"
         },
         {
-          "code": "72026",
-          "name": "Jade Green Matt",
-          "rgb": "008266",
-          "smooth": 0.0
+          "code": "70807",
+          "name": "Oxford Blue",
+          "rgb": "343D5A"
         },
         {
-          "code": "72027",
-          "name": "Scurvy Green Matt",
-          "rgb": "295653",
-          "smooth": 0.0
+          "code": "70808",
+          "name": "Blue Green",
+          "rgb": "359594"
         },
         {
-          "code": "72028",
-          "name": "Dark Green Matt",
-          "rgb": "39423D",
-          "smooth": 0.0
+          "code": "70810",
+          "name": "Royal Purple",
+          "rgb": "452360"
         },
         {
-          "code": "72029",
-          "name": "Sick Green Matt",
-          "rgb": "4B6E4E",
-          "smooth": 0.0
+          "code": "70811",
+          "name": "Blue Violet",
+          "rgb": "754C9B"
         },
         {
-          "code": "72030",
-          "name": "Goblin Green Matt",
-          "rgb": "2B6C2A",
-          "smooth": 0.0
+          "code": "70812",
+          "name": "Violet Red",
+          "rgb": "672445"
         },
         {
-          "code": "72031",
-          "name": "Camouflage Green Matt",
-          "rgb": "8D7B3D",
-          "smooth": 0.0
+          "code": "70814",
+          "name": "Burnt Red",
+          "rgb": "5D2E34"
         },
         {
-          "code": "72032",
-          "name": "Escorpena Green Matt",
-          "rgb": "77A64A",
-          "smooth": 0.0
+          "code": "70815",
+          "name": "Basic Skin Tone",
+          "rgb": "F9AD7B"
         },
         {
-          "code": "72033",
-          "name": "Livery Green Matt",
-          "rgb": "9DC451",
-          "smooth": 0.0
+          "code": "70816",
+          "name": "Luftwaffe Uniform WWII",
+          "rgb": "383F49"
         },
         {
-          "code": "72034",
-          "name": "Bonewhite Matt",
-          "rgb": "E4C596",
-          "smooth": 0.0
+          "code": "70817",
+          "name": "Scarlet",
+          "rgb": "D72A2C"
         },
         {
-          "code": "72035",
-          "name": "Dead Flesh Matt",
-          "rgb": "D3C682",
-          "smooth": 0.0
+          "code": "70818",
+          "name": "Red Leather",
+          "rgb": "8B3A37"
         },
         {
-          "code": "72036",
-          "name": "Bronze Fleshtone Matt",
-          "rgb": "F1A75E",
-          "smooth": 0.0
+          "code": "70819",
+          "name": "Iraqui Sand",
+          "rgb": "AE9763"
         },
         {
-          "code": "72037",
-          "name": "Filthy Brown Matt",
-          "rgb": "E99300",
-          "smooth": 0.0
+          "code": "70820",
+          "name": "Off White",
+          "rgb": "EFEDDE"
         },
         {
-          "code": "72038",
-          "name": "Scrofulous Brown Matt",
-          "rgb": "BC762E",
-          "smooth": 0.0
+          "code": "70821",
+          "name": "German Cam Beige WWII",
+          "rgb": "968A64"
         },
         {
-          "code": "72039",
-          "name": "Plague Brown Matt",
-          "rgb": "D18F05",
-          "smooth": 0.0
+          "code": "70822",
+          "name": "German Cam. Brown Black",
+          "rgb": "502F26"
         },
         {
-          "code": "72040",
-          "name": "Leather Brown Matt",
-          "rgb": "87643C",
-          "smooth": 0.0
+          "code": "70823",
+          "name": "Luftwaffe Cam. Green",
+          "rgb": "4B643A"
         },
         {
-          "code": "72041",
-          "name": "Dwarf Skin Matt",
-          "rgb": "D9916B",
-          "smooth": 0.0
+          "code": "70824",
+          "name": "Ger Cam Orange Ochre",
+          "rgb": "977B4B"
         },
         {
-          "code": "72042",
-          "name": "Parasite Brown Matt",
-          "rgb": "A1501B",
-          "smooth": 0.0
+          "code": "70825",
+          "name": "German Cam Pale Brown",
+          "rgb": "766257"
         },
         {
-          "code": "72043",
-          "name": "Beasty Brown Matt",
-          "rgb": "76563D",
-          "smooth": 0.0
+          "code": "70826",
+          "name": "German Cam Med. Brown",
+          "rgb": "69282C"
         },
         {
-          "code": "72044",
-          "name": "Dark Fleshtone Matt",
-          "rgb": "614037",
-          "smooth": 0.0
+          "code": "70827",
+          "name": "Lime Green",
+          "rgb": "66B63D"
         },
         {
-          "code": "72045",
-          "name": "Charred Brown Matt",
-          "rgb": "4B403C",
-          "smooth": 0.0
+          "code": "70829",
+          "name": "Amaranth Red",
+          "rgb": "CD342F"
         },
         {
-          "code": "72046",
-          "name": "Ghost Grey Matt",
-          "rgb": "C3CAD4",
-          "smooth": 0.0
+          "code": "70830",
+          "name": "German Fieldgrey WWII",
+          "rgb": "525041"
         },
         {
-          "code": "72047",
-          "name": "Wolf Grey Matt",
-          "rgb": "AFC1CB",
-          "smooth": 0.0
+          "code": "70832",
+          "name": "Verdigris Glaze",
+          "rgb": "89D0C8"
         },
         {
-          "code": "72048",
-          "name": "Sombre Grey Matt",
-          "rgb": "606B7F",
-          "smooth": 0.0
+          "code": "70833",
+          "name": "German Cam Bright Green",
+          "rgb": "4B883B"
         },
         {
-          "code": "72049",
-          "name": "Stonewall Grey Matt",
-          "rgb": "9F9F9F",
-          "smooth": 0.0
+          "code": "70834",
+          "name": "Natural Woodgrain (Transparent)",
+          "rgb": "F0D530"
         },
         {
-          "code": "72050",
-          "name": "Cold Grey Matt",
-          "rgb": "7C7C7C",
-          "smooth": 0.0
+          "code": "70835",
+          "name": "Salmon Rose",
+          "rgb": "F68D78"
         },
         {
-          "code": "72051",
-          "name": "Black Matt",
-          "rgb": "010101",
-          "smooth": 0.0
+          "code": "70836",
+          "name": "London Grey",
+          "rgb": "454E57"
         },
         {
-          "code": "72052",
-          "name": "Silver Metal",
-          "rgb": "A7ACB0"
+          "code": "70837",
+          "name": "Pale Sand",
+          "rgb": "CABE8C"
         },
         {
-          "code": "72053",
-          "name": "Chainmail Silver Metal",
-          "rgb": "7C7C7C"
+          "code": "70838",
+          "name": "Emerald",
+          "rgb": "169069"
         },
         {
-          "code": "72054",
-          "name": "Gunmetal Metal",
-          "rgb": "636365"
+          "code": "70839",
+          "name": "Ultramarine",
+          "rgb": "3D55AB"
         },
         {
-          "code": "72055",
-          "name": "Polished Gold Metal",
-          "rgb": "D2AE22"
+          "code": "70840",
+          "name": "Light Turquoise",
+          "rgb": "2997A8"
         },
         {
-          "code": "72056",
-          "name": "Glorious Gold Metal",
-          "rgb": "9B6D32"
+          "code": "70841",
+          "name": "Andrea Blue",
+          "rgb": "0E8BCD"
         },
         {
-          "code": "72057",
-          "name": "Bright Bronze Metal",
-          "rgb": "A36941"
-        },
-        {
-          "code": "72058",
-          "name": "Brassy Brass Metal",
-          "rgb": "845539"
-        },
-        {
-          "code": "72059",
-          "name": "Hammered Copper Metal",
-          "rgb": "7A4537"
-        },
-        {
-          "code": "72060",
-          "name": "Tinny Tin Metal",
-          "rgb": "502D31"
-        },
-        {
-          "code": "72061",
-          "name": "Khaki Matt",
-          "rgb": "AA9C75",
-          "smooth": 0.0
-        },
-        {
-          "code": "72062",
-          "name": "Earth Matt",
-          "rgb": "795F44",
-          "smooth": 0.0
-        },
-        {
-          "code": "72063",
-          "name": "Desert Yellow Matt",
-          "rgb": "998843",
-          "smooth": 0.0
-        },
-        {
-          "code": "72064",
-          "name": "Yellow Olive Matt",
-          "rgb": "1F4F39",
-          "smooth": 0.0
-        },
-        {
-          "code": "72065",
-          "name": "Terracota Matt",
-          "rgb": "6A3D38",
-          "smooth": 0.0
-        },
-        {
-          "code": "72066",
-          "name": "Tan Matt",
-          "rgb": "A8594A",
-          "smooth": 0.0
-        },
-        {
-          "code": "72067",
-          "name": "Cayman Green Matt",
-          "rgb": "00593D",
-          "smooth": 0.0
-        },
-        {
-          "code": "72068",
-          "name": "Smokey Ink Matt",
-          "rgb": "493534",
-          "smooth": 0.0
-        },
-        {
-          "code": "72095",
-          "name": "Glacier Blue Matt",
-          "rgb": "B4CEE9",
-          "smooth": 0.0
-        },
-        {
-          "code": "72096",
-          "name": "Verdigris Matt",
-          "rgb": "AAD7D4",
-          "smooth": 0.0
-        },
-        {
-          "code": "72097",
-          "name": "Pale Yellow Matt",
-          "rgb": "EACD7D",
-          "smooth": 0.0
-        },
-        {
-          "code": "72098",
-          "name": "Elfic Flesh Matt",
-          "rgb": "EAD7B7",
-          "smooth": 0.0
-        },
-        {
-          "code": "72099",
-          "name": "Cadmium Skin Matt",
-          "rgb": "F8B185",
-          "smooth": 0.0
-        },
-        {
-          "code": "72100",
-          "name": "Rosy Flesh Matt",
-          "rgb": "F3B5AA",
-          "smooth": 0.0
-        },
-        {
-          "code": "72101",
-          "name": "Off White Matt",
-          "rgb": "FDF2DC",
-          "smooth": 0.0
-        },
-        {
-          "code": "72102",
-          "name": "Steel Grey Matt",
-          "rgb": "728FA1",
-          "smooth": 0.0
-        },
-        {
-          "code": "72103",
-          "name": "Fluo Yellow Matt",
-          "rgb": "FFEE02",
-          "smooth": 0.0
-        },
-        {
-          "code": "72104",
-          "name": "Fluo Green Matt",
-          "rgb": "C1D460",
-          "smooth": 0.0
-        },
-        {
-          "code": "72105",
-          "name": "Mutation Green Matt",
-          "rgb": "4C7650",
-          "smooth": 0.0
-        },
-        {
-          "code": "72106",
-          "name": "Scarlett Blood Matt",
-          "rgb": "E40059",
-          "smooth": 0.0
-        }
-      ]
-    },
-    {
-      "name": "Washes",
-      "type": "Acrylic",
-      "colors": [
-        {
-          "code": "76501",
-          "name": "White Aluminium Wash",
+          "code": "70842",
+          "name": "Gloss White",
           "rgb": "FFFFFF"
         },
         {
-          "code": "76503",
-          "name": "Dark Yellow Wash",
-          "rgb": "DDB008"
+          "code": "70843",
+          "name": "Cork Brown",
+          "rgb": "9D6F57"
         },
         {
-          "code": "76505",
-          "name": "Light Rust Wash",
-          "rgb": "F07D29"
+          "code": "70844",
+          "name": "Deep Sky Blue",
+          "rgb": "22A8DD"
         },
         {
-          "code": "76506",
-          "name": "Rust Wash",
-          "rgb": "CB4E19"
+          "code": "70845",
+          "name": "Sunny Skin Tone",
+          "rgb": "EFA358"
         },
         {
-          "code": "76507",
-          "name": "Dark Rust Wash",
-          "rgb": "E7601F"
+          "code": "70846",
+          "name": "Mahogany Brown",
+          "rgb": "7B4140"
         },
         {
-          "code": "76512",
-          "name": "Dark Green Wash",
-          "rgb": "827B24"
+          "code": "70847",
+          "name": "Dark Sand",
+          "rgb": "CDAE6B"
         },
         {
-          "code": "76513",
-          "name": "Brown Wash",
-          "rgb": "8E4A20"
+          "code": "70850",
+          "name": "Medium Olive",
+          "rgb": "2D6A25"
         },
         {
-          "code": "76514",
-          "name": "Dark Brown Wash",
-          "rgb": "B09B78"
+          "code": "70851",
+          "name": "Bright Orange",
+          "rgb": "F2502A"
         },
         {
-          "code": "76515",
-          "name": "Light Grey Wash",
-          "rgb": "BFBFBF"
+          "code": "70856",
+          "name": "Ochre Brown",
+          "rgb": "A26D29"
         },
         {
-          "code": "76516",
-          "name": "Grey Wash",
-          "rgb": "67676A"
+          "code": "70857",
+          "name": "Golden Olive",
+          "rgb": "69922C"
         },
         {
-          "code": "76517",
-          "name": "Dark Grey Wash",
-          "rgb": "363327"
+          "code": "70858",
+          "name": "Ice Yellow",
+          "rgb": "FFED6F"
         },
         {
-          "code": "76518",
-          "name": "Black Wash",
-          "rgb": "231F20"
+          "code": "70859",
+          "name": "Black Red",
+          "rgb": "582A35"
         },
         {
-          "code": "76519",
-          "name": "Olive Green Wash",
-          "rgb": "00301C"
+          "code": "70860",
+          "name": "Medium Fleshtone",
+          "rgb": "B97A37"
         },
         {
-          "code": "76520",
-          "name": "Dark Khaki Green Wash",
-          "rgb": "7F5E38"
+          "code": "70861",
+          "name": "Glossy Black",
+          "rgb": "0B0A08"
         },
         {
-          "code": "76521",
-          "name": "Oiled Earth Wash",
-          "rgb": "6B5448"
+          "code": "70862",
+          "name": "Black Grey",
+          "rgb": "2A3137"
         },
         {
-          "code": "76522",
-          "name": "Desert Dust Wash",
-          "rgb": "D3B377"
+          "code": "70863",
+          "name": "Gunmetal Grey (Metallic)",
+          "rgb": "56605F",
+          "refl": "Metallic"
         },
         {
-          "code": "76523",
-          "name": "European Dust Wash",
-          "rgb": "7C5331"
+          "code": "70864",
+          "name": "Natural Steel (Metallic)",
+          "rgb": "79827D",
+          "refl": "Metallic"
         },
         {
-          "code": "76524",
-          "name": "Blue Grey Wash",
-          "rgb": "456F8C"
-        }
-      ]
-    },
-    {
-      "name": "Metal Color",
-      "type": "Acrylic",
-      "colors": [
+          "code": "70865",
+          "name": "Oily Steel (Metallic)",
+          "rgb": "6C736C",
+          "refl": "Metallic"
+        },
         {
-          "code": "77657",
-          "name": "Varnish Gloss Metal",
+          "code": "70866",
+          "name": "Grey Green",
+          "rgb": "44504E"
+        },
+        {
+          "code": "70867",
+          "name": "Dark Blue Grey",
+          "rgb": "414D49"
+        },
+        {
+          "code": "70868",
+          "name": "Dark Seagreen",
+          "rgb": "2A3F40"
+        },
+        {
+          "code": "70869",
+          "name": "Basalt Grey",
+          "rgb": "50615B"
+        },
+        {
+          "code": "70870",
+          "name": "Medium Sea Grey",
+          "rgb": "7F8F8E"
+        },
+        {
+          "code": "70871",
+          "name": "Leather Brown",
+          "rgb": "433F34"
+        },
+        {
+          "code": "70872",
+          "name": "Chocolate Brown",
+          "rgb": "574940"
+        },
+        {
+          "code": "70873",
+          "name": "US Field Drab",
+          "rgb": "65543A"
+        },
+        {
+          "code": "70874",
+          "name": "Tan Earth",
+          "rgb": "926C59"
+        },
+        {
+          "code": "70875",
+          "name": "Beige Brown",
+          "rgb": "6E5143"
+        },
+        {
+          "code": "70876",
+          "name": "Brown Sand",
+          "rgb": "A47058"
+        },
+        {
+          "code": "70877",
+          "name": "Goldbrown",
+          "rgb": "B38025"
+        },
+        {
+          "code": "70878",
+          "name": "Old Gold (Metallic)",
+          "rgb": "8B7E47",
+          "refl": "Metallic"
+        },
+        {
+          "code": "70879",
+          "name": "Green Brown",
+          "rgb": "86734B"
+        },
+        {
+          "code": "70881",
+          "name": "Yellow Green",
+          "rgb": "85803C"
+        },
+        {
+          "code": "70882",
+          "name": "Middle Stone",
+          "rgb": "93924F"
+        },
+        {
+          "code": "70883",
+          "name": "Silvergrey",
+          "rgb": "D9DBCD"
+        },
+        {
+          "code": "70884",
+          "name": "Stone Grey",
+          "rgb": "8E9778"
+        },
+        {
+          "code": "70885",
+          "name": "Pastel Green",
+          "rgb": "9DBD8C"
+        },
+        {
+          "code": "70886",
+          "name": "Green Grey",
+          "rgb": "7A7653"
+        },
+        {
+          "code": "70887",
+          "name": "US Olive Drab",
+          "rgb": "485A4A"
+        },
+        {
+          "code": "70888",
+          "name": "Olive Grey",
+          "rgb": "375148"
+        },
+        {
+          "code": "70889",
+          "name": "Olive Brown",
+          "rgb": "374142"
+        },
+        {
+          "code": "70890",
+          "name": "Retractive Green",
+          "rgb": "425F40"
+        },
+        {
+          "code": "70891",
+          "name": "Intermediate Green",
+          "rgb": "429346"
+        },
+        {
+          "code": "70892",
+          "name": "Yellow Olive",
+          "rgb": "25352B"
+        },
+        {
+          "code": "70893",
+          "name": "US Dark Green",
+          "rgb": "50624C"
+        },
+        {
+          "code": "70894",
+          "name": "Cam Olive Green",
+          "rgb": "384F45"
+        },
+        {
+          "code": "70895",
+          "name": "Gunship Green",
+          "rgb": "3C6557"
+        },
+        {
+          "code": "70896",
+          "name": "Ger Cam Extra Dark Green",
+          "rgb": "314C47"
+        },
+        {
+          "code": "70897",
+          "name": "Bronze Green",
+          "rgb": "304E4C"
+        },
+        {
+          "code": "70898",
+          "name": "Dark Sea Blue",
+          "rgb": "273B44"
+        },
+        {
+          "code": "70899",
+          "name": "Dark Prussian Blue",
+          "rgb": "21293E"
+        },
+        {
+          "code": "70900",
+          "name": "French Mirage Blue",
+          "rgb": "55737D"
+        },
+        {
+          "code": "70901",
+          "name": "Pastel Blue",
+          "rgb": "61839C"
+        },
+        {
+          "code": "70902",
+          "name": "Azure",
+          "rgb": "6978B3"
+        },
+        {
+          "code": "70903",
+          "name": "Intermediate Blue",
+          "rgb": "57787F"
+        },
+        {
+          "code": "70904",
+          "name": "Dark Blue Grey",
+          "rgb": "547071"
+        },
+        {
+          "code": "70905",
+          "name": "Blue Grey Pale",
+          "rgb": "9AA3A0"
+        },
+        {
+          "code": "70906",
+          "name": "Pale Blue",
+          "rgb": "7FB9AD"
+        },
+        {
+          "code": "70907",
+          "name": "Pale Grey Blue",
+          "rgb": "BED1CB"
+        },
+        {
+          "code": "70908",
+          "name": "Carmine Red",
+          "rgb": "B5252F"
+        },
+        {
+          "code": "70909",
+          "name": "Vermillion",
+          "rgb": "D4272B"
+        },
+        {
+          "code": "70910",
+          "name": "Orange Red",
+          "rgb": "E43C21"
+        },
+        {
+          "code": "70911",
+          "name": "Light Orange",
+          "rgb": "F5751A"
+        },
+        {
+          "code": "70912",
+          "name": "Tan Yellow",
+          "rgb": "AA8A4D"
+        },
+        {
+          "code": "70913",
+          "name": "Yellow Ochre",
+          "rgb": "BE903A"
+        },
+        {
+          "code": "70914",
+          "name": "Green Ochre",
+          "rgb": "A2855B"
+        },
+        {
+          "code": "70915",
+          "name": "Deep Yellow",
+          "rgb": "FEE30D"
+        },
+        {
+          "code": "70916",
+          "name": "Sand Yellow",
+          "rgb": "D1BE62"
+        },
+        {
+          "code": "70917",
+          "name": "Beige",
+          "rgb": "D5C47F"
+        },
+        {
+          "code": "70918",
+          "name": "Ivory",
+          "rgb": "F2F3D3"
+        },
+        {
+          "code": "70919",
+          "name": "Foundation White",
           "rgb": "FFFFFF"
         },
         {
-          "code": "77701",
-          "name": "Aluminium Metal",
-          "rgb": "B0ADAB"
+          "code": "70920",
+          "name": "German Uniform",
+          "rgb": "315C52"
         },
         {
-          "code": "77702",
-          "name": "Duraluminium Metal",
-          "rgb": "928F92"
+          "code": "70921",
+          "name": "English Uniform",
+          "rgb": "695429"
         },
         {
-          "code": "77703",
-          "name": "Dark Aluminium Metal",
-          "rgb": "A2A0A2"
+          "code": "70923",
+          "name": "Japan Uniform WWII",
+          "rgb": "8D7F3E"
         },
         {
-          "code": "77704",
-          "name": "Pale Burnt Metal Metal",
-          "rgb": "9C9B9A"
+          "code": "70924",
+          "name": "Russian Uniform WWII",
+          "rgb": "57674D"
         },
         {
-          "code": "77706",
-          "name": "White Aluminium Metal",
-          "rgb": "ACAFB3"
+          "code": "70925",
+          "name": "Blue",
+          "rgb": "19315F"
         },
         {
-          "code": "77707",
-          "name": "Chrome Metal",
-          "rgb": "A0A09E"
+          "code": "70926",
+          "name": "Red",
+          "rgb": "8E2A36"
         },
         {
-          "code": "77710",
-          "name": "Copper Metal",
-          "rgb": "90705E"
+          "code": "70927",
+          "name": "Dark Flesh",
+          "rgb": "D59D52"
         },
         {
-          "code": "77711",
-          "name": "Magnesium Metal",
-          "rgb": "6E696A"
+          "code": "70928",
+          "name": "Light Flesh",
+          "rgb": "FEEBCD"
         },
         {
-          "code": "77712",
-          "name": "Steel Metal",
-          "rgb": "565553"
+          "code": "70929",
+          "name": "Light Brown",
+          "rgb": "B86845"
         },
         {
-          "code": "77713",
-          "name": "Jet Exhaust Metal",
-          "rgb": "A1A0A2"
+          "code": "70930",
+          "name": "Dark Blue",
+          "rgb": "215587"
         },
         {
-          "code": "77716",
-          "name": "Semi Matte Aluminium Metal",
-          "rgb": "B7B8BC",
+          "code": "70934",
+          "name": "Transparent Red (Transparent)",
+          "rgb": "EB8763"
+        },
+        {
+          "code": "70935",
+          "name": "Transparent Orange (Transparent)",
+          "rgb": "ECB99E"
+        },
+        {
+          "code": "70936",
+          "name": "Transparent Green (Transparent)",
+          "rgb": "DDE3BD"
+        },
+        {
+          "code": "70937",
+          "name": "Transparent Yellow (Transparent)",
+          "rgb": "F2E670"
+        },
+        {
+          "code": "70938",
+          "name": "Transparent Blue (Transparent)",
+          "rgb": "31385E"
+        },
+        {
+          "code": "70939",
+          "name": "Smoke (Transparent)",
+          "rgb": "D3B384"
+        },
+        {
+          "code": "70940",
+          "name": "Saddle Brown",
+          "rgb": "824D49"
+        },
+        {
+          "code": "70941",
+          "name": "Burnt Umber",
+          "rgb": "5C4942"
+        },
+        {
+          "code": "70942",
+          "name": "Light Green",
+          "rgb": "19A84E"
+        },
+        {
+          "code": "70943",
+          "name": "Grey Blue",
+          "rgb": "466A8A"
+        },
+        {
+          "code": "70944",
+          "name": "Old Rose",
+          "rgb": "D66873"
+        },
+        {
+          "code": "70945",
+          "name": "Magenta",
+          "rgb": "A32151"
+        },
+        {
+          "code": "70946",
+          "name": "Dark Red",
+          "rgb": "973A42"
+        },
+        {
+          "code": "70947",
+          "name": "Dark Vermillion",
+          "rgb": "C0232E"
+        },
+        {
+          "code": "70948",
+          "name": "Golden Yellow",
+          "rgb": "F6BE43"
+        },
+        {
+          "code": "70949",
+          "name": "Light Yellow",
+          "rgb": "F9EA45"
+        },
+        {
+          "code": "70950",
+          "name": "Black",
+          "rgb": "25282F"
+        },
+        {
+          "code": "70951",
+          "name": "White",
+          "rgb": "FFFFFF"
+        },
+        {
+          "code": "70952",
+          "name": "Lemon Yellow",
+          "rgb": "FFF309"
+        },
+        {
+          "code": "70953",
+          "name": "Flat Yellow",
+          "rgb": "FCCB19",
           "smooth": 0.0
         },
         {
-          "code": "77717",
-          "name": "Dull Aluminium Metal",
-          "rgb": "B0AFB2"
+          "code": "70954",
+          "name": "Yellow Green",
+          "rgb": "CDE418"
         },
         {
-          "code": "77720",
-          "name": "Gunmetal Grey Metal",
-          "rgb": "54514F"
+          "code": "70955",
+          "name": "Flat Flesh",
+          "rgb": "D7A068",
+          "smooth": 0.0
         },
         {
-          "code": "77721",
-          "name": "Burnt Iron Metal",
-          "rgb": "675F5D"
+          "code": "70956",
+          "name": "Clear Orange",
+          "rgb": "F04126",
+          "alpha": 0.2
         },
         {
-          "code": "77723",
-          "name": "Exhaust Manifold Metal",
-          "rgb": "696259"
+          "code": "70957",
+          "name": "Flat Red",
+          "rgb": "A62633",
+          "smooth": 0.0
         },
         {
-          "code": "77724",
-          "name": "Silver Metal",
-          "rgb": "8F9092"
+          "code": "70958",
+          "name": "Pink",
+          "rgb": "D75B97"
         },
         {
-          "code": "77725",
-          "name": "Gold Metal",
-          "rgb": "A68E61"
+          "code": "70959",
+          "name": "Purple",
+          "rgb": "7A3F6B"
+        },
+        {
+          "code": "70960",
+          "name": "Violet",
+          "rgb": "422962"
+        },
+        {
+          "code": "70961",
+          "name": "Sky Blue",
+          "rgb": "96DDF9"
+        },
+        {
+          "code": "70962",
+          "name": "Flat Blue",
+          "rgb": "376596",
+          "smooth": 0.0
+        },
+        {
+          "code": "70963",
+          "name": "Medium Blue",
+          "rgb": "23628B"
+        },
+        {
+          "code": "70964",
+          "name": "Field Blue",
+          "rgb": "436370"
+        },
+        {
+          "code": "70965",
+          "name": "Prussian Blue",
+          "rgb": "2D4E6D"
+        },
+        {
+          "code": "70966",
+          "name": "Turquoise",
+          "rgb": "1B8A9E"
+        },
+        {
+          "code": "70967",
+          "name": "Olive Green",
+          "rgb": "5F882A"
+        },
+        {
+          "code": "70969",
+          "name": "Park Green Flat",
+          "rgb": "15895C",
+          "smooth": 0.0
+        },
+        {
+          "code": "70970",
+          "name": "Deep Green",
+          "rgb": "206843"
+        },
+        {
+          "code": "70971",
+          "name": "Green Grey",
+          "rgb": "AACAB5"
+        },
+        {
+          "code": "70972",
+          "name": "Light Green Blue",
+          "rgb": "6C9B93"
+        },
+        {
+          "code": "70973",
+          "name": "Light Sea Grey",
+          "rgb": "91B5B3"
+        },
+        {
+          "code": "70974",
+          "name": "Green Sky",
+          "rgb": "5BB379"
+        },
+        {
+          "code": "70975",
+          "name": "Military Green",
+          "rgb": "3A5244"
+        },
+        {
+          "code": "70976",
+          "name": "Buff",
+          "rgb": "CECA8B"
+        },
+        {
+          "code": "70977",
+          "name": "Desert Yellow",
+          "rgb": "A68840"
+        },
+        {
+          "code": "70978",
+          "name": "Dark Yellow",
+          "rgb": "938E4A"
+        },
+        {
+          "code": "70979",
+          "name": "German Cam. Dark Green",
+          "rgb": "2C4541"
+        },
+        {
+          "code": "70980",
+          "name": "Black Green",
+          "rgb": "20403B"
+        },
+        {
+          "code": "70981",
+          "name": "Orange Brown",
+          "rgb": "B0623B"
+        },
+        {
+          "code": "70982",
+          "name": "Cavalry Brown",
+          "rgb": "7E333A"
+        },
+        {
+          "code": "70983",
+          "name": "Flat Earth",
+          "rgb": "7B5934",
+          "smooth": 0.0
+        },
+        {
+          "code": "70984",
+          "name": "Flat Brown",
+          "rgb": "6B3D3D",
+          "smooth": 0.0
+        },
+        {
+          "code": "70985",
+          "name": "Hull Red",
+          "rgb": "482424"
+        },
+        {
+          "code": "70986",
+          "name": "Deck Tan",
+          "rgb": "BAC7AD"
+        },
+        {
+          "code": "70987",
+          "name": "Medium Grey",
+          "rgb": "899879"
+        },
+        {
+          "code": "70988",
+          "name": "Khaki",
+          "rgb": "898B59"
+        },
+        {
+          "code": "70989",
+          "name": "Sky Grey",
+          "rgb": "B0B6B2"
+        },
+        {
+          "code": "70990",
+          "name": "Light Grey",
+          "rgb": "909790"
+        },
+        {
+          "code": "70991",
+          "name": "Dark Sea Grey",
+          "rgb": "747673"
+        },
+        {
+          "code": "70992",
+          "name": "Neutral Grey",
+          "rgb": "5C7176"
+        },
+        {
+          "code": "70993",
+          "name": "White Grey",
+          "rgb": "EAECEB"
+        },
+        {
+          "code": "70994",
+          "name": "Dark Grey",
+          "rgb": "253938"
+        },
+        {
+          "code": "70995",
+          "name": "German Grey Dark",
+          "rgb": "1E2C2C"
+        },
+        {
+          "code": "70996",
+          "name": "Gold (Metallic)",
+          "rgb": "CEB550",
+          "refl": "Metallic"
+        },
+        {
+          "code": "70997",
+          "name": "Silver (Metallic)",
+          "rgb": "C1CDC9",
+          "refl": "Metallic"
+        },
+        {
+          "code": "70998",
+          "name": "Bronze(Metallic)",
+          "rgb": "696536",
+          "refl": "Metallic"
+        },
+        {
+          "code": "70999",
+          "name": "Copper (Metallic)",
+          "rgb": "A84A2E",
+          "refl": "Metallic"
+        },
+        {
+          "code": "70629",
+          "name": "SUN YELLOW (PRIMER)",
+          "rgb": "F89814"
+        },
+        {
+          "code": "70632",
+          "name": "BLOODY RED (PRIMER)",
+          "rgb": "D92227"
         }
       ]
     },
@@ -4575,502 +4426,434 @@
       ]
     },
     {
-      "name": "Game Color Ink",
+      "name": "Surface Primers",
       "type": "Acrylic",
       "colors": [
         {
-          "code": "72085",
-          "name": "Yellow Ink",
-          "rgb": "FED346"
+          "code": "70600",
+          "name": "White (17ml) Primer",
+          "rgb": "FFFFFF"
         },
         {
-          "code": "72086",
-          "name": "Red Ink",
-          "rgb": "E53238"
+          "code": "70601",
+          "name": "Grey (17ml) Primer",
+          "rgb": "B9BDC2"
         },
         {
-          "code": "72087",
-          "name": "Violet Ink",
-          "rgb": "692D85"
+          "code": "70602",
+          "name": "Black (17ml) Primer",
+          "rgb": "000000"
         },
         {
-          "code": "72088",
-          "name": "Blue Ink",
-          "rgb": "004C9A"
+          "code": "70603",
+          "name": "German Panzer Grey (17ml) Primer",
+          "rgb": "3D4047"
         },
         {
-          "code": "72089",
-          "name": "Green Ink",
-          "rgb": "3DAA67"
+          "code": "70604",
+          "name": "German Dark Yellow (17ml) Primer",
+          "rgb": "8B7762"
         },
         {
-          "code": "72090",
-          "name": "Black Green Ink",
-          "rgb": "10644A"
+          "code": "70605",
+          "name": "German Red Brown (17ml) Primer",
+          "rgb": "5C3B39"
         },
         {
-          "code": "72091",
-          "name": "Sepia Ink",
-          "rgb": "9B6F28"
+          "code": "70606",
+          "name": "German Green Brown (17ml) Primer",
+          "rgb": "7D694B"
         },
         {
-          "code": "72092",
-          "name": "Brown Ink",
-          "rgb": "9A632B"
+          "code": "70607",
+          "name": "UK Bronze Green (17ml) Primer",
+          "rgb": "333C3B"
         },
         {
-          "code": "72093",
-          "name": "Skin Wash Ink",
-          "rgb": "C56F18"
+          "code": "70608",
+          "name": "USA Olive Drab (17ml) Primer",
+          "rgb": "5D5C50"
         },
         {
-          "code": "72094",
-          "name": "Black Ink",
-          "rgb": "282722"
+          "code": "70609",
+          "name": "Russian Green 4BO (17ml) Primer",
+          "rgb": "454B42"
+        },
+        {
+          "code": "70610",
+          "name": "Parched Grass (Late) (17ml) Primer",
+          "rgb": "6E664F"
+        },
+        {
+          "code": "70611",
+          "name": "Earth Green (Early) (17ml) Primer",
+          "rgb": "5E5532"
+        },
+        {
+          "code": "70612",
+          "name": "NATO Green (17ml) Primer",
+          "rgb": "435245"
+        },
+        {
+          "code": "70613",
+          "name": "Desert Tan (17ml) Primer",
+          "rgb": "D2BE93"
+        },
+        {
+          "code": "70614",
+          "name": "IDF Israeli Sand Grey (61-73) (17ml) Primer",
+          "rgb": "7F766D"
+        },
+        {
+          "code": "70615",
+          "name": "USN Light Ghost Grey (17ml) Primer",
+          "rgb": "919CA6"
+        },
+        {
+          "code": "70624",
+          "name": "Pure Red (17ml) Primer",
+          "rgb": "E5234A"
+        },
+        {
+          "code": "70625",
+          "name": "Ultramarine (17ml) Primer",
+          "rgb": "343494"
+        },
+        {
+          "code": "70626",
+          "name": "Leather Brown (17ml) Primer",
+          "rgb": "755422"
+        },
+        {
+          "code": "70627",
+          "name": "Skeleton Bone (17ml) Primer",
+          "rgb": "CDC09A"
+        },
+        {
+          "code": "70628",
+          "name": "Plate Mail Metal (17ml) Primer",
+          "rgb": "8C9AA1"
+        },
+        {
+          "code": "73600",
+          "name": "White (60ml) Primer",
+          "rgb": "FFFFFF"
+        },
+        {
+          "code": "73601",
+          "name": "Grey (60ml) Primer",
+          "rgb": "B9BDC2"
+        },
+        {
+          "code": "73602",
+          "name": "Black (60ml) Primer",
+          "rgb": "000000"
+        },
+        {
+          "code": "73603",
+          "name": "German Panzer Grey (60ml) Primer",
+          "rgb": "3D4047"
+        },
+        {
+          "code": "73604",
+          "name": "German Dark Yellow (60ml) Primer",
+          "rgb": "8B7762"
+        },
+        {
+          "code": "73605",
+          "name": "German Red Brown (60ml) Primer",
+          "rgb": "5C3B39"
+        },
+        {
+          "code": "73606",
+          "name": "German Green Brown (60ml) Primer",
+          "rgb": "7D694B"
+        },
+        {
+          "code": "73607",
+          "name": "UK Bronze Green (60ml) Primer",
+          "rgb": "333C3B"
+        },
+        {
+          "code": "73608",
+          "name": "USA Olive Drab (60ml) Primer",
+          "rgb": "5D5C50"
+        },
+        {
+          "code": "73609",
+          "name": "Russian Green 4BO (60ml) Primer",
+          "rgb": "454B42"
+        },
+        {
+          "code": "73610",
+          "name": "Parched Grass (Late) (60ml) Primer",
+          "rgb": "6E664F"
+        },
+        {
+          "code": "73611",
+          "name": "Earth Green (Early) (60ml) Primer",
+          "rgb": "5E5532"
+        },
+        {
+          "code": "73612",
+          "name": "NATO Green (60ml) Primer",
+          "rgb": "435245"
+        },
+        {
+          "code": "73613",
+          "name": "Desert Tan (60ml) Primer",
+          "rgb": "D2BE93"
+        },
+        {
+          "code": "73614",
+          "name": "IDF Israeli Sand Grey (61-73) (60ml) Primer",
+          "rgb": "7F766D"
+        },
+        {
+          "code": "73615",
+          "name": "USN Light Ghost Grey (60ml) Primer",
+          "rgb": "919CA6"
+        },
+        {
+          "code": "73624",
+          "name": "Pure Red (60ml) Primer",
+          "rgb": "E5234A"
+        },
+        {
+          "code": "73625",
+          "name": "Ultramarine (60ml) Primer",
+          "rgb": "343494"
+        },
+        {
+          "code": "73626",
+          "name": "Leather Brown (60ml) Primer",
+          "rgb": "755422"
+        },
+        {
+          "code": "73627",
+          "name": "Skeleton Bone (60ml) Primer",
+          "rgb": "CDC09A"
+        },
+        {
+          "code": "73628",
+          "name": "Plate Mail Metal (60ml) Primer",
+          "rgb": "8C9AA1"
+        },
+        {
+          "code": "73660",
+          "name": "Gloss Black (60ml) Primer",
+          "rgb": "000000"
+        },
+        {
+          "code": "74600",
+          "name": "White (200ml) Primer",
+          "rgb": "FFFFFF"
+        },
+        {
+          "code": "74601",
+          "name": "Grey (200ml) Primer",
+          "rgb": "B9BDC2"
+        },
+        {
+          "code": "74602",
+          "name": "Black (200ml) Primer",
+          "rgb": "000000"
+        },
+        {
+          "code": "74603",
+          "name": "German Panzer Grey (200ml) Primer",
+          "rgb": "3D4047"
+        },
+        {
+          "code": "74604",
+          "name": "German Dark Yellow (200ml) Primer",
+          "rgb": "8B7762"
+        },
+        {
+          "code": "74605",
+          "name": "German Red Brown (200ml) Primer",
+          "rgb": "5C3B39"
+        },
+        {
+          "code": "74606",
+          "name": "German Green Brown (200ml) Primer",
+          "rgb": "7D694B"
+        },
+        {
+          "code": "74607",
+          "name": "UK Bronze Green (200ml) Primer",
+          "rgb": "333C3B"
+        },
+        {
+          "code": "74608",
+          "name": "USA Olive Drab (200ml) Primer",
+          "rgb": "5D5C50"
+        },
+        {
+          "code": "74609",
+          "name": "Russian Green 4BO (200ml) Primer",
+          "rgb": "454B42"
+        },
+        {
+          "code": "74610",
+          "name": "Parched Grass (Late) (200ml) Primer",
+          "rgb": "6E664F"
+        },
+        {
+          "code": "74611",
+          "name": "Earth Green (Early) (200ml) Primer",
+          "rgb": "5E5532"
+        },
+        {
+          "code": "74612",
+          "name": "NATO Green (200ml) Primer",
+          "rgb": "435245"
+        },
+        {
+          "code": "74613",
+          "name": "Desert Tan (200ml) Primer",
+          "rgb": "D2BE93"
+        },
+        {
+          "code": "74614",
+          "name": "IDF Israeli Sand Grey (61-73) (200ml) Primer",
+          "rgb": "7F766D"
+        },
+        {
+          "code": "74615",
+          "name": "USN Light Ghost Grey (200ml) Primer",
+          "rgb": "919CA6"
+        },
+        {
+          "code": "74624",
+          "name": "Pure Red (200ml) Primer",
+          "rgb": "E5234A"
+        },
+        {
+          "code": "74625",
+          "name": "Ultramarine (200ml) Primer",
+          "rgb": "343494"
+        },
+        {
+          "code": "74626",
+          "name": "Leather Brown (200ml) Primer",
+          "rgb": "755422"
+        },
+        {
+          "code": "74627",
+          "name": "Skeleton Bone (200ml) Primer",
+          "rgb": "CDC09A"
+        },
+        {
+          "code": "74628",
+          "name": "Plate Mail Metal (200ml) Primer",
+          "rgb": "8C9AA1"
+        },
+        {
+          "code": "74660",
+          "name": "Gloss Black (200ml) Primer",
+          "rgb": "000000"
+        },
+        {
+          "code": "77660",
+          "name": "Gloss Black (32ml) Primer",
+          "rgb": "000000"
         }
       ]
     },
     {
-      "name": "Game Color Extra Opaque",
+      "name": "Washes",
       "type": "Acrylic",
       "colors": [
         {
-          "code": "72140",
-          "name": "Heavy Skintone Extra Opaque",
-          "rgb": "AD8468"
+          "code": "76501",
+          "name": "White Aluminium Wash",
+          "rgb": "FFFFFF"
         },
         {
-          "code": "72141",
-          "name": "Heavy Red Extra Opaque",
-          "rgb": "8D363C"
+          "code": "76503",
+          "name": "Dark Yellow Wash",
+          "rgb": "DDB008"
         },
         {
-          "code": "72142",
-          "name": "Heavy Violet Extra Opaque",
-          "rgb": "484069"
+          "code": "76505",
+          "name": "Light Rust Wash",
+          "rgb": "F07D29"
         },
         {
-          "code": "72143",
-          "name": "Heavy Blue Extra Opaque",
-          "rgb": "405B78"
+          "code": "76506",
+          "name": "Rust Wash",
+          "rgb": "CB4E19"
         },
         {
-          "code": "72144",
-          "name": "Heavy Bluegrey Extra Opaque",
-          "rgb": "CBCAC8"
+          "code": "76507",
+          "name": "Dark Rust Wash",
+          "rgb": "E7601F"
         },
         {
-          "code": "72145",
-          "name": "Heavy Grey Extra Opaque",
-          "rgb": "707354"
+          "code": "76512",
+          "name": "Dark Green Wash",
+          "rgb": "827B24"
         },
         {
-          "code": "72146",
-          "name": "Heavy Green Extra Opaque",
-          "rgb": "556536"
+          "code": "76513",
+          "name": "Brown Wash",
+          "rgb": "8E4A20"
         },
         {
-          "code": "72147",
-          "name": "Heavy Blackgreen Extra Opaque",
-          "rgb": "3F4843"
+          "code": "76514",
+          "name": "Dark Brown Wash",
+          "rgb": "B09B78"
         },
         {
-          "code": "72148",
-          "name": "Heavy Warmgrey Extra Opaque",
-          "rgb": "AA9C75"
+          "code": "76515",
+          "name": "Light Grey Wash",
+          "rgb": "BFBFBF"
         },
         {
-          "code": "72149",
-          "name": "Heavy Khaki Extra Opaque",
-          "rgb": "B49F50"
+          "code": "76516",
+          "name": "Grey Wash",
+          "rgb": "67676A"
         },
         {
-          "code": "72150",
-          "name": "Heavy Ochre Extra Opaque",
-          "rgb": "AE7727"
+          "code": "76517",
+          "name": "Dark Grey Wash",
+          "rgb": "363327"
         },
         {
-          "code": "72151",
-          "name": "Heavy Goldbrown Extra Opaque",
-          "rgb": "B68646"
-        },
-        {
-          "code": "72152",
-          "name": "Heavy Orange Extra Opaque",
-          "rgb": "EB5E0F"
-        },
-        {
-          "code": "72153",
-          "name": "Heavy Brown Extra Opaque",
-          "rgb": "7B674E"
-        },
-        {
-          "code": "72154",
-          "name": "Heavy Siena Extra Opaque",
-          "rgb": "5E483B"
-        },
-        {
-          "code": "72155",
-          "name": "Heavy Charcoal Extra Opaque",
-          "rgb": "464650"
-        }
-      ]
-    },
-    {
-      "name": "Game Air",
-      "type": "Acrylic",
-      "colors": [
-        {
-          "code": "72701",
-          "name": "Dead White Matt",
-          "rgb": "FFFFFF",
-          "smooth": 0.0
-        },
-        {
-          "code": "72703",
-          "name": "Pale Flesh Matt",
-          "rgb": "FADACF",
-          "smooth": 0.0
-        },
-        {
-          "code": "72704",
-          "name": "Elf Skintone Matt",
-          "rgb": "E7AE83",
-          "smooth": 0.0
-        },
-        {
-          "code": "72705",
-          "name": "Moon Yellow Matt",
-          "rgb": "FCBC03",
-          "smooth": 0.0
-        },
-        {
-          "code": "72706",
-          "name": "Sun Yellow Matt",
-          "rgb": "F6B422",
-          "smooth": 0.0
-        },
-        {
-          "code": "72707",
-          "name": "Gold Yellow Matt",
-          "rgb": "F19901",
-          "smooth": 0.0
-        },
-        {
-          "code": "72708",
-          "name": "Orange Fire Matt",
-          "rgb": "EA632B",
-          "smooth": 0.0
-        },
-        {
-          "code": "72709",
-          "name": "Hot Orange Matt",
-          "rgb": "E64C2A",
-          "smooth": 0.0
-        },
-        {
-          "code": "72710",
-          "name": "Bloody Red Matt",
-          "rgb": "CD3230",
-          "smooth": 0.0
-        },
-        {
-          "code": "72711",
-          "name": "Gory Red Matt",
-          "rgb": "693B3D",
-          "smooth": 0.0
-        },
-        {
-          "code": "72712",
-          "name": "Scarlett Blood Matt",
-          "rgb": "9D112C",
-          "smooth": 0.0
-        },
-        {
-          "code": "72713",
-          "name": "Squid Pink Matt",
-          "rgb": "DA88B8",
-          "smooth": 0.0
-        },
-        {
-          "code": "72714",
-          "name": "Warlord Purple Matt",
-          "rgb": "B0376D",
-          "smooth": 0.0
-        },
-        {
-          "code": "72715",
-          "name": "Hexed Lichen Matt",
-          "rgb": "39373A",
-          "smooth": 0.0
-        },
-        {
-          "code": "72720",
-          "name": "Imperial Blue Matt",
-          "rgb": "04316A",
-          "smooth": 0.0
-        },
-        {
-          "code": "72721",
-          "name": "Magic Blue Matt",
-          "rgb": "036EB6",
-          "smooth": 0.0
-        },
-        {
-          "code": "72722",
-          "name": "Ultramarine Blue Matt",
-          "rgb": "1E5389",
-          "smooth": 0.0
-        },
-        {
-          "code": "72723",
-          "name": "Electric Blue Matt",
-          "rgb": "2D94B3",
-          "smooth": 0.0
-        },
-        {
-          "code": "72728",
-          "name": "Dark Green Matt",
-          "rgb": "274E39",
-          "smooth": 0.0
-        },
-        {
-          "code": "72729",
-          "name": "Sick Green Matt",
-          "rgb": "246B4B",
-          "smooth": 0.0
-        },
-        {
-          "code": "72730",
-          "name": "Goblin Green Matt",
-          "rgb": "6B7344",
-          "smooth": 0.0
-        },
-        {
-          "code": "72732",
-          "name": "Escorpena Green Matt",
-          "rgb": "80AF49",
-          "smooth": 0.0
-        },
-        {
-          "code": "72733",
-          "name": "Light Livery Green Matt",
-          "rgb": "92BD16",
-          "smooth": 0.0
-        },
-        {
-          "code": "72734",
-          "name": "Bonewhite Matt",
-          "rgb": "C3B89C",
-          "smooth": 0.0
-        },
-        {
-          "code": "72735",
-          "name": "Dead Flesh Matt",
-          "rgb": "C8BC8A",
-          "smooth": 0.0
-        },
-        {
-          "code": "72736",
-          "name": "Bronze Fleshtone Matt",
-          "rgb": "EF9849",
-          "smooth": 0.0
-        },
-        {
-          "code": "72740",
-          "name": "Leather Brown Matt",
-          "rgb": "855C26",
-          "smooth": 0.0
-        },
-        {
-          "code": "72741",
-          "name": "Dwarf Skin Matt",
-          "rgb": "D9916B",
-          "smooth": 0.0
-        },
-        {
-          "code": "72743",
-          "name": "Beasty Brown Matt",
-          "rgb": "7A543D",
-          "smooth": 0.0
-        },
-        {
-          "code": "72744",
-          "name": "Dark Fleshtone Matt",
-          "rgb": "5B4746",
-          "smooth": 0.0
-        },
-        {
-          "code": "72745",
-          "name": "Charred Brown Matt",
-          "rgb": "4E4442",
-          "smooth": 0.0
-        },
-        {
-          "code": "72747",
-          "name": "Wolf Grey Matt",
-          "rgb": "ACBDCD",
-          "smooth": 0.0
-        },
-        {
-          "code": "72748",
-          "name": "Sombre Grey Matt",
-          "rgb": "566777",
-          "smooth": 0.0
-        },
-        {
-          "code": "72749",
-          "name": "Stonewall Grey Matt",
-          "rgb": "A1A2A4",
-          "smooth": 0.0
-        },
-        {
-          "code": "72750",
-          "name": "Cold Grey Matt",
-          "rgb": "828385",
-          "smooth": 0.0
-        },
-        {
-          "code": "72751",
-          "name": "Black Matt",
-          "rgb": "010101",
-          "smooth": 0.0
-        },
-        {
-          "code": "72752",
-          "name": "Silver Matt",
-          "rgb": "A7ACB0",
-          "smooth": 0.0
-        },
-        {
-          "code": "72753",
-          "name": "Chainmail Silver Matt",
-          "rgb": "AEAEAE",
-          "smooth": 0.0
-        },
-        {
-          "code": "72754",
-          "name": "Gunmetal Matt",
-          "rgb": "6E6F71",
-          "smooth": 0.0
-        },
-        {
-          "code": "72755",
-          "name": "Polished Gold Matt",
-          "rgb": "EBAD00",
-          "smooth": 0.0
-        },
-        {
-          "code": "72756",
-          "name": "Glorious Gold Matt",
-          "rgb": "C4905E",
-          "smooth": 0.0
-        },
-        {
-          "code": "72757",
-          "name": "Bright Bronze Matt",
-          "rgb": "95664C",
-          "smooth": 0.0
-        },
-        {
-          "code": "72758",
-          "name": "Brassy Brass Matt",
-          "rgb": "A15323",
-          "smooth": 0.0
-        },
-        {
-          "code": "72761",
-          "name": "Khaki Matt",
-          "rgb": "AA9C75",
-          "smooth": 0.0
-        },
-        {
-          "code": "72762",
-          "name": "Earth Matt",
-          "rgb": "7B6848",
-          "smooth": 0.0
-        },
-        {
-          "code": "72763",
-          "name": "Desert Yellow Matt",
-          "rgb": "A8834E",
-          "smooth": 0.0
-        },
-        {
-          "code": "72769",
-          "name": "Flesh Matt",
-          "rgb": "F6BD92",
-          "smooth": 0.0
-        },
-        {
-          "code": "72770",
-          "name": "Burned Flesh Matt",
-          "rgb": "A16541",
-          "smooth": 0.0
-        },
-        {
-          "code": "72771",
-          "name": "Barbarian Flesh Matt",
-          "rgb": "A17C62",
-          "smooth": 0.0
-        },
-        {
-          "code": "72772",
-          "name": "Red Terracotta Matt",
-          "rgb": "79423D",
-          "smooth": 0.0
-        },
-        {
-          "code": "72776",
-          "name": "Alien Purple Matt",
-          "rgb": "6D62A6",
-          "smooth": 0.0
-        }
-      ]
-    },
-    {
-      "name": "Game Color Washes",
-      "type": "Acrylic",
-      "colors": [
-        {
-          "code": "73200",
-          "name": "Sepia Wash",
-          "rgb": "7F561B"
-        },
-        {
-          "code": "73201",
+          "code": "76518",
           "name": "Black Wash",
           "rgb": "231F20"
         },
         {
-          "code": "73202",
-          "name": "Pale Grey Wash",
-          "rgb": "BFC0C3"
+          "code": "76519",
+          "name": "Olive Green Wash",
+          "rgb": "00301C"
         },
         {
-          "code": "73203",
-          "name": "Umber Wash",
-          "rgb": "684F40"
+          "code": "76520",
+          "name": "Dark Khaki Green Wash",
+          "rgb": "7F5E38"
         },
         {
-          "code": "73204",
-          "name": "Flesh Wash",
-          "rgb": "AF6F65"
+          "code": "76521",
+          "name": "Oiled Earth Wash",
+          "rgb": "6B5448"
         },
         {
-          "code": "73205",
-          "name": "Green Wash",
-          "rgb": "65B561"
+          "code": "76522",
+          "name": "Desert Dust Wash",
+          "rgb": "D3B377"
         },
         {
-          "code": "73206",
-          "name": "Red Wash",
-          "rgb": "D15880"
+          "code": "76523",
+          "name": "European Dust Wash",
+          "rgb": "7C5331"
         },
         {
-          "code": "73207",
-          "name": "Blue Wash",
-          "rgb": "005595"
+          "code": "76524",
+          "name": "Blue Grey Wash",
+          "rgb": "456F8C"
         }
       ]
     },
@@ -5221,43 +5004,194 @@
       ]
     },
     {
-      "name": "Game Color Effects",
+      "name": "Xpress Color",
       "type": "Acrylic",
       "colors": [
         {
-          "code": "72130",
-          "name": "Rotten White Effect",
-          "rgb": "EFEDEE"
+          "code": "72401",
+          "name": "Templar White",
+          "rgb": "A7ADAB"
         },
         {
-          "code": "72131",
-          "name": "Rust Effect",
-          "rgb": "E45314"
+          "code": "72402",
+          "name": "Dwarf Skin",
+          "rgb": "87402F"
         },
         {
-          "code": "72132",
-          "name": "Fresh Blood Effect",
-          "rgb": "7E2B1B"
+          "code": "72403",
+          "name": "Imperial Yellow",
+          "rgb": "F6A32F"
         },
         {
-          "code": "72133",
-          "name": "Dried Blood Effect",
-          "rgb": "622A1D"
+          "code": "72404",
+          "name": "Nuclear Yellow",
+          "rgb": "DE9610",
+          "alpha": 0.2
         },
         {
-          "code": "72134",
-          "name": "Vomit Effect",
-          "rgb": "847C33"
+          "code": "72405",
+          "name": "Martian Orange",
+          "rgb": "CE4A19"
         },
         {
-          "code": "72135",
-          "name": "Verdigris Effect",
-          "rgb": "91CBCC"
+          "code": "72406",
+          "name": "Plasma Red",
+          "rgb": "A92823"
         },
         {
-          "code": "72136",
-          "name": "Dry Rust Effect",
-          "rgb": "5F322D"
+          "code": "72407",
+          "name": "Velvet Red",
+          "rgb": "79272B"
+        },
+        {
+          "code": "72408",
+          "name": "Cardinal Purple",
+          "rgb": "C81927"
+        },
+        {
+          "code": "72409",
+          "name": "Deep Purple",
+          "rgb": "6E2A41"
+        },
+        {
+          "code": "72410",
+          "name": "Gloomy Violet",
+          "rgb": "413063"
+        },
+        {
+          "code": "72411",
+          "name": "Mystic Blue",
+          "rgb": "004C89"
+        },
+        {
+          "code": "72412",
+          "name": "Storm Blue",
+          "rgb": "323774"
+        },
+        {
+          "code": "72413",
+          "name": "Omega Blue",
+          "rgb": "373155"
+        },
+        {
+          "code": "72414",
+          "name": "Caribbean Turquoise",
+          "rgb": "006167"
+        },
+        {
+          "code": "72415",
+          "name": "Orc Skin",
+          "rgb": "5F7630"
+        },
+        {
+          "code": "72416",
+          "name": "Troll Green",
+          "rgb": "005D31"
+        },
+        {
+          "code": "72417",
+          "name": "Snake Green",
+          "rgb": "006045"
+        },
+        {
+          "code": "72418",
+          "name": "Lizard Green",
+          "rgb": "233E2F"
+        },
+        {
+          "code": "72419",
+          "name": "Plaque Green",
+          "rgb": "585834"
+        },
+        {
+          "code": "72420",
+          "name": "Wasteland Brown",
+          "rgb": "684525"
+        },
+        {
+          "code": "72421",
+          "name": "Copper Brown",
+          "rgb": "542C24"
+        },
+        {
+          "code": "72422",
+          "name": "Space Grey",
+          "rgb": "2E595F"
+        },
+        {
+          "code": "72423",
+          "name": "Black Lotus",
+          "rgb": "2C2422"
+        },
+        {
+          "code": "72448",
+          "name": "Medium Xpress",
+          "rgb": "FFFBF8"
+        },
+        {
+          "code": "72449",
+          "name": "Mummy White",
+          "rgb": "D8BFA0"
+        },
+        {
+          "code": "72450",
+          "name": "Bag of Bones",
+          "rgb": "C8AA76"
+        },
+        {
+          "code": "72452",
+          "name": "Rotten Flesh",
+          "rgb": "927E43"
+        },
+        {
+          "code": "72456",
+          "name": "Wicked Purple",
+          "rgb": "776768"
+        },
+        {
+          "code": "72460",
+          "name": "Twilight Rose",
+          "rgb": "A3666D"
+        },
+        {
+          "code": "72461",
+          "name": "Vampiric Purple",
+          "rgb": "4F2759"
+        },
+        {
+          "code": "72462",
+          "name": "Starship Steel",
+          "rgb": "668588"
+        },
+        {
+          "code": "72465",
+          "name": "Forest Green",
+          "rgb": "07612D"
+        },
+        {
+          "code": "72471",
+          "name": "Tanned Skin",
+          "rgb": "753E2E"
+        },
+        {
+          "code": "72474",
+          "name": "Willow Bark",
+          "rgb": "4B392D"
+        },
+        {
+          "code": "72475",
+          "name": "Muddy Ground",
+          "rgb": "472E28"
+        },
+        {
+          "code": "72476",
+          "name": "Greasy Black",
+          "rgb": "443C39"
+        },
+        {
+          "code": "72478",
+          "name": "Phoenix Orange",
+          "rgb": "D25914"
         }
       ]
     }
