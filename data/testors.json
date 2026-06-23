@@ -3,8 +3,9 @@
   "id": "testors",
   "title": "Testors",
   "desc": "Enamel & Acrylic",
-  "version": 1,
+  "version": 2,
   "brand": "Testors",
+  "discontinued": true,
   "groups": [
     {
       "name": "Model Master Enamel",

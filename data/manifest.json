@@ -54,9 +54,10 @@
       "id": "testors",
       "title": "Testors",
       "desc": "Enamel & Acrylic",
-      "version": 1,
+      "version": 2,
       "colorCount": 337,
-      "file": "testors.json"
+      "file": "testors.json",
+      "discontinued": true
     },
     {
       "id": "army-painter-fanatic",

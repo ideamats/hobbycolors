@@ -63,6 +63,19 @@ body {
 }
 .lib-item:hover { background: var(--panel-2); }
 .lib-item.active { background: var(--accent); color: #0d1116; font-weight: 600; }
+.lib-badge {
+  display: inline-block;
+  font-size: 9px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  padding: 1px 5px;
+  border-radius: 6px;
+  background: #5a3a1a;
+  color: #f0c79a;
+  vertical-align: middle;
+}
+.lib-item.active .lib-badge { background: rgba(0,0,0,0.25); color: #2a1c0a; }
 .lib-item .lib-count { font-size: 11px; opacity: 0.7; }
 .lib-item.active .lib-count { opacity: 0.85; }
 .lib-sep { height: 1px; background: #2c313a; margin: 6px 4px; }

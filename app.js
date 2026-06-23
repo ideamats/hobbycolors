@@ -60,16 +60,23 @@ function buildLibraryList() {
   sep.className = "lib-sep";
   els.libraryList.appendChild(sep);
   for (const lib of state.manifest.libraries) {
-    els.libraryList.appendChild(libButton(lib.id, lib.title, lib.colorCount));
+    els.libraryList.appendChild(libButton(lib.id, lib.title, lib.colorCount, lib.discontinued));
   }
 }
 
-function libButton(id, title, count) {
+function libButton(id, title, count, discontinued) {
   const btn = document.createElement("button");
   btn.className = "lib-item";
   btn.dataset.id = id;
   btn.innerHTML = '<span class="lib-title"></span>';
   btn.querySelector(".lib-title").textContent = title;
+  if (discontinued) {
+    const badge = document.createElement("span");
+    badge.className = "lib-badge";
+    badge.textContent = "Discontinued";
+    btn.querySelector(".lib-title").appendChild(document.createTextNode(" "));
+    btn.querySelector(".lib-title").appendChild(badge);
+  }
   if (count != null) {
     const c = document.createElement("span");
     c.className = "lib-count";
